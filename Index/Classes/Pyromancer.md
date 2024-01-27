@@ -1,0 +1,60 @@
+> _Through the darkness of future past,
+> the magician longs to see. 
+> One chants out between two worlds: 
+> **Fire walk with me.**_
+
+When the lands were under the Great Frost, the pyromancers kept fire alive and brought light and warmth to desperate townships. Now, with their order no longer crucial, they are outcasts, mercenaries - or worse.
+## Class Features
+**Hit Dice:** d6
+**Magic Dice per level:** 1
+**Armor:** Leather
+**Weapons:** Axe, dagger, hand axe, short spear, spear, sword
+**Magic items:** Fire-related wands and staves
+### Equipment
+You start with the following equipment:
+- Censer (protects fire from wind and rain)
+- Leather armor
+- A weapon of your choice
+## Signature Talent: Shape Fire
+You can hold fire in your hands and make it grow or shrink. You can also spread the fire through you to another object or creature. Items that normally don’t catch fire remain on fire as long as you concentrate on the spell. The fire deals 1 MD damage every round at the start of their turn, and any wounds dealt with a fiery object also grant a Burn Wound. The fire doesn’t hurt you.
+
+Maximum size of the fire:
+
+1d: Embers
+2d: Campfire
+3d: Bonfire
+4d: Dragon’s breath
+
+## Talents
+When you gain a new Talent, choose one from this list. All these abilities are Spells.
+
+### **Throw fire**
+Any fire you hold with Shape Fire can be thrown to Near. When used as an attack, add (sum) damage on hit.
+
+Range: Near (1d), Short (2d), Medium (3d), Long (4d)
+
+### Engulf
+You can engulf yourself in flames, burning everything in Melee distance around you. The fire doesn’t hurt you. Roll once against all creatures in Melee range. Treat their Defense as 10, but add any shield bonuses. Add (sum) damage on hits.
+
+### Visions in flame
+Duration: concentration up to (sum) hours
+
+Peering through a fire, you can sense all other fires within range. You can see through any of these fires as if you were standing in it, but you become blind to anything you don’t see in the fire. For each additional MD spent, add another sense, or speak through the fire.
+
+### Ancient flame
+Cast upon ashes to determine what they were before they were burnt. You can see what happened in the (sum) rounds before the object caught fire. (dice) determines how old the ashes can be:
+
+1d: a day
+2d: a week
+3d: a year
+4d: a decade
+
+### Unburn
+Duration: concentration up to (sum) minutes
+
+Cause a burnt item up to (dice) size to become whole again in (dice) rounds. Target will burn again once you stop concentrating.
+
+1d: Tiny
+2d: Small
+3d: Large
+4d: Huge
