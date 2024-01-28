@@ -22,3 +22,20 @@ Hearing sounds beyond a door requires a successful Instinct check. Only one atte
 Characters may search a 10x10 foot area secret doors. If they're searching in the right place, they can make an Intelligence check to find the door.
 
 ## Movement
+The character's movement speed in the dungeon assumes that they are moving carefully, exploring, and mapping. When moving through familiar areas, they may move three times faster.
+
+## Resting
+Every six turns, the party has to spend a turn to rest, or suffer a -1 penalty to all combat rolls.
+
+## Traps
+There are two kinds of traps:
+- Room traps
+- Treasure traps
+
+Characters have a 2-in-6 chance of triggering a trap when they take an action that could trigger it.
+
+## Searching for traps
+Room traps can be found with a successful Intellect check. Treasure traps require a successful Burglary skill.
+
+## Wandering monsters
+The GM rolls for wandering monsters every second dungeon turn. The chance is usually 1-in-6. Monsters are 2d6x10 feet away. Roll a d8 to decide the direction, where 1 is north, 2 is north east, 3 is east, etc.
