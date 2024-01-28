@@ -20,7 +20,7 @@ If you don't have the skill, you will most often not be able to attempt it. The 
 | Name | Description |
 | ---- | ---- |
 | Arcana | Decipher arcane scrolls and spell books. |
-| Burglary | Pick locks, find and disable traps. Requires thieves' tools. |
+| Burglary | Pick locks, find and disable traps. Lockpicking requires lockpicks. Disabling traps usually requires certain tools, depending on the trap. |
 | Legerdemain | Pick pockets and perform sleights of hand |
 | Lore | Recall information about monsters, magic items, and history |
 | Language† | Your knowledge of a language, verbal and written. Apprentice: Broken speech. Journeyman: Basic knowledge and literacy. Expert: Understand most of the language, speak with an accent. Master: Full knowledge, speak as native. |

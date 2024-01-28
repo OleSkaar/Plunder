@@ -62,7 +62,8 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 | Large galley | 30000 |  |
 | Crowbar | 15 | Grants advantage on opening doors |
 | Ear trumpet | 50 | Grants advantage on listening at doors |
-| Thieves' tools | 100 | Required for most Burglary checks |
+| Lockpicks | 100 | Required to pick locks |
+| Toolkit | 50 | Contains scissors, pliers, a small file, and a small mirror mounted on a 1-foot long handle. |
 ## Weapons
 | Name | Defense | Properties | Attacks |
 | ---- | ---- | ---- | ---- |

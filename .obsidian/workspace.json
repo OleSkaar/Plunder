@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Index/Dungeon adventuring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81c16fd4c9af669a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Index/Equipment.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index/Equipment.md",
+                "file": "Index/Dungeon adventuring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index/Equipment.md",
+                "file": "Index/Dungeon adventuring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index/Equipment.md"
+                "file": "Index/Dungeon adventuring.md"
               }
             }
           }
@@ -148,27 +160,28 @@
   },
   "active": "bf608fb39ec151e5",
   "lastOpenFiles": [
+    "Index/Classes/Thief.md",
+    "Index/Equipment.md",
+    "Index/Dungeon adventuring.md",
+    "Index/Combat.md",
+    "Index/Skills.md",
+    "Index/Ability targets.md",
     "Index/Inventory.md",
     "Index/Spellcasting.md",
     "Index/Wounds.md",
-    "Index/Combat.md",
-    "Index/Skills.md",
     "Index/Kin.md",
     "Index/Classes/Wizard.md",
-    "Index/Classes/Thief.md",
     "Index/Classes/Swashbuckler.md",
     "Index/Classes/Ranger.md",
     "Index/Classes/Pyromancer.md",
     "Index/Classes/Paragon.md",
     "Index/Classes/Berserker.md",
     "Index/Progression.md",
-    "Index/Ability targets.md",
     "Index/Character creation.md",
     "Index/Action resolution.md",
     "Index/Glossary.md",
     "Images/Human.jpeg",
     "Index/Advancement.md",
-    "Index/Equipment.md",
     "Index/Plunder.md",
     "New Text Document.txt",
     "Plunder",

@@ -14,7 +14,8 @@ You start with the following equipment:
 
 - Leather armor
 - Two daggers or a sword and a dagger
-- Thieves’ tools
+- Lockpicks
+- Toolkit
 
 ## Signature Talent: Cunning Action
 
