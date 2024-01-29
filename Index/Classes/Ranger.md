@@ -2,7 +2,7 @@ Part of a loose confederation of warriors who keep the forces of darkness at bay
 ## Class Features
 **Hit Dice:** d6
 **Armor:** Leather, chain
-**Weapons:** All axes, swords, spears, quarterstaff, shield, all bows, sling
+**Weapons:** All axes, swords, spears, quarterstaff, shield, unarmed, all bows, sling
 ### Skills
 - Apprentice Survival
 - Master Language (any)

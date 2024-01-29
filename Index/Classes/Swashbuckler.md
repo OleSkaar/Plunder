@@ -3,7 +3,7 @@ Death is not an uncommon sight in the great city states of the Screaming Sea. Of
 
 **Hit Dice:** d6
 **Armor:** Leather, chain
-**Weapons:** All swords, quarterstaff, improvised weapons
+**Weapons:** All swords, quarterstaff, improvised weapons, unarmed
 ### Starting skills
 - Apprentice Legerdemain
 ### Equipment

@@ -2,7 +2,7 @@ Fierce warriors from the mountains who take on the strengths of beasts. Folk fro
 ## Class Features
 **Hit Dice:** d8
 **Armor:** None
-**Weapons:** All axes, swords, and spears
+**Weapons:** All axes, swords, and spears, unarmed
 ### Skills
 * Apprentice Survival
 ### Equipment

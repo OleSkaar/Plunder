@@ -4,7 +4,7 @@ In the city states, the guilds ensure that their profession is tightly controlle
 
 **Hit Dice:** d4
 **Armor:** Leather
-**Weapons:** Dagger, hand axe, short bow, sling
+**Weapons:** Dagger, hand axe, unarmed, short bow, sling
 
 ### Skills
 - Apprentice Burglary

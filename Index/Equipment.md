@@ -99,6 +99,14 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 | Armor Crushing | This weapon does +3 damage vs. heavy armor and +1 vs medium armor on a hit. |
 | Heavy | This item takes two slots. |
 
+# **Stab**
+| Name | Description |
+| ---- | ---- |
+| Slash | When you score a Wound with this weapon, roll twice on the Wound table and apply both wounds. |
+| Stab | If your opponent is Prone and unarmed or Grappling, you can attempt to Stab through gaps in their armor. Make the attack with disadvantage. If it hits, ignore your opponent’s Wound protection. |
+| Slam | If the Wound would grant the Bleeding condition, it instead grants the Dazed condition. |
+| Shoot |  |
+
 ## Armor
 Wearing armor has two benefits:
 

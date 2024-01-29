@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/Treasure and XP.md",
+                "file": "Index/Classes/Thief.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/Inventory.md",
+                "file": "Index/Wounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index/Inventory.md",
+                "file": "Index/Wounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index/Inventory.md",
+                "file": "Index/Wounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index/Inventory.md"
+                "file": "Index/Wounds.md"
               }
             }
           }
@@ -221,33 +221,33 @@
   },
   "active": "fea041f087e2f85e",
   "lastOpenFiles": [
-    "Index/Dungeon adventuring.md",
-    "Index/Conditions.md",
-    "Index/Combat.md",
-    "Index/Rest and healing.md",
-    "Index/Treasure and XP.md",
-    "Index/Town services.md",
-    "Index/Saving throws.md",
-    "Index/Classes/Thief.md",
     "Index/Equipment.md",
-    "Index/Skills.md",
-    "Index/Ability targets.md",
-    "Index/Inventory.md",
-    "Index/Spellcasting.md",
+    "Index/Combat.md",
     "Index/Wounds.md",
-    "Index/Kin.md",
+    "Index/Inventory.md",
+    "Index/Conditions.md",
+    "Index/Monsters.md",
+    "Index/Ability targets.md",
+    "Index/Character creation.md",
+    "Index/Classes/Thief.md",
     "Index/Classes/Wizard.md",
     "Index/Classes/Swashbuckler.md",
     "Index/Classes/Ranger.md",
     "Index/Classes/Pyromancer.md",
     "Index/Classes/Paragon.md",
     "Index/Classes/Berserker.md",
+    "Index/Treasure and XP.md",
+    "Index/Dungeon adventuring.md",
+    "Index/Rest and healing.md",
+    "Index/Town services.md",
+    "Index/Saving throws.md",
+    "Index/Skills.md",
+    "Index/Spellcasting.md",
+    "Index/Kin.md",
     "Index/Progression.md",
-    "Index/Character creation.md",
     "Index/Action resolution.md",
     "Index/Glossary.md",
     "Images/Human.jpeg",
-    "Index/Advancement.md",
     "New Text Document.txt",
     "Plunder",
     "Index/Classes",

@@ -1,8 +1,8 @@
+- **Bleeding out**: A character who is Bleeding out gains 1 level of exhaustion every round unless pressure is applied to the wound. Remove by applying a bandage.
 - **Prone**: Melee attackers have advantage, ranged attackers have disadvantage against a prone creature. Prone creatures also have disadvantage on attacks. Getting up takes a move action. When getting up, roll a Dexterity check and add the highest Defense of adjacent opponents. Failure means taking damage equal to the margin of failure.
 - **Ear disabled:** You have disadvantage on any checks that rely on hearing.
 - **Nose disabled**: You are unable to smell.
 - **Jaw disabled**: You are unable to speak discernably, though you can yell.
-- **Bleeding out**: A character who is Bleeding out gains 1 level of exhaustion every round unless pressure is applied to the wound. Remove by applying a bandage.
 - **Grappling:** A creature with this condition can't use their Defense bonus, can’t take move actions, and have disadvantage on weapon attacks.
 - **Dazed:** Attacks against you have advantage.
 
