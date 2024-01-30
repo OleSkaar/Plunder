@@ -63,6 +63,10 @@ Str 13, Dex 16, Int 17, Ins 15, Cou 18, Cun 15
 ML 6 (8 with leader), AL C, XP 10 (leader 10, chieftain 75), NA 2d4 (1d6x10), TT D
 
 ### Skeleton
+DF +2, AR 0, HD 1d8, AT 10, axe or handaxe/club and shield, MV 60ft,
+Str 15, Dex 15, Int 20, Ins 17, Cou 20, Cun 20
+ML 12, AL CC, XP 10, NA 3d4 (3d10), TT None
+
 ### Fire Beetle
 ### Ogre
 ### Bear
