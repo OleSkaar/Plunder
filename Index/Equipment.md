@@ -78,6 +78,7 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 | Spear | +6 | Reach, Versatile | Stab |
 | Sword | +4 | Light | Slash, Stab |
 | Shield | +1 | Bull Rush | Slam |
+| Club | +1 |  | Slam |
 
 ## Ranged Weapons
 | Name | Defense | Properties | Range | Attacks |
@@ -123,6 +124,6 @@ Armor also provides protection against Wounds. When you would suffer a Wound, su
 | ---- | ---- | ---- | ---- |
 | Leather | 3 | +1 | 1 |
 | Chain | 5 | +2 | 1 |
-| Scale | 10 | +4 | 2 |
+| Scale | 8 | +4 | 2 |
 ### Optional: Armor sets
 Only a complete set of armor grants the HP bonus. However, individual pieces grant crit protection where they are worn (such as a helmet protecting the head).
