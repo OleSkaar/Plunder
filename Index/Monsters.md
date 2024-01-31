@@ -68,8 +68,25 @@ Str 15, Dex 15, Int 20, Ins 17, Cou 20, Cun 20
 ML 12, AL CC, XP 10, NA 3d4 (3d10), TT None
 
 ### Fire Beetle
+DF +2 AR 2, HD 1d8+2, AT 9, bite, MV 120ft
+Str 13, Dex 16, Int 20, Ins 15, Cou 20, Cun 19
+ML 7, AL N, XP 15, NA 1d8 (2d6), TT None
 ### Ogre
+DF +3, AR +1, HD 4d8+5, AT +4, club +1 dmg, MV 90ft
+Str 10, Dex 16, Int 18, Ins 15, Cou 15, Cun 18
+ML 10, AL C, XP 125, NA 1d6 (2d6), TT C + 1000gp
+
 ### Bear
+DF +3, AR 0, HD 4d8, AT +3, 2x claw (1d3) + bite, MV 120ft
+Str 12, Dex 15, Int 20, Ins 13, Cou 18, Cun 15
+ML 7, AL N, XP 75, NA 1d4 (1d4),  TT U
+
 ### Basilisk
+DF +2, AR 3, HD 6d8+18, AT +6,  bite + petrification + gaze (petrification), MV 60ft
+Str 10, Dex 14, Int 18, Ins 14, Cou 18, Cun 15
+ML 9, AL N, XP 950, NA 1d6 (1d6), TT F
 
 ### Gelatinous Cube
+DF 0, AR 0, HD 4d8, AT +3 touch + paralysis, MV 60ft,
+Str 18, Dex 18, In 20, Ins 18, Cou 20, Cun 15
+ML 12, AL N, XP 125, NA 1 (0), TT V
