@@ -1,7 +1,7 @@
 #import "@preview/cmarker:0.1.1"
 
 #[
-  #set align(center)
+  #set align(center + horizon)
 
   #text(font: "OpenDyslexic", size: 40pt)[= Plunder]
   
