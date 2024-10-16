@@ -25,3 +25,5 @@
 #cmarker.render(read("./Index/Features.md"))
 
 #set page(columns: 2)
+
+#cmarker.render(read("./Index/Glossary.md"))
