@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/Monsters.md",
+                "file": "Index/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index/Monsters.md",
+                "file": "Index/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index/Monsters.md",
+                "file": "Index/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index/Monsters.md"
+                "file": "Index/Intro.md"
               }
             }
           }
@@ -239,8 +239,10 @@
   },
   "active": "104ed851ef1f7624",
   "lastOpenFiles": [
-    "Index/Equipment.md",
+    "Index/Features.md",
+    "Features.md",
     "Index/Monsters.md",
+    "Index/Equipment.md",
     "Index/Ability targets.md",
     "Index/Treasure and XP.md",
     "Index/Wounds.md",
@@ -263,8 +265,6 @@
     "Index/Spellcasting.md",
     "Index/Kin.md",
     "Index/Progression.md",
-    "Index/Action resolution.md",
-    "Index/Glossary.md",
     "Images/Human.jpeg",
     "New Text Document.txt",
     "Plunder",
