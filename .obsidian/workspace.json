@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index/Intro.md",
+                "file": "Index/Ability targets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index/Intro.md",
+                "file": "Index/Ability targets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index/Intro.md"
+                "file": "Index/Ability targets.md"
               }
             }
           }
@@ -237,13 +237,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "104ed851ef1f7624",
+  "active": "fea041f087e2f85e",
   "lastOpenFiles": [
+    "Index/Ability target tables/Cunning.csv",
+    "Index/Ability target tables/New Text Document.txt",
+    "Index/Ability target tables/Courage.csv",
+    "Index/Ability target tables/Instinct.csv",
+    "Index/Ability target tables/Intelligence.csv",
+    "Index/Intro.md",
+    "Index/Ability target tables/Strength.md",
+    "Index/Ability target tables/Strength.csv",
+    "Index/Ability target tables/Dexterity.csv.md",
+    "Index/Ability target tables/Dexterity.csv",
+    "Index/Ability targets.md",
+    "Index/Ability target tables",
     "Index/Features.md",
     "Features.md",
     "Index/Monsters.md",
     "Index/Equipment.md",
-    "Index/Ability targets.md",
     "Index/Treasure and XP.md",
     "Index/Wounds.md",
     "Index/Combat.md",
@@ -261,17 +272,11 @@
     "Index/Rest and healing.md",
     "Index/Town services.md",
     "Index/Saving throws.md",
-    "Index/Skills.md",
-    "Index/Spellcasting.md",
-    "Index/Kin.md",
-    "Index/Progression.md",
     "Images/Human.jpeg",
     "New Text Document.txt",
     "Plunder",
     "Index/Classes",
     "Pasted image 20240121160344.jpg",
-    "Images",
-    "Index",
     "Untitled.canvas"
   ]
 }
