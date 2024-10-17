@@ -1,4 +1,5 @@
 #import "@preview/cmarker:0.1.1"
+#import "@preview/tablem:0.1.0": tablem
 
 #[
   #set align(center + horizon)
@@ -26,4 +27,15 @@
 
 #set page(columns: 2)
 
+= Glossary
 #cmarker.render(read("./Index/Glossary.md"))
+
+#pagebreak()
+
+= Character Creation
+#cmarker.render((read("./Index/Character creation.md")))
+
+#pagebreak()
+
+= Ability Targets
+#cmarker.render(((read("./Index/Ability targets.md"))))
