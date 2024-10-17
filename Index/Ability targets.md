@@ -40,6 +40,16 @@ To determine your character's abilities, go through each category and do the fol
     )
   }
 )
+
+#let intTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (auto, auto, auto, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
 -->
 
 <!--raw-typst 
@@ -101,7 +111,7 @@ Precision, speed, and technique.
 Logic, reasoning, and the arcane arts.
 
 <!--raw-typst 
-#abilityTable[
+#intTable[
 | *Int* | *Save* | *Magic* | *Skills*                                                                       |
 | ------- | ------------ | ------------ | ---------------------------------------------------------------------------- |
 | 18      | 16           | 13           | Apprentice Language (native)                                                       |

@@ -15,6 +15,6 @@ A measure of an item's durability. Each item can take up to three Notches. An it
 ## Target Number
 This is a number from 1-20 which determines how likely you are to succeed on a task of average difficulty. To see if you succeed, roll a d20. If you roll equal to or higher than the target number, you succeed.
 
-For example, Torbane the berserker has a Strength target of 8. To force open a stuck door, a task of average difficulty, he needs to roll 8 or higher on a d20.
+For example, Torbane the berserker has a Strength target of 14. To force open a stuck door, a task of average difficulty, he needs to roll 14 or higher on a d20.
 ## Wound
 A physical wound suffered by the character, which has a negative effect depending on hit location and severity. Each Wound takes up an inventory slot. Healing a Wound requires a long rest.

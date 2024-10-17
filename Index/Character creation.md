@@ -5,7 +5,7 @@ There are four steps to creating a character:
 3. Choose your kin
 4. Choose your origin
 
-### 1. Ability targets
+## 1. Ability targets
 Innate abilities that define a character. Defined in opposition to each other at character creation. Characters are typically good at one or the other, but not both.
 ## 2. Class
 Your chosen adventuring profession. Class determines Hit Points, Hit Dice, starting talents, and equipment.

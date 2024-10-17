@@ -5,10 +5,10 @@
 
 When the lands were under the Great Frost, the pyromancers kept fire alive and brought light and warmth to desperate townships. Now, with their order no longer crucial, they are outcasts, mercenaries - or worse.
 ## Class Features
-**Hit Dice:** d6
-**Magic Dice per level:** 1
-**Armor:** Leather
-**Weapons:** Axe, dagger, hand axe, short spear, spear, sword
+**Hit Dice:** d6\
+**Magic Dice per level:** 1\
+**Armor:** Leather\
+**Weapons:** Axe, dagger, hand axe, short spear, spear, sword\
 **Magic items:** Fire-related wands and staves
 ### Equipment
 You start with the following equipment:

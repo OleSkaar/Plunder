@@ -1,8 +1,8 @@
 Death is not an uncommon sight in the great city states of the Screaming Sea. Often, it’s at the hands of swashbucklers - fearless, dashing duelists, always looking to prove themselves in a fight.
 ## Class Features
 
-**Hit Dice:** d6
-**Armor:** Leather, chain
+**Hit Dice:** d6\
+**Armor:** Leather, chain\
 **Weapons:** All swords, quarterstaff, improvised weapons, unarmed
 ### Starting skills
 - Apprentice Legerdemain

@@ -1,7 +1,7 @@
 Part of a loose confederation of warriors who keep the forces of darkness at bay, rangers are nevertheless often mistrusted by villagers. They are often said to be in league with witches and beasts.
 ## Class Features
-**Hit Dice:** d6
-**Armor:** Leather, chain
+**Hit Dice:** d6\
+**Armor:** Leather, chain\
 **Weapons:** All axes, swords, spears, quarterstaff, shield, unarmed, all bows, sling
 ### Skills
 - Apprentice Survival
@@ -27,20 +27,52 @@ At level 5, you can have any number of companions with total HD up to your HD.
 ### The Seven Secrets of Herblore
 Craft useful ointments from herbs found in nature. When you are in one of these locations, you know where to look for these herbs, using Survival. Gain a number of uses of each herb equal to the margin of success. The GM may add a difficulty modifier if growth is sparse in the area.
 
-|Herb|Location|
-|---|---|
-|Wolvesbane|Mountaintop, cliffs |
-|Mirrorroot|Over stalagmites and under stalactites |
-|Blood moss|Sinkholes, predator lairs|
-|Belladonna|Waterfalls, underground streams|
-|Hemlock|Graveyards|
-|Ramson (garlic)|Forest clearings|
-|Corpsebloom|Sarcophagi, long-dead corpses|
-|King’s foil|Forest clearings|
+<!--raw-typst 
+#import "@preview/tablem:0.1.0": tablem
+
+#let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+
+#let herbTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (1fr, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+
+#let ointmentTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (1fr, 1fr, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+
+#herbTable[
+|*Herb*|*Location*|
+  |---|---|
+  |Wolvesbane|Mountaintop, cliffs |
+  |Mirrorroot|Over stalagmites and under stalactites |
+  |Blood moss|Sinkholes, predator lairs|
+  |Belladonna|Waterfalls, underground streams|
+  |Hemlock|Graveyards|
+  |Ramson (garlic)|Forest clearings|
+  |Corpsebloom|Sarcophagi, long-dead corpses|
+  |King’s foil|Forest clearings|
+]
+-->
+
+<!--raw-typst 
+#import "@preview/tablem:0.1.0": tablem
 
 These herbs can be combined to create these ointments:
 
-|Ointment|Effect|Herbs|
+#ointmentTable[
+|*Ointment*|*Effect*|*Herbs*|
 |---|---|---|
 |Poultice|Grants auto success on one Recovery roll|Blood Moss, Belladonna, King’s foil|
 |Antidote|Remove 1 Poisoned condition|Wolvesbane or any venom, garlic, mirrorroot|
@@ -49,6 +81,8 @@ These herbs can be combined to create these ointments:
 |Poison|Grants 1 Poisoned condition|Wolvesbane/any venom, Blood Moss, Hemlock|
 |Sleep|Target sleeps 1d8 hours|Belladonna, Corpsebloom, King’s Foil|
 |Confuse|Target is lost in hallucinations. Each round, roll 1d6, on 1 will attack own friends, on 6 will attack party members|Hemlock, Wolvesbane, Belladonna|
+]
+-->
 
 ### Vanish
 While standing still in dense foliage or shadows, you can choose to become invisible until you move again.

@@ -2,8 +2,8 @@ In the city states, the guilds ensure that their profession is tightly controlle
 
 ## Class Features
 
-**Hit Dice:** d4
-**Armor:** Leather
+**Hit Dice:** d4\
+**Armor:** Leather\
 **Weapons:** Dagger, hand axe, unarmed, short bow, sling
 
 ### Skills

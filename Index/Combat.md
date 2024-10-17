@@ -67,15 +67,12 @@ Making the same kind of attack twice in a row grants disadvantage on that attack
 ### Critical Hits
 If the attacker rolls a natural 20, the attack is always a hit. Additionally, the target receives a Wound that lasts until the end of their next turn, and their armor is damaged and takes one Notch. Roll on the Wound Table for the hit location to determine the Wound’s nature.
 
-[[Wounds]]
 ### Fumbles
 A natural 1 on an attack roll is a miss regardless of the target’s Defense and results in a mishap. This means that they slam their weapon into a nearby obstacle, overextend their bow, or overcharge their arcane focus. The item is damaged and takes one Notch.
 ## Hit Points and Wounds
 Hit Points are a measure of your stamina and ability to avoid getting seriously injured.
 
 Any damage that reduces you to 0 Hit Points will give you a Wound. Look up the damage on the Wound Table to determine its nature.
-
-[[Wounds]]
 
 Each Wound takes up one Inventory slot. If all your inventory slots are filled up with Wounds or Exhaustion, you’re dead.
 ### Instant Death
@@ -104,11 +101,3 @@ Shove your opponent. Roll Strength and add your opponent’s Defense. Failure me
 
 ## Bonus actions
 Bonus actions are performed right before your melee atttack.
-
----
-## Design notes
-
-## Piecemeal armor (optional)
-With this rule, armor coverage is not assumed to be complete, but can be pieced together from different parts of an armor, each covering a given hit location. The armor bonus to HP is only given if you have a complete set.
-
-A random table can be made to determine the armor coverage of a given NPC, possibly replacing or applying to the same roll as the HP roll.

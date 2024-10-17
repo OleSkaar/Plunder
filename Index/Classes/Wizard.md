@@ -2,10 +2,10 @@ When the empires of old fell to the Frost, their great works of magic were extin
 
 ## Class Features
 
-**Hit Dice:** d4
-**Magic Dice per level:** 1
-**Armor:** None
-**Weapons:** Quarterstaff, sword
+**Hit Dice:** d4\
+**Magic Dice per level:** 1\
+**Armor:** None\
+**Weapons:** Quarterstaff, sword\
 **Magic items:** Scrolls, staves, and wands
 
 ### Skills

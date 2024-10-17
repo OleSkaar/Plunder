@@ -2,8 +2,8 @@
 
 Some warriors never join a warband or swear fealty to a jarl. Instead, they roam the lands seeking justice and glory, heroes without a cause. These warriors are called paragons.
 ## Class Features
-**Hit Dice per level:** d8
-**Armor:** All armor
+**Hit Dice per level:** d8\
+**Armor:** All armor\
 **Weapons:** All melee weapons
 ### Equipment
 You start with the following equipment:

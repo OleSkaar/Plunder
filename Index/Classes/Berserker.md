@@ -1,8 +1,9 @@
 Fierce warriors from the mountains who take on the strengths of beasts. Folk from the lowlands are scared of their bloodthirsty practices, but know that one who crosses a berserker is not likely to keep their head for long.
 ## Class Features
-**Hit Dice:** d8
-**Armor:** None
+**Hit Dice:** d8\
+**Armor:** None\
 **Weapons:** All axes, swords, and spears, unarmed
+
 ### Skills
 * Apprentice Survival
 ### Equipment
