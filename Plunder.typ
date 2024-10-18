@@ -4,7 +4,8 @@
 #[
   #set align(center + horizon)
 
-  #text(font: "OpenDyslexic", size: 60pt)[Plunder]
+  #image("Images/Skull.png")
+  #text(size: 60pt)[Plunder]
   
   A new school old school RPG
 
