@@ -18,9 +18,7 @@ To determine your character's abilities, go through each category and do the fol
 
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem
-
 #let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
-
 #let diceTable = tablem.with(
   render: (columns: auto, ..args) => {
     table(

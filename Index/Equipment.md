@@ -1,12 +1,59 @@
 Plunder uses a silver standard. All prices listed below are in silver pieces (sp).
 
 
-> [!INFO] Coinage
-> 1 gp = 10 sp or 50cp 
-> 1 sp = 5 cp
+
+1 gp = 10 sp or 50cp\
+1 sp = 5 cp
+
+<!--raw-typst 
+#import "@preview/tablem:0.1.0": tablem
+#let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+#let equipmentTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (auto, auto, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+
+#let meleeTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (1fr, 1fr, 1fr, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+
+#let rangedTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (1fr, 1fr, 1fr, 1fr, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+
+#let propertiesTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (auto, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+
+-->
 
 ## Prices
-| Name | Cost | Description |
+<!--raw-typst
+#equipmentTable[
+| *Name* | *Cost* | *Description* |
 | ---- | ---- | ---- |
 | 10 foot pole | 1 |  |
 | Small sack | 1 |  |
@@ -64,7 +111,12 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 | Ear trumpet | 50 | Grants advantage on listening at doors |
 | Lockpicks | 100 | Required to pick locks |
 | Toolkit | 50 | Contains scissors, pliers, a small file, and a small mirror mounted on a 1-foot long handle. |
+]-->
+
+
 ## Weapons
+<!--raw-typst
+#meleeTable[
 | Name | Defense | Properties | Attacks |
 | ---- | ---- | ---- | ---- |
 | Axe | +2 | Gruesome, Versatile | Slash |
@@ -79,15 +131,23 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 | Sword | +4 | Light | Slash, Stab |
 | Shield | +1 | Bull Rush | Slam |
 | Club | +1 |  | Slam |
+]-->
+
+
 
 ## Ranged Weapons
+<!--raw-typst
+#rangedTable[
 | Name | Defense | Properties | Range | Attacks |
 | ---- | ---- | ---- | ---- | ---- |
 | Bow | +0 | Two-handed | 5-50 / 51-100 / 101-150 | Shoot |
 | Longbow | +0 | Heavy, Two-handed | 5-70 / 71-140 /141-210 | Shoot |
 | Sling | +0 |  | 5-40 / 41-80 /81-160 |  |
+]-->
 
 ## Weapon properties
+<!--raw-typst
+#propertiesTable[
 | Name | Description |
 | ---- | ---- |
 | Versatile | This weapon can be used with one or two hands. When you wield it with two hands, roll a d6 together with your attack. If you hit, you may use the highest of the dice or the margin of success. |
@@ -99,14 +159,17 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 | Bull Rush | When you Shove a creature in combat, roll a d4 and add the result to your roll. |
 | Armor Crushing | This weapon does +3 damage vs. heavy armor and +1 vs medium armor on a hit. |
 | Heavy | This item takes two slots. |
+]-->
 
-# **Stab**
+<!--raw-typst
+#propertiesTable[
 | Name | Description |
 | ---- | ---- |
 | Slash | When you score a Wound with this weapon, roll twice on the Wound table and apply both wounds. |
 | Stab | If your opponent is Prone and unarmed or Grappling, you can attempt to Stab through gaps in their armor. Make the attack with disadvantage. If it hits, ignore your opponent’s Wound protection. |
 | Slam | If the Wound would grant the Bleeding condition, it instead grants the Dazed condition. |
 | Shoot |  |
+]-->
 
 ## Armor
 Wearing armor has two benefits:
@@ -120,10 +183,14 @@ Each armor gives you a fixed amount of HP per level. The heavier the armor, the 
 ### Protection from Wounds
 Armor also provides protection against Wounds. When you would suffer a Wound, subtract the number for your armor type from the damage total before looking up the Wound result. If the number is negative, you don't suffer a Wound.
 
+<!--raw-typst
+#meleeTable[
 | Leather | Wound Protection | HP / Level | Slots |
 | ---- | ---- | ---- | ---- |
 | Leather | 3 | +1 | 1 |
 | Chain | 5 | +2 | 1 |
 | Scale | 8 | +4 | 2 |
+]-->
+
 ### Optional: Armor sets
 Only a complete set of armor grants the HP bonus. However, individual pieces grant crit protection where they are worn (such as a helmet protecting the head).

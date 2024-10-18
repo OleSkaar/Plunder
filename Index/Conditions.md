@@ -6,7 +6,7 @@
 - **Grappling:** A creature with this condition can't use their Defense bonus, can’t take move actions, and have disadvantage on weapon attacks.
 - **Dazed:** Attacks against you have advantage.
 
-# Disabled
+## Disabled
 
 - **Limb disabled**: The affected limb can't be used directly, for example to swing a sword. The character has disadvantage on any activity that would normally be supported by the limb, for example climbing a rope.
 - **Arm disabled (part)**: When you gain this condition, any item held with this arm is flung 10 feet away. The arm can't be used directly, for example to swing a sword. You have disadvantage on any activity that would normally be supported by the part of the arm listed in parentheses, for example climbing a rope.
