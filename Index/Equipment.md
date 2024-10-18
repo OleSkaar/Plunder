@@ -194,3 +194,15 @@ Armor also provides protection against Wounds. When you would suffer a Wound, su
 
 ### Optional: Armor sets
 Only a complete set of armor grants the HP bonus. However, individual pieces grant crit protection where they are worn (such as a helmet protecting the head).
+
+## Town services
+<!--raw-typst
+#propertiesTable[
+| Name | Cost |
+| ---- | ---- |
+| A day's stay at an inn | 1 |
+| A week's stay at an inn | 6 |
+| A month's stay at an inn | 20 |
+| Burial | 50 |
+| A bath | 1 |
+]-->

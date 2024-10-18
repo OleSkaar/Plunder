@@ -5,7 +5,22 @@ As you adventure, you will gain Experience Points (XP). Once you've reached the 
 
 When you level up, you may choose to continue with the same class, or select another class. In either case, the table below tells you what you gain at that level.
 
-| Level | XP required | Target | Feature |
+<!--raw-typst 
+#import "@preview/tablem:0.1.0": tablem
+#let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+
+#let progressionTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (auto, auto, auto, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+
+#progressionTable[
+| *Level* | *XP* | *Target* | *Feature* |
 | ---- | ---- | ---- | ---- |
 | 1 | 0 | 0 | Talent |
 | 2 | 2000 | 0 | Talent |
@@ -17,6 +32,7 @@ When you level up, you may choose to continue with the same class, or select ano
 | 8 | 120000 | -5 | Talent |
 | 9 | 240000 | -5 | Skill advancement |
 | 10 | 360000 | -7 | Capstone Talent |
+]-->
 
 ## Talent
 Choose a Talent from your class.

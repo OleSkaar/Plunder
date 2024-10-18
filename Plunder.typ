@@ -102,7 +102,6 @@
 = Equipment
 #cmarker.render((read("./Index/Equipment.md")))
 #set page(columns: 2)
-#cmarker.render((read("./Index/Town services.md")))
 
 #pagebreak()
 

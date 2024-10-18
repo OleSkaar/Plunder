@@ -2,7 +2,21 @@ Some attacks or magical effects call for a saving throw. These represent the las
 
 There are six saving throws, one for each ability. The GM chooses the most appropriate save for the situation. When using OSR-compatible modules, the existing saves are covered:
 
-| Name | Description |
+<!--raw-typst 
+#import "@preview/tablem:0.1.0": tablem
+#let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+#let saveTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (auto, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+
+#saveTable[
+| *Name* | *Description* |
 | ---- | ---- |
 | Strength | Resist death rays and poison |
 | Dexterity | Dodge out of the way of breath attacks and wands |
@@ -10,6 +24,9 @@ There are six saving throws, one for each ability. The GM chooses the most appro
 | Intelligence | Avoid the effects of spells, rods, and staves |
 | Courage | Ignore any fear-related effects |
 | Cunning | See through illusions |
+]-->
+
+
 ## Rolling saving throws
 The target number for each saving throw is listed on the character's sheet.
 

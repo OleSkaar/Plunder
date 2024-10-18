@@ -23,11 +23,32 @@ When you gain a new Talent, choose one from this list:
 
 After your party has accomplished a heroic deed, you may make an appeal in the nearest town, asking for volunteers to join your adventures. Roll Courage.
 
-| Margin of success | Result |
+<!--raw-typst #colbreak() -->
+
+<!--raw-typst 
+#import "@preview/tablem:0.1.0": tablem
+#let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+
+#let leaderTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (1fr, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+-->
+
+<!--raw-typst 
+#leaderTable[
+| *Margin of success* | *Result* |
 | ---- | ---- |
 | 2 - 4 | Gain a non-fighting retainer |
 | 5 - 10 | Gain a fighting follower, level 1 |
 | 10+  | Gain result's worth of retainers, 50% non-fighting and 50% fighting  |
+]-->
+
 ### Lead the charge
 If you move and attack an enemy on your turn, you may Rally as a bonus action. Anyone affected by this Rally can ignore one condition until the end of combat (once per combat).
 ### Oathbind

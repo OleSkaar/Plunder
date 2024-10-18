@@ -32,36 +32,33 @@ In melee combat, the target's Defense is determined by the weapons they have equ
 
 When you score a hit in melee, add your melee damage bonus, which is based on your Strength.
 
-> [!INFO] 
-> Melee attacks are made using Dexterity. Damage is modified by Strength.
+Melee attacks are made using Dexterity. Damage is modified by Strength.
 
 ### Ranged attacks
 When you make a ranged attack, your enemy's Defense is their Dexterity modifier or any other evasion modifier they have. 
 
 Additionally, each ranged weapon has a range modifier, noted in the weapon description. Apply this modifier to the enemy's Defense.
 
-**Short range:**  -1
-**Medium range:** +0
-**Long range:** +1
-**Beyond long range:** Attack not possible
+- **Short range:**  -1
+- **Medium range:** +0
+- **Long range:** +1
+- **Beyond long range:** Attack not possible
 
 Damage is equal to the margin of success. 
 
-> [!INFO]
-> Ranged attacks are made using Instinct.
+Ranged attacks are made using Instinct.
 
 ### Spell attacks
 When casting a spell in combat, use the same rules as ranged attacks.
 
->[!info]
->Spell attacks are made using Intelligence
+Spell attacks are made using Intelligence.
 
 ## Hit locations and attack type
 When attacking, the attacker specifies what type of attack they want to make, and where the attack is made: head, torso, right or left arm, right or left leg.
 
 Making the same kind of attack twice in a row grants disadvantage on that attack roll.
 
-> Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.
+_Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances._
 
 — Sun Tzu, the Art of War
 ### Critical Hits
