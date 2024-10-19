@@ -1,6 +1,10 @@
 #import "@preview/cmarker:0.1.1"
 #import "@preview/tablem:0.1.0": tablem
 
+#set text(
+  size: 14pt
+)
+
 #[
   #set align(center + horizon)
 
@@ -90,6 +94,9 @@
 
 = Kin
 #cmarker.render((read("./Index/Kin.md")))
+
+= Origin
+#cmarker.render(((read("./Index/Origin.md"))))
 
 #pagebreak()
 
