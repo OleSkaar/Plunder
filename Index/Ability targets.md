@@ -6,28 +6,11 @@ An ability can range from 12 to 18. To resolve an ability check, roll a d20 and 
 
 Additionally, abilities determine your saving throws and other important characteristics.
 
-The abilities are grouped by categories, and defined in opposition to each other. Characters are typically good at one or the other, not both.
-
-To determine your character's abilities, go through each category and do the following:
-
-1. Pick a favored ability from the two
-2. Roll 6d6
-3. Assign the three lowest dice the favored ability
-4. Assign the remaining dice to the other ability
-5. Compare the rolls to the table below, and note the bonuses on your character sheet
+The abilities are grouped by categories, Body, Mind, and Soul. Abilites in each category are defined in opposition to each other. Characters are typically good at one or the other, not both.
 
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem
 #let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
-#let diceTable = tablem.with(
-  render: (columns: auto, ..args) => {
-    table(
-      columns: (1fr, 1fr),
-      fill: fill,
-      ..args,
-    )
-  }
-)
 
 #let abilityTable = tablem.with(
   render: (columns: auto, ..args) => {
@@ -48,48 +31,49 @@ To determine your character's abilities, go through each category and do the fol
     )
   }
 )
+
+#let cunTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (auto, 1fr, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
 -->
-
-<!--raw-typst 
-#diceTable[
-| *Dice roll* | *Ability* |
-| --------- | ------- |
-| 3         | 18      |
-| 4-5       | 17      |
-| 6-8       | 16      |
-| 9-12      | 15      |
-| 13-15     | 14      |
-| 16-17     | 13      |
-| 18        | 12      |
-]-->
-
-
 <!--raw-typst #colbreak() -->
 
 ## Body
 ### Strength 
 Physical might, brawn, and constitution.
 
+- Damage is an extra dice you roll with your melee attacks, adding or subtracting based on your Str
+- Cross out inventory slots on your sheet until you get to the one labeled with your Str target. You can't use these crossed out slots.
+
 <!--raw-typst 
 #abilityTable[
-| *Str* | *Save* | *Damage* | *Slots* |
-| ------- | ------------ | ------------ | ----------------- |
-| 18      | 14           | -3           | 7                 |
-| 17      | 13           | -2           | 8                 |
-| 16      | 12           | -1           | 9                 |
-| 15      | 11           | +0           | 10                |
-| 14      | 10           | +1           | 11                |
-| 13      | 9            | +2           | 12                |
-| 12      | 8            | +3           | 13                |
+| *Target* | *Save*         | *Damage*      | *Slots* |
+| ------- | ------------ | ------------  | ------- |
+| 18      | 14           | -1d4          | 7       |
+| 17      | 13           | -1d3          | 8       |
+| 16      | 12           | -1d2          | 9       |
+| 15      | 11           | -             | 10      |
+| 14      | 10           | 1d2           | 11      |
+| 13      | 9            | 1d3           | 12      |
+| 12      | 8            | 1d4           | 13      |
 ]-->
 
 
 ### Dexterity
 Precision, speed, and technique.
 
+- Melee is your target for all melee attacks
+- Defense stacks with the Defense bonus on your weapon
+
 <!--raw-typst 
 #abilityTable[
-| *Dex* | *Save* | *Melee* | *Defense* |
+| *Target* | *Save* | *Melee* | *Defense* |
 | ------- | ------------ | ------------ | ------------- |
 | 18      | 17           | 13           | -3            |
 | 17      | 16           | 12           | -2            |
@@ -108,25 +92,32 @@ Precision, speed, and technique.
 ### Intelligence 
 Logic, reasoning, and the arcane arts.
 
+- Magic is your target for all attacks with spells or magic items
+- Note your languages under Skills. The bonus language from Int 14+ comes in addition to your native language.
+- Write down your bonus skills. If you later gain that same skill from your class, you can pick another one at that time.
+
 <!--raw-typst 
 #intTable[
-| *Int* | *Save* | *Magic* | *Skills*                                                                       |
-| ------- | ------------ | ------------ | ---------------------------------------------------------------------------- |
-| 18      | 16           | 13           | Apprentice Language (native)                                                       |
-| 17      | 15           | 12           | Journeyman Language (native)                                                       |
-| 16      | 14           | 11           | Expert Language (native)                                                           |
-| 15      | 13           | 10           | Master Language (native)                                                           |
+| *Target*   | *Save*       | *Magic*      | *Skills*                            |
+| ------- | ------------ | ------------ | ------------------------------------|
+| 18      | 16           | 13           | Apprentice Language (native)        |
+| 17      | 15           | 12           | Journeyman Language (native)        |
+| 16      | 14           | 11           | Expert Language (native)            |
+| 15      | 13           | 10           | Master Language (native)            |
 | 14      | 12           | 9            | Journeyman Language (any), +1 bonus |
-| 13      | 11           | 8            | Expert Language (any), +2 bonus    |
-| 12      | 10           | 7            | Master Language (any), +3 bonus    |
+| 13      | 11           | 8            | Expert Language (any), +2 bonus     |
+| 12      | 10           | 7            | Master Language (any), +3 bonus     |
 ]-->
 
 ### Instinct
 Perception, composure, and aim.
 
+- Ranged is your target for all attacks with ranged or thrown weapons
+- Surprise is used to see if your party is surprised. Only the party's lowest Surprise target is used.
+
 <!--raw-typst 
 #abilityTable[
-| *Ins* | *Save* | *Ranged* | *Surprise* |
+| *Target* | *Save* | *Ranged* | *Surprise* |
 | ------- | ------------ | ------------- | --------------- |
 | 18      | 15           | 13            | 17              |
 | 17      | 14           | 12            | 16              |
@@ -143,9 +134,12 @@ Perception, composure, and aim.
 ### Courage
 Inspiration, leadership, and steadfastness.
 
+- Max retainers determines how many retainers you can have
+- Loyalty determines how likely retainers are to stick with you in danger
+
 <!--raw-typst 
 #abilityTable[
-| *Cou* | *Save* | *Max retainers* | *Loyalty* |
+| *Target* | *Save* | *Max retainers* | *Loyalty* |
 | ------- | ------------ | ------------- | ------- |
 | 18      | 15           | 1             | 4       |
 | 17      | 14           | 2             | 5       |
@@ -159,16 +153,18 @@ Inspiration, leadership, and steadfastness.
 ### Cunning
 Stealth, trickery, and charm.
 
+- The Reactions bonus is added by the GM to the NPC reaction roll. Only the party's highest bonus is used.
+
 <!--raw-typst 
-#abilityTable[
-| *Cun* | *Save* | *NPC Reactions* |
+#cunTable[
+| *Target* | *Save* | *Reactions* |
 | ------- | ------------ | ------------- |
-| 18      | 15           | -3            |
-| 17      | 14           | -2            |
-| 16      | 13           | -1            |
-| 15      | 12           | +0            |
-| 14      | 11           | +1            |
-| 13      | 10           | +2            |
-| 12      | 9            | +3            |
+| 18      | 15           | -1d4            |
+| 17      | 14           | -1d3            |
+| 16      | 13           | -1d2            |
+| 15      | 12           | -               |
+| 14      | 11           | +1d2            |
+| 13      | 10           | +1d3            |
+| 12      | 9            | +1d4            |
 ]-->
 

@@ -22,6 +22,7 @@
 #set page(numbering: "1")
 
 #outline(depth: 1)
+#pad(top: 1.5em, image("Images/corpse-candles-1600.jpg"))
 
 #pagebreak()
 
@@ -30,12 +31,28 @@
 
 #pagebreak()
 
-= Features
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Features
+  ],
+)
+
 #cmarker.render(read("./Index/Features.md"))
 
 #set page(columns: 2)
 
-= Glossary
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Glossary
+  ],
+)
+
 #cmarker.render(read("./Index/Glossary.md"))
 
 #pagebreak()
@@ -45,7 +62,7 @@
 
 #pagebreak()
 
-= Ability Targets
+= Ability Targets <abilityTargets>
 #cmarker.render(((read("./Index/Ability targets.md"))))
 
 #pagebreak()
