@@ -74,7 +74,7 @@ Choose a kin and write down the Talent it grants you.
 Your character beings at level 1 with 0 XP.
 
 ## 6. Name your character
-
+Get creative!
 
 ## 7. Party creation
 
