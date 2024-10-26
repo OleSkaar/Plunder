@@ -30,8 +30,6 @@
 
 #pagebreak()
 
-#set page(columns: 1)
-
 = Features
 #cmarker.render(read("./Index/Features.md"))
 
@@ -57,37 +55,37 @@
   heading(numbering: none)[Classes]
 }
 
-= Berserker
+== Berserker
 #cmarker.render((read("./Index/Classes/Berserker.md")))
 
 #pagebreak()
 
-= Paragon
+== Paragon
 #cmarker.render((read("./Index/Classes/Paragon.md")))
 
 #pagebreak()
 
-= Pyromancer
+== Pyromancer
 #cmarker.render((read("./Index/Classes/Pyromancer.md")))
 
 #pagebreak()
 
-= Ranger
+== Ranger
 #cmarker.render((read("./Index/Classes/Ranger.md")))
 
 #pagebreak()
 
-= Swashbuckler
+== Swashbuckler
 #cmarker.render((read("./Index/Classes/Swashbuckler.md")))
 
 #pagebreak()
 
-= Thief
+== Thief
 #cmarker.render((read("./Index/Classes/Thief.md")))
 
 #pagebreak()
 
-= Wizard
+== Wizard
 #cmarker.render((read("./Index/Classes/Wizard.md")))
 
 #pagebreak()
