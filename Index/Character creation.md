@@ -63,24 +63,27 @@ Write down the stats granted by each ability. See Ability Targets for details.
 
 ## 3. Class
 
-Your chosen adventuring profession. Write down the Hit Points, Hit Dice, Signature Talent, Skills, equipment from your class, and Defense once you have picked your equipment.
+Your chosen adventuring profession. Write down the Hit Points, Hit Dice, Magic Dice, Signature Talent, Skills, equipment from your class, and Defense once you have picked your equipment.
 
 ## 4. Kin
 
 Choose a kin and write down the Talent it grants you.
 
-## 5. Origin
+## 5. Note level and XP
 
-Pick an origin and write it down on your sheet.
+Your character beings at level 1 with 0 XP.
 
-## 6. Note level and XP
+## 6. Name your character
 
-## 7. Name your character
 
-## 8. Party creation
+## 7. Party creation
 
-After players have created their characters, the GM reveals the rumor or lead that has brought the characters together, and where they find themselves. Going clockwise from the GM’s right, each player explains their character’s backstory in a few sentences, and discuss how the group knows each other.
+If you're not starting a new campaign, you can skip this step.
 
-## 9. Equipment
+The GM introduces the campaign and the scenario that the characters will be facing. Go around the table and describe your character and their background. Then, the group can discuss together how they all know each other.
 
-Going clockwise from the player to the GM’s right, each player picks one item from the Equipment list worth 20sp or less. Their character can carry this item themselves, or give it to another character. Do this a total of three times.
+## 8. Equipment
+
+Each player picks one item from the Equipment list worth 20sp or less. Do this a total of three times.
+
+If you're joining an ongoing campaign, you can instead just pick three items from the Equipments list worth 20sp or less.

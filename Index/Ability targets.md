@@ -1,8 +1,8 @@
-Abilities provide a quick description of your character's physical and mental characteristics. They are used to resolve most actions in the game that require dice rolls.
+Abilities measure your character's physical and mental characteristics. They are used to resolve most actions in the game that require dice rolls.
 
 Each ability is a target that indicates how likely you are to succeed on a task of average difficulty. 
 
-An ability can range from 12 to 18. To resolve an ability check, roll a d20 and compare it to your ability. If it's equal or higher, you succeed. In other words, lower ability targets are better!
+An ability can range from 12 to 18. To resolve an ability check, roll a d20 and compare it to your target. If it's equal or higher, you succeed. In other words, lower ability targets are better!
 
 Additionally, abilities determine your saving throws and other important characteristics.
 

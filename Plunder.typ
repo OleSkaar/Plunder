@@ -62,15 +62,27 @@
 
 #pagebreak()
 
-= Ability Targets <abilityTargets>
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Ability Targets
+  ],
+)
+
 #cmarker.render(((read("./Index/Ability targets.md"))))
 
 #pagebreak()
 
-#{
-  show heading: none
-  heading(numbering: none)[Classes]
-}
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Classes
+  ],
+)
 
 == Berserker
 #cmarker.render((read("./Index/Classes/Berserker.md")))
@@ -109,9 +121,6 @@
 
 = Kin
 #cmarker.render((read("./Index/Kin.md")))
-
-= Origin
-#cmarker.render(((read("./Index/Origin.md"))))
 
 #pagebreak()
 
