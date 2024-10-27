@@ -13,7 +13,7 @@ Forcing a stuck door requires a successful Strength check.
 Failing to open a stuck door removes any chance of surprising monsters on the other side.
 
 ### Locked doors
-Opening a locked door requires a successful Burglary check.
+Opening a locked door requires a successful Burglary check. The character must have lockpicks.
 
 ### Listening at doors
 Hearing sounds beyond a door requires a successful Instinct check. Only one attempt may be made by the party. Some monsters may not make any sound.

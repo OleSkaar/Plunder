@@ -13,7 +13,7 @@ Items that you carry in your pack. These take an action to retrieve in combat.
 Any amount of coins over 100 count as one item for each 100 coins.
 
 ## Expedition resources
-Items that are useful for the entire party are considered expedition resources. If one character is carrying the item, there is enough for the entire group to use.
+Items that are useful for the entire party are considered expedition resources. If one character is carrying the item, there is enough for the entire group to use. Mark one Notch for each use.
 
 Examples: Food, water, torches, oil lantern, camping gear, dry firewood.
 

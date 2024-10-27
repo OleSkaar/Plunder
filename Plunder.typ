@@ -129,8 +129,15 @@
 
 #pagebreak()
 
-#set page(columns: 1)
-= Equipment
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Equipment
+  ],
+)
+
 #cmarker.render((read("./Index/Equipment.md")))
 #set page(columns: 2)
 

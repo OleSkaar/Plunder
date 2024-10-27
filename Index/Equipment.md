@@ -1,16 +1,16 @@
-Plunder uses a silver standard. All prices listed below are in silver pieces (sp).
+All prices listed below are in silver pieces (sp).
 
 **1 gp = 10 sp\. 1 sp = 5 cp.**
 
-<!--raw-typst 
+<!--raw-typst
 #import "@preview/tablem:0.1.0": tablem
 #let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
-#let textSize = 12pt
+#let textSize = 11pt
 
 #let equipmentTable = tablem.with(
   render: (columns: auto, ..args) => {
     text(table(
-      columns: (auto, auto, 1fr),
+      columns: (1fr, auto),
       fill: fill,
       ..args,
     ), textSize)
@@ -20,7 +20,7 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 #let meleeTable = tablem.with(
   render: (columns: auto, ..args) => {
     text(table(
-      columns: (auto, auto, 1fr, auto),
+      columns: (auto, auto, 1fr, auto, auto),
       fill: fill,
       ..args,
     ), textSize)
@@ -30,7 +30,7 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 #let rangedTable = tablem.with(
   render: (columns: auto, ..args) => {
     text(table(
-      columns: (auto, auto, 1fr, 1fr, auto),
+      columns: (auto, auto, 1fr, 1fr, auto, auto),
       fill: fill,
       ..args,
     ), textSize)
@@ -47,116 +47,139 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
   }
 )
 
+#let armorTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    text(table(
+      columns: (1fr, 1fr, auto, auto, auto),
+      fill: fill,
+      ..args,
+    ), textSize)
+  }
+)
 -->
+
+## Adventuring gear
 
 <!--raw-typst
 #equipmentTable[
-| *Name* | *Cost* | *Description* |
-| ---- | ---- | ---- |
-| 10 foot pole | 1 |  |
-| Small sack | 1 |  |
-| Waterskin | 1 | Expedition resource |
-| Torches | 1 | Expedition resource |
-| Bottle of wine | 1 |  |
-| 50 feet of rope | 1 |  |
-| Sling | 1 |  |
-| Quarterstaff | 2 |  |
-| Iron spikes (12) | 2 |  |
-| Large sack | 2 |  |
-| Oil | 2 | Expedition resource |
-| Bandages | 2 | Expedition resource |
-| Dagger | 3 |  |
-| Handaxe | 3 |  |
-| Stakes (3) and mallet | 3 |  |
-| Spear | 4 |  |
-| Silver-tipped arrow | 5 |  |
-| Leather backpack | 5 |  |
-| Garlic, bud | 5 |  |
-| Axe | 7 |  |
-| Sword | 10 |  |
-| Shield | 10 |  |
-| Quiver of 20 arrows | 10 |  |
-| Case with 20 bolts | 10 |  |
-| Lantern | 10 |  |
-| Wolvesbane, bunch | 10 |  |
-| Belladonna, bunch | 10 |  |
-| Rations | 10 | Expedition resource |
-| Saddle bags | 10 |  |
-| Longaxe | 12 |  |
-| Longsword | 15 |  |
-| Leather armor | 15 |  |
-| Silver mirror, small | 15 |  |
-| Steel mirror | 25 |  |
-| Shortbow | 25 |  |
-| Mule | 25 |  |
-| Saddle | 25 |  |
-| Chain armor | 30 |  |
-| Draft horse | 30 |  |
-| Longbow | 40 |  |
-| Light horse | 40 |  |
-| Raft | 40 |  |
-| Scale armor | 50 |  |
-| Cart | 100 |  |
-| Small boat | 100 |  |
-| Barding | 150 |  |
-| Warhorse | 200 |  |
-| Wagon | 200 |  |
-| Small merchant ship | 5000 |  |
-| Small galley | 10000 |  |
-| Large merchant ship | 20000 |  |
-| Large galley | 30000 |  |
-| Crowbar | 15 | Grants advantage on opening doors |
-| Ear trumpet | 50 | Grants advantage on listening at doors |
-| Lockpicks | 100 | Required to pick locks |
-| Toolkit | 50 | Contains scissors, pliers, a small file, and a small mirror mounted on a 1-foot long handle. |
+| *Name* | *Cost* |
+| ---- | ---- |
+| 10 foot pole      | 1 |
+| Small sack        | 1 |
+| 50 feet of rope   | 1 |
+| Mallet            | 1 |
+| Large sack        | 2 |
+| Backpack          | 5 |
+| Lantern           | 10 |
+| Crowbar           | 15 |
+| Grappling hook    | 25 |
+| Steel hand mirror | 25 |
+| Ear trumpet       | 50 |
+| Lockpicks         | 75 |
 ]-->
 
+## Expedition resources
 
-## Melee weapons
 <!--raw-typst
-#meleeTable[
-| *Name* | *Defense* | *Properties* | *Attacks* |
-| ---- | ---- | ---- | ---- |
-| Axe | +2 | Gruesome, Versatile | Slash |
-| Dagger | +2 | Light, Thrown | Slash, Stab |
-| Handaxe | +1 | Gruesome, Light, Thrown | Slash |
-| Longaxe | +3 | Gruesome, Reach, Two-handed | Slash |
-| Longsword | +5 | Versatile | Slash, Stab |
-| Mace | +2 | Armor crushing | Slam |
-| Quarterstaff | +4 | Two-handed | Slam |
-| Short spear | +4 | Thrown | Stab |
-| Spear | +6 | Reach, Versatile | Stab |
-| Sword | +4 | Light | Slash, Stab |
-| Shield | +1 | Bull Rush | Slam |
-| Club | +1 |  | Slam |
+#equipmentTable[
+| *Name* | *Cost* |
+| Waterskin | 1 |
+| Torches | 1 |
+| Wine | 1 |
+| Iron spikes | 2 |
+| Oil | 2 |
+| Bandages | 2 |
+| Stakes | 2 |
+| Garlic | 5 |
+| Wolvesbane | 10 |
+| Belladonna | 10 |
+| Rations | 10 |
 ]-->
 
+## Ammunition
 
-
-## Ranged weapons
 <!--raw-typst
-#rangedTable[
-| *Name* | *Defense* | *Properties* | *Range* | *Attacks* |
-| ---- | ---- | ---- | ---- | ---- |
-| Bow | +0 | Two-handed | 5-50 / 51-100 / 101-150 | Stab |
-| Longbow | +0 | Heavy, Two-handed | 5-70 / 71-140 /141-210 | Stab |
-| Sling | +0 |  | 5-40 / 41-80 /81-160 |  |
+#equipmentTable[
+| *Name* | *Cost* |
+| ----- | ---- |
+| Arrows | 10 |
+| Silver arrows | 100 |
+| Sling bullets | 3 |
 ]-->
 
-## Weapon properties
+<!--raw-typst
+#colbreak()
+-->
+
+## Mounts, tack, and vehicles
+
 <!--raw-typst
 #propertiesTable[
-| *Name* | *Description* |
+| *Name* | *Cost* |
 | ---- | ---- |
-| Versatile | This weapon can be used with one or two hands. When you wield it with two hands, roll a d6 together with your attack. If you hit, you may use the highest of the dice or the margin of success as damage. |
-| Two-handed | This weapon can be used with one or two hands. When you wield it with two hands, roll a d10 together with your attack. If you hit, you may use the highest of the dice or the margin of success as damage. |
-| Gruesome | Wounds caused by critical hits with this weapon are not removed at the end of next round. |
-| Thrown | You can throw this weapon to make a ranged attack (range 1-20 / 21-40 / 41-60). Use Instinct for this attack. |
-| Light | This weapon can be used without disadvantage while grappling. |
-| Reach | You can attack with this weapon from 10 feet away. If an opponent tries to move into Melee range with you, they have to make a Dexterity with your Defense added as difficulty. If they fail, they take damage equal to the margin of failure. |
-| Bull Rush | When you Shove a creature in combat, roll a d4 and add the result to your roll. |
-| Flanged | This weapon does +1d4 damage vs. heavy armor and +1d2 vs medium armor on a hit. |
-| Heavy | This item takes two slots. |
+| Saddle bags | 10 |
+| Mule | 25 |
+| Saddle | 25 |
+| Draft horse | 30 |
+| Light horse | 40 |
+| Raft | 40 |
+| Cart | 100 |
+| Small boat | 100 |
+| Barding | 150 |
+| Warhorse | 200 |
+| Wagon | 200 |
+| Small merchant ship | 5000 |
+| Small galley | 10000 |
+| Large merchant ship | 20000 |
+| Large galley | 30000 |
+]-->
+
+## Town services
+
+<!--raw-typst
+#propertiesTable[
+| *Name* | *Cost* |
+| ---- | ---- |
+| A bath | 1 |
+| A day's stay at an inn | 1 |
+| A week's stay at an inn | 6 |
+| A month's stay at an inn | 20 |
+| Burial | 50 |
+]-->
+
+<!--raw-typst
+#set page(columns: 1)
+-->
+
+## Melee weapons
+
+<!--raw-typst
+#meleeTable[
+| *Name* | *Defense* | *Properties* | *Attacks* | *Cost* |
+| ---- | ---- | ---- | ---- | -- |
+| Axe | +2 | Gruesome, Versatile | Slash | 7 |
+| Dagger | +2 | Light, Thrown | Slash, Stab | 3 |
+| Handaxe | +1 | Gruesome, Light, Thrown | Slash | 3 |
+| Longaxe | +3 | Gruesome, Reach, Two-handed | Slash | 12 |
+| Longsword | +5 | Versatile | Slash, Stab | 15 |
+| Mace | +2 | Armor crushing | Slam | 10 |
+| Quarterstaff | +4 | Two-handed | Slam | 2 |
+| Short spear | +4 | Thrown | Stab | 3 |
+| Spear | +6 | Reach, Versatile | Stab | 4 |
+| Sword | +4 | Light | Slash, Stab | 10 |
+| Shield | +1 | Bull Rush | Slam | 10 |
+| Club | +1 |  | Slam | 1 |
+]-->
+
+## Ranged weapons
+
+<!--raw-typst
+#rangedTable[
+| *Name* | *Defense* | *Properties* | *Range* | *Attacks* | *Cost* |
+| ---- | ---- | ---- | ---- | ---- | --- |
+| Bow | 0 | Two-handed | 5-50 / 51-100 / 101-150 | Stab | 20 |
+| Longbow | 0 | Heavy, Two-handed | 5-70 / 71-140 /141-210 | Stab | 40 |
+| Sling | 0 |  | 5-40 / 41-80 /81-160 | Slam | 5 |
 ]-->
 
 ## Attack types
@@ -165,40 +188,47 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 #propertiesTable[
 | *Name* | *Description* |
 | ---- | ---- |
-| Slash | When you score a Wound with this weapon, roll twice on the Wound table and apply both wounds. |
+| Slash | Roll twice on the Wound table and apply both wounds. |
 | Stab | If your opponent is Prone and unarmed or Grappling, you can attempt to Stab through gaps in their armor. Make the attack with disadvantage. If it hits, ignore your opponent’s Wound protection. |
 | Slam | If the Wound would grant the Bleeding condition, it instead grants the Dazed condition. |
 ]-->
 
-## Armor
-Wearing armor has two benefits:
-
-1. Increasing your Hit Points
-2. Decreasing the Severity of Wounds
-
-## Armor is HP
-Each armor gives you a fixed amount of HP per level. The heavier the armor, the more HP.
-
-### Protection from Wounds
-Armor also provides protection against Wounds. When you would suffer a Wound, subtract the number for your armor type from the damage total before looking up the Wound result. If the number is negative, you don't suffer a Wound.
-
 <!--raw-typst
-#meleeTable[
-| *Leather* | *Wound Protection* | *HP / Level* | *Slots* |
-| ---- | ---- | ---- | ---- |
-| Leather | 3 | +1 | 1 |
-| Chain | 5 | +2 | 1 |
-| Scale | 8 | +4 | 2 |
-]-->
+#pagebreak()
+-->
 
-## Town services
+## Weapon properties
+
 <!--raw-typst
 #propertiesTable[
-| *Name* | *Cost* |
+| *Name* | *Description* |
 | ---- | ---- |
-| A day's stay at an inn | 1 |
-| A week's stay at an inn | 6 |
-| A month's stay at an inn | 20 |
-| Burial | 50 |
-| A bath | 1 |
+| Versatile | Can be wielded with two hands. If you do so, roll a d6 together with your attack. If you hit, use the result as damage if it's higher than the margin of success. |
+| Two-handed | Requires two hands. Roll a d10 together with your attack. If you hit, use the result as damage if it's higher than the margin of success. |
+| Gruesome | Wounds caused by critical hits are not removed at the end of next round. |
+| Thrown | You can throw this weapon to make a ranged attack (range 1-20 / 21-40 / 41-60).  |
+| Light | Can be used without disadvantage while grappling. |
+| Reach | This weapon has 10 feet reach. If an enemy moves into your melee range, they have to make an attack. On a miss, they take damage equal to the margin of failure. |
+| Bull Rush | When you Shove a creature in combat, roll a d4 and add the result to your roll. |
+| Flanged | Add +1d4 damage vs. heavy armor and +1d2 vs medium armor on a hit. |
+| Heavy | This item takes two slots. |
 ]-->
+
+## Armor
+
+Each armor gives you a fixed amount of HP per level. The heavier the armor, the more HP.
+
+Armor also provides protection against Wounds. When you suffer a Wound, subtract the number for your armor type from the damage total before looking up the Wound result. If the number is negative, you don't suffer a Wound.
+
+<!--raw-typst
+#armorTable[
+| *Armor* | *Wound Protection* | *HP / Level* | *Slots* | *Cost* |
+| ---- | ---- | ---- | ---- | -- |
+| Leather | 3 | +1 | 1 | 15 |
+| Chain | 5 | +2 | 1 | 30 |
+| Scale | 8 | +4 | 2 | 50 |
+]-->
+
+<!--raw-typst
+#set page(columns: 2)
+-->

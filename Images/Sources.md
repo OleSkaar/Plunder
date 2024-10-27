@@ -30,3 +30,6 @@ https://www.oldbookillustrations.com/site/assets/high-res/1887/reached-city-1600
 
 stood-swaying-1600.jpg
 https://www.oldbookillustrations.com/site/assets/high-res/1914/stood-swaying-1600.jpg
+
+battles-1600.jpg
+https://www.oldbookillustrations.com/site/assets/high-res/1852/battles-1600.jpg
