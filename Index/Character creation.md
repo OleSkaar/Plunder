@@ -41,7 +41,7 @@ For each category:
 1. Roll 6d6
 2. Add up the three highest rolls and compare it to the table below
 3. Assign the result to one of the two abilities in that category
-4. Add up the three remaining dice, compare to the table and assign to the other ability
+4. Assign the result of the three lowest rolls to the other ability
 
 <!--raw-typst
 #diceTable[
@@ -57,7 +57,7 @@ For each category:
 ]
 -->
 
-## 2. Note your ability-related stats
+## 2. Note your ability stats
 
 Write down the stats granted by each ability. See Ability Targets for details.
 

@@ -39,7 +39,7 @@ DF +2, AR 1, HD 1d8+1, AT 10, dagger, MV 90ft,
 Str 15, Dex 14, Int 15, Ins 15, Cou 17, Cun 14,
 ML 8, AL N, XP 10, NA 1d8 (3d10), TT U (A)
 
-### Brigand
+### Brigands
 #### Footman
 DF +2, AR 1, HD 1d8+1, AT 10, handaxe + shield or shortbow, MV 120ft,
 

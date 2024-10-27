@@ -15,8 +15,6 @@ Any amount of coins over 100 count as one item for each 100 coins.
 ## Expedition resources
 Items that are useful for the entire party are considered expedition resources. If one character is carrying the item, there is enough for the entire group to use. Mark one Notch for each use.
 
-Examples: Food, water, torches, oil lantern, camping gear, dry firewood.
-
 ## Notches
 When an expendable item is used, or an item is damaged, it gains a Notch. When an item receives three Notches, it is depleted or destroyed. Notches can be cleared for 10% of the original item cost per dot.
 

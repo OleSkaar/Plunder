@@ -1,6 +1,8 @@
 Some attacks or magical effects call for a saving throw. These represent the last-ditch effort to avoid harm.
 
-There are six saving throws, one for each ability. The GM chooses the most appropriate save for the situation. When using OSR-compatible modules, the existing saves are covered:
+There are six saving throws, one for each ability. The GM chooses the most appropriate save for the situation.
+
+When using OSR-compatible modules, the existing saves are covered:
 
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem

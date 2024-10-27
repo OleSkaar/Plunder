@@ -83,6 +83,7 @@ All prices listed below are in silver pieces (sp).
 <!--raw-typst
 #equipmentTable[
 | *Name* | *Cost* |
+| Firewood | 1 |
 | Waterskin | 1 |
 | Torches | 1 |
 | Wine | 1 |
@@ -94,7 +95,12 @@ All prices listed below are in silver pieces (sp).
 | Wolvesbane | 10 |
 | Belladonna | 10 |
 | Rations | 10 |
+| Camping gear | 20 |
 ]-->
+
+<!--raw-typst
+#colbreak()
+-->
 
 ## Ammunition
 
@@ -107,9 +113,7 @@ All prices listed below are in silver pieces (sp).
 | Sling bullets | 3 |
 ]-->
 
-<!--raw-typst
-#colbreak()
--->
+
 
 ## Mounts, tack, and vehicles
 

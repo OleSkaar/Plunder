@@ -23,8 +23,3 @@ These are written down in arcane runes, often using idiosyncratic cyphers that t
 Usually written in Common, or the language of the mystic who committed the spell to paper.
 
 
-> [!info] Design notes
-> In OSE, you have to cast the *read magic* spell to be able to read a scroll or a spell book. This is essentially a spell tax to be able to use a given scroll, balancing out the new spell with an expenditure of a precious resource. This balance is maintained here by requiring the use of a Magic Dice.
-> 
-> Also in OSE, only divine spell casters can use divine spells. However, the scrolls are written in Common. Since divine spellcasting is not really a thing in Plunder, it makes sense to allow anyone who can read the language a shot at understanding a spell. However, if you don't have Magic Dice, it can quickly become taxing to try and use magic.
-

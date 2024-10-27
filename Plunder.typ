@@ -143,48 +143,125 @@
 
 #pagebreak()
 
-= Progression
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Progression
+  ],
+)
 #cmarker.render((read("./Index/Progression.md")))
 
 #pagebreak()
 
-= Treasure and XP
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Treasure and XP
+  ],
+)
 #cmarker.render((read("./Index/Treasure and XP.md")))
 
+#image("Images/treasure-chest.png")
+
 #pagebreak()
 
-= Combat
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Combat
+  ],
+)
+
 #cmarker.render((read("./Index/Combat.md")))
 #pagebreak()
-= Wounds
+
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Wounds
+  ],
+)
 #cmarker.render((read("./Index/Wounds.md")))
 
 #pagebreak()
 
-= Spellcasting
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Spellcasting
+  ],
+)
 #cmarker.render((read("./Index/Spellcasting.md")))
 
 #pagebreak()
 
-= Dungeon adventuring
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Dungeon adventuring
+  ],
+)
 #cmarker.render((read("./Index/Dungeon adventuring.md")))
 
 #pagebreak()
 
-= Saving throws
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Saving throws
+  ],
+)
 #cmarker.render((read("./Index/Saving throws.md")))
+#image("Images/cannonade-1600.jpg")
 
 #pagebreak()
 
-= Rest and healing
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Rest and healing
+  ],
+)
 #cmarker.render((read("./Index/Rest and healing.md")))
 
 #pagebreak()
 
-= Conditions
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Conditions
+  ],
+)
 #cmarker.render((read("./Index/Conditions.md")))
 
 #pagebreak()
 
-= Monsters
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Monsters
+  ],
+)
 #cmarker.render((read("./Index/Monsters.md")))
+
+#image("Images/gnarled-monster-1600.jpg")
