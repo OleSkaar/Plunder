@@ -1,4 +1,4 @@
-> Many foes can give a man but one death.
+_Many foes can give a man but one death._
 
 Some warriors never join a warband or swear fealty to a jarl. Instead, they roam the lands seeking justice and glory, heroes without a cause. These warriors are called paragons.
 ## Class Features
@@ -23,7 +23,6 @@ When you gain a new Talent, choose one from this list:
 
 After your party has accomplished a heroic deed, you may make an appeal in the nearest town, asking for volunteers to join your adventures. Roll Courage.
 
-<!--raw-typst #colbreak() -->
 
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem
@@ -54,6 +53,6 @@ If you move and attack an enemy on your turn, you may Rally as a bonus action. A
 ### Oathbind
 If you publicly swear an oath to complete a quest, you will be bound to it. While you are bound, when you make a dice roll that will directly help complete the quest, you may instead decide the result of the roll. Once you’ve used this ability to decide a roll, you can’t do so again until you’ve seen the light of a new day.
 ### Marshal
-Muster your followers when they’re out of the fight. Roll Courage against their Morale score. Starting at the highest score, return that follower to the fight if your roll is higher, then subtract their score from your result before comparing it to the next follower.
+Muster your followers when they’re out of the fight. Roll Courage, and note the margin of success. Starting with the follower with the highest HD, return them to the fight, then subtract their score from your result before comparing it to the next follower. Once this talent has been used, it can't be used again until you and your followers have completed a long rest.
 ### Tough it
 When you use this ability, you can ignore the effect of a Wound until the next rest. Then, you gain a level of exhaustion.

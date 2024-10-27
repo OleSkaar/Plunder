@@ -11,45 +11,45 @@ The abilities are grouped by categories, Body, Mind, and Soul. Abilites in each 
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem
 #let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+#let textSize = 12pt
 
 #let abilityTable = tablem.with(
   render: (columns: auto, ..args) => {
-    table(
+    text(table(
       columns: (auto, 1fr, 1fr, 1fr),
       fill: fill,
       ..args,
-    )
+    ), textSize)
   }
 )
 
 #let intTable = tablem.with(
   render: (columns: auto, ..args) => {
-    table(
+    text(table(
       columns: (auto, auto, auto, 1fr),
       fill: fill,
       ..args,
-    )
+    ), textSize)
   }
 )
 
 #let cunTable = tablem.with(
   render: (columns: auto, ..args) => {
-    table(
+    text(table(
       columns: (auto, 1fr, 1fr),
       fill: fill,
       ..args,
-    )
+    ), textSize)
   }
 )
 -->
-<!--raw-typst #colbreak() -->
 
 ## Body
 ### Strength 
 Physical might, brawn, and constitution.
 
 - Damage is an extra dice you roll with your melee attacks, adding or subtracting based on your Str
-- Cross out inventory slots on your sheet until you get to the one labeled with your Str target. You can't use these crossed out slots.
+- Cross out inventory slots on your sheet until you get to the one labeled with your Str target. You can't use these crossed out slots
 
 <!--raw-typst 
 #abilityTable[
@@ -85,7 +85,6 @@ Precision, speed, and technique.
 ]-->
 
 
-<!--raw-typst #colbreak() -->
 
 ## Mind
 
@@ -93,9 +92,9 @@ Precision, speed, and technique.
 Logic, reasoning, and the arcane arts.
 
 - Magic is your target for all attacks with spells or magic items
-- Note your languages under Skills. The bonus language from Int 14+ comes in addition to your native language.
-- Write down your bonus skills. If you later gain that same skill from your class, you can pick another one at that time.
+- You can pick any bonus skill. If you later gain that same skill from your class, you can pick another one at that time.
 
+<!--raw-typst #colbreak() -->
 <!--raw-typst 
 #intTable[
 | *Target*   | *Save*       | *Magic*      | *Skills*                            |
@@ -104,9 +103,9 @@ Logic, reasoning, and the arcane arts.
 | 17      | 15           | 12           | Journeyman Language (native)        |
 | 16      | 14           | 11           | Expert Language (native)            |
 | 15      | 13           | 10           | Master Language (native)            |
-| 14      | 12           | 9            | Journeyman Language (any), +1 bonus |
-| 13      | 11           | 8            | Expert Language (any), +2 bonus     |
-| 12      | 10           | 7            | Master Language (any), +3 bonus     |
+| 14      | 12           | 9            | + Journeyman Language (any), +1 bonus |
+| 13      | 11           | 8            | + Expert Language (any), +2 bonus     |
+| 12      | 10           | 7            | + Master Language (any), +3 bonus     |
 ]-->
 
 ### Instinct

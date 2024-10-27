@@ -46,7 +46,7 @@ Additionally, each ranged weapon has a range modifier, noted in the weapon descr
 
 Damage is equal to the margin of success. 
 
-Ranged attacks are made using Instinct.
+Ranged attacks are made using Instinct. If you are in melee, you have disadvantage on the attack.
 
 ### Spell attacks
 When casting a spell in combat, use the same rules as ranged attacks.

@@ -30,7 +30,7 @@ Maximum object sizes:
 
 1d: A rock that can be held in one hand, any non-Heavy inventory item
 2d: Heavy inventory items, a chest
-3d: A humanoid
+3d: A humanoid\
 4d: A horse, a cart
 
 ## Talents
@@ -44,7 +44,7 @@ Range: Melee (1d), Short (2d), Medium (3d), Long (4d); Target: A single point in
 
 Fill the area around the selected point with light or darkness. Darkness is always inky black, but the strength of the light depends on the amount of MD.
 
-1-2d: Bright at the source, but with a dim aura
+1-2d: Bright at the source, but with a dim aura\
 3-4d: The area is bathed in daylight
 
 ### Transmutation
@@ -56,7 +56,7 @@ The types of targets are limited by the amount of MD invested:
 
 1d: A non-heavy inanimate object
 2d: Heavy inanimate object
-3d: Part of a humanoid-sized creature
+3d: Part of a humanoid-sized creature\
 4d: A whole humanoid-sized creature
 
 ### Metamagic

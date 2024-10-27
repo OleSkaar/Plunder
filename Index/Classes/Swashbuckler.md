@@ -11,11 +11,13 @@ You start with the following equipment:
 - Leather armor
 - A sword or a quarterstaff
 ## Signature Talent: The Art of Fencing
-You’re trained in swift and elegant fighting. As part of an attack, you can perform a maneuver as part of your attack. You can attempt any plausible maneuver you can think of. Examples:
+You’re trained in swift and elegant fighting. As part of an attack, you can perform a maneuver. You can attempt any plausible maneuver you can think of. Examples:
 
 - **Disarm**. Make your opponent’s weapon fly out of their hand to near.
 - **Trip**. Cause your opponent to go prone.
 - **Feint**. Make your opponent think you’re attacking somewhere else, giving you advantage on your next attack.
+
+At level 5, you can perform this maneuver as a bonus action before your attack.
 
 ## Talents
 When you gain a new Talent, choose one from this list:
@@ -29,9 +31,9 @@ When the group is declaring actions, you may use this ability to declare that yo
 Jump twice as far as normal, or do an acrobatic stunt like swing from a chandelier, slide down a bannister, or land on your feet on uneven ground, without rolling a check. When you use this ability, roll a HD. On a 1, lose the HD.
 
 ### Improvisational genius
-You are proficient in using any object as a weapon. Objects you can carry in one hand count as having Finesse. The first time you use this ability in an encounter, the enemy is considered surprised.
+You are proficient in using any object as a weapon. The first time you use this ability in an encounter, the enemy is considered surprised.
 
 ### Notorious
 Pick a nickname and a calling sign representing you (like a letter carved on a wall, an outrageous outfit, or a certain flower). By leaving behind a calling sign or otherwise associating your nickname with the scene of a heroic deed, you gain a point of notoriety with that location.
 
-When returning, at the start of any encounter, you may dramatically reveal the symbol, and everyone will instantly know who you are. You may then reduce any target by the notoriety number in that location, until you roll a 1.
+When returning, at the start of any encounter, you may dramatically reveal the symbol, and everyone will instantly know who you are. You may then reduce any target by the notoriety number in that location. This effect ends when you roll a 1.

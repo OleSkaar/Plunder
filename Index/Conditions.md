@@ -5,6 +5,7 @@
 - **Jaw disabled**: You are unable to speak discernably, though you can yell.
 - **Grappling:** A creature with this condition can't use their Defense bonus, can’t take move actions, and have disadvantage on weapon attacks.
 - **Dazed:** Attacks against you have advantage.
+- **Poisoned:** All your rolls have disadvantage.
 
 ## Disabled
 

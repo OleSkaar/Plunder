@@ -1,9 +1,10 @@
-> _Through the darkness of future past,
-> the magician longs to see. 
-> One chants out between two worlds: 
-> **Fire walk with me.**_
+_Through the darkness of future past,
+the magician longs to see. 
+One chants out between two worlds:_
 
-When the lands were under the Great Frost, the pyromancers kept fire alive and brought light and warmth to desperate townships. Now, with their order no longer crucial, they are outcasts, mercenaries - or worse.
+_Fire walk with me._
+
+When the lands were under the Great Frost, the pyromancers kept fire alive and brought light and warmth to desperate townships. Now, with their order no longer needed, they have become outcasts and mercenaries.
 ## Class Features
 **Hit Dice:** d6\
 **Magic Dice per level:** 1\
@@ -26,15 +27,15 @@ Maximum size of the fire:
 4d: Dragon’s breath
 
 ## Talents
-When you gain a new Talent, choose one from this list. All these abilities are Spells.
+When you gain a new Talent, choose one from this list. All these Talents are Spells.
 
-### **Throw fire**
-Any fire you hold with Shape Fire can be thrown to Near. When used as an attack, add (sum) damage on hit.
+### Throw fire
+Any fire you hold with Shape Fire can be thrown to a Near distance. When used as an attack, add (sum) damage on hit.
 
 Range: Near (1d), Short (2d), Medium (3d), Long (4d)
 
 ### Engulf
-You can engulf yourself in flames, burning everything in Melee distance around you. The fire doesn’t hurt you. Roll once against all creatures in Melee range. Treat their Defense as 10, but add any shield bonuses. Add (sum) damage on hits.
+You can engulf yourself in flames, burning everything in melee range around you. The fire doesn’t hurt you. You can ignore the penalty for using a spell in melee. Add (sum) damage on hits.
 
 ### Visions in flame
 Duration: concentration up to (sum) hours
@@ -45,9 +46,9 @@ Peering through a fire, you can sense all other fires within range. You can see 
 Cast upon ashes to determine what they were before they were burnt. You can see what happened in the (sum) rounds before the object caught fire. (dice) determines how old the ashes can be:
 
 1d: a day
-2d: a week
+2d: a month
 3d: a year
-4d: a decade
+4d: a century
 
 ### Unburn
 Duration: concentration up to (sum) minutes

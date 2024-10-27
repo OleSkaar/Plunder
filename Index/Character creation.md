@@ -84,6 +84,6 @@ The GM introduces the campaign and the scenario that the characters will be faci
 
 ## 8. Equipment
 
-Each player picks one item from the Equipment list worth 20sp or less. Do this a total of three times.
+Going around the table, each player picks one item from the Equipment list worth 20sp or less. Do this a total of three times.
 
-If you're joining an ongoing campaign, you can instead just pick three items from the Equipments list worth 20sp or less.
+If you're joining an ongoing campaign, you can instead just pick three items worth 20sp or less.

@@ -3,6 +3,10 @@ Your character's core physical and mental attributes. There are six abilities, d
 
 ## Armor
 Grants extra Hit Points, and reduces the severity of Wounds.
+
+## Bonus action
+Granted by some talents. A bonus action takes place immediately following a regular action in combat.
+
 ## Defense
 Determines how difficult it is to hit a target. Calculated based on the character's Dexterity and weapon bonus. All weapons give at least +1 Defense.
 ## Exhaustion

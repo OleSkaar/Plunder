@@ -10,7 +10,7 @@ Fierce warriors from the mountains who take on the strengths of beasts. Folk fro
 You start with the following equipment:
 - Three weapons of your choice
 ## Signature Talent: Berserkergang
-You can work yourself into a rage, during which no Stabs or Slashes from iron, nor fire, will hurt you. The rage lasts until all fighting has stopped. Then, you gain a level of exhaustion.
+You can work yourself into a rage, during which no Stabs or Slashes from iron, nor fire, will hurt you. The rage lasts until there is no immediate danger. Then, you gain a level of exhaustion.
 
 At 5th level, you can attack twice in a turn when using this ability.
 ## Talents
@@ -30,7 +30,7 @@ This condition stacks. For each one you have, gain another effect from this list
 4. Become the beast
 
 ### Eat anything
-Steel yourself, and you can eat anything, up to twice your size, without any harm. If what you eat is actually nutritious, you gain a bonus HD, next to your regular HD. Once you’ve used this ability, you can’t use it again until you’ve taken a long rest.
+Steel yourself, and you can eat anything, up to twice your size, without any harm. If what you eat is actually nutritious, you gain a bonus HD. Once you’ve used this ability, you can’t use it again until you’ve taken a long rest.
 
 ### Axe vaulter
 You can use a longaxe or spear to launch yourself twice as far or high as normal, and use axes instead of climbing gear. If you fall on an enemy while using this ability, you can transfer all falling damage to them.
@@ -39,4 +39,4 @@ You can use a longaxe or spear to launch yourself twice as far or high as normal
 Channel your fury into a curse that either renders the target’s weapons blunt and brittle (they take 1 Notch and can’t deal wounds), or intimidates them (they have to roll Morale). For each target, roll a HD. On a 3 or less, you lose the HD. The effect lasts as long as you concentrate on it.
 
 ### Blót
-Sacrifice any number of living creatures in the name of a specific purpose. You may invite any number of people to the ritual, but each person must be drenched in blood over the course of the ritual. For each HD sacrificed in this way, a blood drink can be prepared. Drinking this grants an automatic success on the next action if contributes directly towards achieving the purpose. You can make one drink per participant in the ritual. A blót can only be performed once every new moon.
+Sacrifice any number of living creatures in the name of a specific purpose. You may invite any number of people to the ritual, but each person must be drenched in blood over the course of the ritual. For each HD sacrificed in this way, a blood drink can be prepared. Drinking this grants an automatic success on one action if it contributes directly towards achieving the named purpose. You can make one drink per participant in the ritual. A blót can only be performed once every new moon.

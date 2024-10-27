@@ -43,4 +43,4 @@ You can use an action and roll a Cunning check to try to use any magic device, i
 You can automatically escape from something that is restraining you and that you could plausibly escape from. This includes grapples, lynchings, and awkward social situations, but not sealed coffins. You can’t use this ability again until you have acquired some treasure.
 
 ### Impersonate
-If you have listened to someone’s voice for a few minutes, you can use this ability to impersonate their voice and mannerisms perfectly until your next long rest.
+If you have listened to someone’s voice for a minute, you can use this ability to impersonate their voice and mannerisms perfectly until your next long rest.
