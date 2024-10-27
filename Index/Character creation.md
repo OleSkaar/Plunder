@@ -22,11 +22,9 @@
 )
 -->
 
-To create a character, follow this process step by step, writing everything down on your character sheet.
+Follow this process step by step, writing everything down on your character sheet.
 
 ## 1. Ability targets
-
-There are six abilities, divided into three categories:
 
 <!--raw-typst
 #text(categoryTable[
@@ -57,7 +55,7 @@ For each category:
 ]
 -->
 
-## 2. Note your ability stats
+## 2. Note your ability effects
 
 Write down the stats granted by each ability. See Ability Targets for details.
 

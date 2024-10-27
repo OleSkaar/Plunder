@@ -7,23 +7,25 @@ For example, if you would take 8 damage, you gain the Bleeding Out condition and
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem
 #let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+#let textSize = 12pt
+
 #let damageTable = tablem.with(
   render: (columns: auto, ..args) => {
-    table(
+    text(table(
       columns: (auto, 1fr),
       fill: fill,
       ..args,
-    )
+    ), textSize)
   }
 )
 
 #let woundTable = tablem.with(
   render: (columns: auto, ..args) => {
-    table(
+    text(table(
       columns: (auto, auto, 1fr),
       fill: fill,
       ..args,
-    )
+    ), textSize)
   }
 )
 -->

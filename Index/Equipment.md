@@ -172,7 +172,7 @@ All prices listed below are in silver pieces (sp).
 | Spear | +6 | Reach, Versatile | Stab | 4 |
 | Sword | +4 | Light | Slash, Stab | 10 |
 | Shield | +1 | Bull Rush | Slam | 10 |
-| Club | +1 |  | Slam | 1 |
+| Club | +1 | - | Slam | 1 |
 ]-->
 
 ## Ranged weapons
@@ -181,9 +181,9 @@ All prices listed below are in silver pieces (sp).
 #rangedTable[
 | *Name* | *Defense* | *Properties* | *Range* | *Attacks* | *Cost* |
 | ---- | ---- | ---- | ---- | ---- | --- |
-| Bow | 0 | Two-handed | 5-50 / 51-100 / 101-150 | Stab | 20 |
-| Longbow | 0 | Heavy, Two-handed | 5-70 / 71-140 /141-210 | Stab | 40 |
-| Sling | 0 |  | 5-40 / 41-80 /81-160 | Slam | 5 |
+| Bow | +0 | Two-handed | 5-50 / 51-100 / 101-150 | Stab | 20 |
+| Longbow | +0 | Heavy, Two-handed | 5-70 / 71-140 /141-210 | Stab | 40 |
+| Sling | +0 | - | 5-40 / 41-80 /81-160 | Slam | 5 |
 ]-->
 
 ## Attack types
@@ -193,7 +193,7 @@ All prices listed below are in silver pieces (sp).
 | *Name* | *Description* |
 | ---- | ---- |
 | Slash | Roll twice on the Wound table and apply both wounds. |
-| Stab | If your opponent is Prone and unarmed or Grappling, you can attempt to Stab through gaps in their armor. Make the attack with disadvantage. If it hits, ignore your opponent’s Wound protection. |
+| Stab | If your opponent is Prone or Grappling, you can attempt to Stab through gaps in their armor. Make the attack with disadvantage. On a hit, ignore their Wound protection. |
 | Slam | If the Wound would grant the Bleeding condition, it instead grants the Dazed condition. |
 ]-->
 

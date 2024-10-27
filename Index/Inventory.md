@@ -1,16 +1,16 @@
-Characters can carry a certain amount of items based on their Strength. If you go over this limit, they can no longer move. The more you carry, the slower you move, as indicated on your character sheet.
+Characters can carry a certain amount of items based on their Strength. The more you carry, the slower you move, as indicated on your character sheet.
 
 ## Significant items
 Only significant items are counted towards encumbrance. Generally, an item that can be carried in one hand takes up one slot, while items that require two hands to carry take up two slots. Big or heavy items may take up three or more slots, as decided by the GM.
 
 ### Equipped items
-Items that you are holding, or have somewhere readily available on your person. These can be freely retrieved in combat. Equipped items also include armor. Heavy armor takes up two slots.
+Items that you are holding, or have somewhere readily available on your person. These can be freely used in combat. Equipped items also include armor.
 
 ### Packed items
 Items that you carry in your pack. These take an action to retrieve in combat.
 
 ## Treasure
-Any amount of coins over 100 count as one item for each 100 coins.
+Every 100 coins take up a slot.
 
 ## Expedition resources
 Items that are useful for the entire party are considered expedition resources. If one character is carrying the item, there is enough for the entire group to use. Mark one Notch for each use.

@@ -11,7 +11,7 @@
   #image("Images/Skull.png")
   #text(size: 60pt)[Plunder]
   
-  A new school old school RPG
+  A lightweight system for old school RPG modules.
 
   2024
 ]
@@ -55,9 +55,21 @@
 
 #cmarker.render(read("./Index/Glossary.md"))
 
+#colbreak()
+
+#image("Images/princess-dragon-1600.jpg")
+
 #pagebreak()
 
-= Character Creation
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Character Creation
+  ],
+)
+
 #cmarker.render((read("./Index/Character creation.md")))
 
 #pagebreak()
@@ -119,12 +131,26 @@
 
 #pagebreak()
 
-= Kin
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Kin
+  ],
+)
 #cmarker.render((read("./Index/Kin.md")))
 
 #pagebreak()
 
-= Inventory
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Inventory
+  ],
+)
 #cmarker.render((read("./Index/Inventory.md")))
 
 #pagebreak()
@@ -190,6 +216,8 @@
   ],
 )
 #cmarker.render((read("./Index/Wounds.md")))
+
+#image("Images/albrecht-achilles-1600.jpg")
 
 #pagebreak()
 
