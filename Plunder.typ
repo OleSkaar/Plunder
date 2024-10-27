@@ -26,7 +26,14 @@
 
 #pagebreak()
 
-= Intro
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Intro
+  ],
+)
 #cmarker.render(read("./Index/Intro.md"))
 
 #pagebreak()
