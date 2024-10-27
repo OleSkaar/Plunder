@@ -1,4 +1,4 @@
-Characters can carry a certain amount of items based on their Strength. If they go over this limit, they can no longer move. The more they carry, the slower they move, as indicated next to their character sheet.
+Characters can carry a certain amount of items based on their Strength. If you go over this limit, they can no longer move. The more you carry, the slower you move, as indicated on your character sheet.
 
 ## Significant items
 Only significant items are counted towards encumbrance. Generally, an item that can be carried in one hand takes up one slot, while items that require two hands to carry take up two slots. Big or heavy items may take up three or more slots, as decided by the GM.
@@ -18,8 +18,7 @@ Items that are useful for the entire party are considered expedition resources. 
 Examples: Food, water, torches, oil lantern, camping gear, dry firewood.
 
 ## Notches
-
-When an expendable item is used, or an item is damaged, it gains a Notch. When an item receives three Notches, it is depleted or destroyed. Notches can be cleared for 10% of the original cost per dot.
+When an expendable item is used, or an item is damaged, it gains a Notch. When an item receives three Notches, it is depleted or destroyed. Notches can be cleared for 10% of the original item cost per dot.
 
 - **Weapons and armor:** Weapons gain Notches on Fumbles (rolling a natural 1 on use). Armors gain Notches when protecting from Wounds.
 - **Ammunition:** After a fight, roll a d6. On 4-6, mark a Notch on the ammunition.

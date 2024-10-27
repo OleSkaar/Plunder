@@ -63,7 +63,7 @@ Write down the stats granted by each ability. See Ability Targets for details.
 
 ## 3. Class
 
-Your chosen adventuring profession. Write down the Hit Points, Hit Dice, Magic Dice, Signature Talent, Skills, equipment from your class, and Defense once you have picked your equipment.
+Your chosen adventuring profession. Write down the Hit Dice, Magic Dice, Signature Talent, Skills, and equipment from your class. Then, note your Hit Points and Defense once you have picked your equipment.
 
 ## 4. Kin
 

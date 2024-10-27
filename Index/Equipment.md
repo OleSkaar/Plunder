@@ -1,64 +1,62 @@
 Plunder uses a silver standard. All prices listed below are in silver pieces (sp).
 
-
-
-1 gp = 10 sp or 50cp\
-1 sp = 5 cp
+**1 gp = 10 sp\. 1 sp = 5 cp.**
 
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem
 #let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+#let textSize = 12pt
+
 #let equipmentTable = tablem.with(
   render: (columns: auto, ..args) => {
-    table(
+    text(table(
       columns: (auto, auto, 1fr),
       fill: fill,
       ..args,
-    )
+    ), textSize)
   }
 )
 
 #let meleeTable = tablem.with(
   render: (columns: auto, ..args) => {
-    table(
-      columns: (1fr, 1fr, 1fr, 1fr),
+    text(table(
+      columns: (auto, auto, 1fr, auto),
       fill: fill,
       ..args,
-    )
+    ), textSize)
   }
 )
 
 #let rangedTable = tablem.with(
   render: (columns: auto, ..args) => {
-    table(
-      columns: (1fr, 1fr, 1fr, 1fr, 1fr),
+    text(table(
+      columns: (auto, auto, 1fr, 1fr, auto),
       fill: fill,
       ..args,
-    )
+    ), textSize)
   }
 )
 
 #let propertiesTable = tablem.with(
   render: (columns: auto, ..args) => {
-    table(
+    text(table(
       columns: (auto, 1fr),
       fill: fill,
       ..args,
-    )
+    ), textSize)
   }
 )
 
 -->
 
-## Prices
 <!--raw-typst
 #equipmentTable[
 | *Name* | *Cost* | *Description* |
 | ---- | ---- | ---- |
 | 10 foot pole | 1 |  |
 | Small sack | 1 |  |
-| Waterskin | 1 |  |
-| Torches | 1 | Bundle of three |
+| Waterskin | 1 | Expedition resource |
+| Torches | 1 | Expedition resource |
 | Bottle of wine | 1 |  |
 | 50 feet of rope | 1 |  |
 | Sling | 1 |  |
@@ -114,10 +112,10 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 ]-->
 
 
-## Weapons
+## Melee weapons
 <!--raw-typst
 #meleeTable[
-| Name | Defense | Properties | Attacks |
+| *Name* | *Defense* | *Properties* | *Attacks* |
 | ---- | ---- | ---- | ---- |
 | Axe | +2 | Gruesome, Versatile | Slash |
 | Dagger | +2 | Light, Thrown | Slash, Stab |
@@ -135,40 +133,41 @@ Plunder uses a silver standard. All prices listed below are in silver pieces (sp
 
 
 
-## Ranged Weapons
+## Ranged weapons
 <!--raw-typst
 #rangedTable[
-| Name | Defense | Properties | Range | Attacks |
+| *Name* | *Defense* | *Properties* | *Range* | *Attacks* |
 | ---- | ---- | ---- | ---- | ---- |
-| Bow | +0 | Two-handed | 5-50 / 51-100 / 101-150 | Shoot |
-| Longbow | +0 | Heavy, Two-handed | 5-70 / 71-140 /141-210 | Shoot |
+| Bow | +0 | Two-handed | 5-50 / 51-100 / 101-150 | Stab |
+| Longbow | +0 | Heavy, Two-handed | 5-70 / 71-140 /141-210 | Stab |
 | Sling | +0 |  | 5-40 / 41-80 /81-160 |  |
 ]-->
 
 ## Weapon properties
 <!--raw-typst
 #propertiesTable[
-| Name | Description |
+| *Name* | *Description* |
 | ---- | ---- |
-| Versatile | This weapon can be used with one or two hands. When you wield it with two hands, roll a d6 together with your attack. If you hit, you may use the highest of the dice or the margin of success. |
-| Two-handed | This weapon can be used with one or two hands. When you wield it with two hands, roll a d10 together with your attack. If you hit, you may use the highest of the dice or the margin of success. |
+| Versatile | This weapon can be used with one or two hands. When you wield it with two hands, roll a d6 together with your attack. If you hit, you may use the highest of the dice or the margin of success as damage. |
+| Two-handed | This weapon can be used with one or two hands. When you wield it with two hands, roll a d10 together with your attack. If you hit, you may use the highest of the dice or the margin of success as damage. |
 | Gruesome | Wounds caused by critical hits with this weapon are not removed at the end of next round. |
 | Thrown | You can throw this weapon to make a ranged attack (range 1-20 / 21-40 / 41-60). Use Instinct for this attack. |
 | Light | This weapon can be used without disadvantage while grappling. |
 | Reach | You can attack with this weapon from 10 feet away. If an opponent tries to move into Melee range with you, they have to make a Dexterity with your Defense added as difficulty. If they fail, they take damage equal to the margin of failure. |
 | Bull Rush | When you Shove a creature in combat, roll a d4 and add the result to your roll. |
-| Armor Crushing | This weapon does +3 damage vs. heavy armor and +1 vs medium armor on a hit. |
+| Flanged | This weapon does +1d4 damage vs. heavy armor and +1d2 vs medium armor on a hit. |
 | Heavy | This item takes two slots. |
 ]-->
 
+## Attack types
+
 <!--raw-typst
 #propertiesTable[
-| Name | Description |
+| *Name* | *Description* |
 | ---- | ---- |
 | Slash | When you score a Wound with this weapon, roll twice on the Wound table and apply both wounds. |
 | Stab | If your opponent is Prone and unarmed or Grappling, you can attempt to Stab through gaps in their armor. Make the attack with disadvantage. If it hits, ignore your opponent’s Wound protection. |
 | Slam | If the Wound would grant the Bleeding condition, it instead grants the Dazed condition. |
-| Shoot |  |
 ]-->
 
 ## Armor
@@ -185,20 +184,17 @@ Armor also provides protection against Wounds. When you would suffer a Wound, su
 
 <!--raw-typst
 #meleeTable[
-| Leather | Wound Protection | HP / Level | Slots |
+| *Leather* | *Wound Protection* | *HP / Level* | *Slots* |
 | ---- | ---- | ---- | ---- |
 | Leather | 3 | +1 | 1 |
 | Chain | 5 | +2 | 1 |
 | Scale | 8 | +4 | 2 |
 ]-->
 
-### Optional: Armor sets
-Only a complete set of armor grants the HP bonus. However, individual pieces grant crit protection where they are worn (such as a helmet protecting the head).
-
 ## Town services
 <!--raw-typst
 #propertiesTable[
-| Name | Cost |
+| *Name* | *Cost* |
 | ---- | ---- |
 | A day's stay at an inn | 1 |
 | A week's stay at an inn | 6 |
