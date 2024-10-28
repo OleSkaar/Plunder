@@ -7,6 +7,7 @@ _Fire walk with me._
 When the lands were under the Great Frost, the pyromancers kept fire alive and brought light and warmth to desperate townships. Now, with their order no longer needed, they have become outcasts and mercenaries.
 ## Class Features
 **Hit Dice:** d6\
+**HP per level:** 4\
 **Magic Dice per level:** 1\
 **Armor:** Leather\
 **Weapons:** Axe, dagger, hand axe, short spear, spear, sword\

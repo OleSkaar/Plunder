@@ -2,6 +2,7 @@ Death is not an uncommon sight in the great city states of the Screaming Sea. Of
 ## Class Features
 
 **Hit Dice:** d6\
+**HP per level:** 4\
 **Armor:** Leather, chain\
 **Weapons:** All swords, quarterstaff, improvised weapons, unarmed
 ### Starting skills

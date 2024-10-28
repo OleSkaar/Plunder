@@ -1,6 +1,7 @@
 Part of a loose confederation of warriors who keep the forces of darkness at bay, rangers are nevertheless often mistrusted by villagers. They are often said to be in league with witches and beasts.
 ## Class Features
 **Hit Dice:** d6\
+**HP per level:** 4\
 **Armor:** Leather, chain\
 **Weapons:** All axes, swords, spears, quarterstaff, shield, unarmed, all bows, sling
 ### Skills

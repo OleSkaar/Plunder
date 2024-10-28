@@ -3,6 +3,7 @@ _Many foes can give a man but one death._
 Some warriors never join a warband or swear fealty to a jarl. Instead, they roam the lands seeking justice and glory, heroes without a cause. These warriors are called paragons.
 ## Class Features
 **Hit Dice per level:** d8\
+**HP per level:** 5\
 **Armor:** All armor\
 **Weapons:** All melee weapons
 ### Equipment
