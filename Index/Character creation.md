@@ -37,13 +37,12 @@ Follow this process step by step, writing everything down on your character shee
 For each category:
 
 1. Roll 6d6
-2. Add up the three highest rolls and compare it to the table below
-3. Assign the result to one of the two abilities in that category
-4. Repeat steps 2 and 3, using the three lowest rolls
+2. Group the three highest and the three lowest rolls
+3. Assign the three highest to one ability target and the three lowest to the other, based on the table below:
 
 <!--raw-typst
 #diceTable[
-| *Dice roll* | *Ability* |
+| *Dice roll* | *Ability target* |
 | --------- | ------- |
 | 3         | 18      |
 | 4-5       | 17      |
