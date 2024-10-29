@@ -29,7 +29,7 @@ Your character's reserve stamina, represented by a dice. Characters have one HD 
 How much of a beating your character can take before being seriously injured.
 
 ## Inventory
-All the items your character is carrying with you. Divided into equipped items and packed items.
+Any item your character does not have equipped is packed in their inventory.
 
 ## Kin
 Your character's ancestry.

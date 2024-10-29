@@ -6,7 +6,7 @@ Only significant items are counted towards encumbrance. Generally, an item that 
 ### Equipped items
 Items that you are holding, or have somewhere readily available on your person. These can be freely used in combat. Equipped items also include armor.
 
-### Packed items
+### Inventory
 Items that you carry in your pack. These take an action to retrieve in combat.
 
 ## Treasure
