@@ -112,19 +112,18 @@ Logic, reasoning, and the arcane arts.
 Perception, composure, and aim.
 
 - Ranged is your target for all attacks with ranged or thrown weapons
-- Surprise is used to see if your party is surprised. Only the party's lowest Surprise target is used.
 
 <!--raw-typst 
 #abilityTable[
-| *Target* | *Save* | *Ranged* | *Surprise* |
-| ------- | ------------ | ------------- | --------------- |
-| 18      | 15           | 13            | 17              |
-| 17      | 14           | 12            | 16              |
-| 16      | 13           | 11            | 15              |
-| 15      | 12           | 10            | 14              |
-| 14      | 11           | 9             | 13              |
-| 13      | 10           | 8             | 12              |
-| 12      | 9            | 7             | 11              |
+| *Target* | *Save* | *Ranged* |
+| ------- | ------------ | ------------- |
+| 18      | 15           | 13            |
+| 17      | 14           | 12            |
+| 16      | 13           | 11            |
+| 15      | 12           | 10            |
+| 14      | 11           | 9             |
+| 13      | 10           | 8             |
+| 12      | 9            | 7             |
 ]-->
 
 <!--raw-typst #colbreak() -->

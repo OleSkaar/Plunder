@@ -22,7 +22,7 @@ When using OSR-compatible modules, the existing saves are covered:
 | ---- | ---- |
 | Strength | Resist death rays and poison |
 | Dexterity | Dodge out of the way of breath attacks and wands |
-| Instinct | Resist paralysis and petrification |
+| Instinct | Resist paralysis, petrification, and surprise |
 | Intelligence | Avoid the effects of spells, rods, and staves |
 | Courage | Ignore any fear-related effects |
 | Cunning | See through illusions |
