@@ -159,7 +159,7 @@ All prices listed below are in silver pieces (sp).
 
 <!--raw-typst
 #meleeTable[
-| *Name* | *Defense* | *Properties* | *Attacks* | *Cost* |
+| *Name* | *Parry* | *Properties* | *Attacks* | *Cost* |
 | ---- | ---- | ---- | ---- | -- |
 | Axe | +2 | Gruesome, Versatile | Slash | 7 |
 | Dagger | +2 | Light, Thrown | Slash, Stab | 3 |
@@ -179,7 +179,7 @@ All prices listed below are in silver pieces (sp).
 
 <!--raw-typst
 #rangedTable[
-| *Name* | *Defense* | *Properties* | *Range* | *Attacks* | *Cost* |
+| *Name* | *Parry* | *Properties* | *Range* | *Attacks* | *Cost* |
 | ---- | ---- | ---- | ---- | ---- | --- |
 | Bow | +0 | Two-handed | 5-50 / 51-100 / 101-150 | Stab | 20 |
 | Longbow | +0 | Heavy, Two-handed | 5-70 / 71-140 /141-210 | Stab | 40 |

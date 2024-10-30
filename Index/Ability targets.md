@@ -73,7 +73,7 @@ Precision, speed, and technique.
 
 <!--raw-typst 
 #abilityTable[
-| *Target* | *Save* | *Melee* | *Defense* |
+| *Target* | *Save* | *Melee* | *Dodge* |
 | ------- | ------------ | ------------ | ------------- |
 | 18      | 17           | 13           | -3            |
 | 17      | 16           | 12           | -2            |
@@ -91,13 +91,13 @@ Precision, speed, and technique.
 ### Intelligence 
 Logic, reasoning, and the arcane arts.
 
-- Magic is your target for all attacks with spells or magic items
+- Spells is your target for all attacks with spells or magic items
 - You can pick any bonus skill. If you later gain that same skill from your class, you can pick another one at that time.
 
 <!--raw-typst #colbreak() -->
 <!--raw-typst 
 #intTable[
-| *Target*   | *Save*       | *Magic*      | *Skills*                            |
+| *Target*   | *Save*       | *Spells*      | *Skills*                            |
 | ------- | ------------ | ------------ | ------------------------------------|
 | 18      | 16           | 13           | Apprentice Language (native)        |
 | 17      | 15           | 12           | Journeyman Language (native)        |
@@ -151,11 +151,11 @@ Inspiration, leadership, and steadfastness.
 ### Cunning
 Stealth, trickery, and charm.
 
-- The Reactions bonus is added by the GM to the NPC reaction roll. Only the party's highest bonus is used.
+- The Reaction bonus is added by the GM to the NPC reaction roll. Only the party's highest bonus is used.
 
 <!--raw-typst 
 #cunTable[
-| *Target* | *Save* | *Reactions* |
+| *Target* | *Save* | *Reaction* |
 | ------- | ------------ | ------------- |
 | 18      | 15           | -1d4            |
 | 17      | 14           | -1d3            |

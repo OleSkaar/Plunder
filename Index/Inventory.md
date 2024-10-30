@@ -10,7 +10,7 @@ Items that you are holding, or have somewhere readily available on your person. 
 Items that you carry in your pack. These take an action to retrieve in combat.
 
 ### Trinkets
-Small items that don't weigh anything unless carried in large quantities (GM's judgement).
+Small items like rings, necklaces, etc, that don't weigh anything unless carried in large quantities (GM's judgement).
 
 ## Treasure
 Every 100 coins take up a slot.

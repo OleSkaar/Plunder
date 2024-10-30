@@ -23,7 +23,7 @@ At level 5, you can perform this maneuver as a bonus action before your attack.
 ## Talents
 When you gain a new Talent, choose one from this list:
 ### Scorpion stance
-When you use this ability, add +5 to your Defense until the end of your next turn. If someone attacks you before then and misses, you strike them in a riposte and they take damage equal to the margin of error.
+When you use this ability, add +5 to your Dodge until the end of your next turn. If someone attacks you before then and misses, you strike them in a riposte and they take damage equal to the margin of error.
 
 ### Panache
 When the group is declaring actions, you may use this ability to declare that you go first. Roll your Hit Dice and add the number to the first roll you make. If you roll a 1 on the Hit Dice, the check fails regardless of the total result.
