@@ -181,8 +181,8 @@ All prices listed below are in silver pieces (sp).
 #rangedTable[
 | *Name* | *Parry* | *Properties* | *Range* | *Attacks* | *Cost* |
 | ---- | ---- | ---- | ---- | ---- | --- |
-| Bow | +0 | Two-handed | 5-50 / 51-100 / 101-150 | Stab | 20 |
-| Longbow | +0 | Heavy, Two-handed | 5-70 / 71-140 /141-210 | Stab | 40 |
+| Bow | +0 |  | 5-50 / 51-100 / 101-150 | Stab | 20 |
+| Longbow | +0 | Heavy | 5-70 / 71-140 /141-210 | Stab | 40 |
 | Sling | +0 | - | 5-40 / 41-80 /81-160 | Slam | 5 |
 ]-->
 
