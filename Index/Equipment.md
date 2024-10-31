@@ -166,7 +166,7 @@ All prices listed below are in silver pieces (sp).
 | Handaxe | +1 | Gruesome, Light, Thrown | Slash | 3 |
 | Longaxe | +3 | Gruesome, Reach, Two-handed | Slash | 12 |
 | Longsword | +5 | Versatile | Slash, Stab | 15 |
-| Mace | +2 | Armor crushing | Slam | 10 |
+| Mace | +2 | Flanged | Slam | 10 |
 | Quarterstaff | +4 | Two-handed | Slam | 2 |
 | Short spear | +4 | Thrown | Stab | 3 |
 | Spear | +6 | Reach, Versatile | Stab | 4 |
