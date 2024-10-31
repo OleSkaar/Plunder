@@ -18,7 +18,7 @@ When the empires of old fell to the Frost, their great works of magic were extin
 You start with the following equipment:
 
 - A quarterstaff or a sword
-- An arcane focus
+- An arcane focus crystal
 
 ## Signature Talent: Telekinesis
 Levitate or throw an object or creature.

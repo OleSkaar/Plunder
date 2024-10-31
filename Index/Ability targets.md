@@ -1,7 +1,5 @@
 Abilities measure your character's physical and mental characteristics. They are used to resolve most actions in the game that require dice rolls.
 
-Each ability is a target that indicates how likely you are to succeed on a task of average difficulty. 
-
 An ability can range from 12 to 18. To resolve an ability check, roll a d20 and compare it to your target. If it's equal or higher, you succeed. In other words, lower ability targets are better!
 
 Additionally, abilities determine your saving throws and other important characteristics.
@@ -50,6 +48,7 @@ Physical might, brawn, and constitution.
 
 - Damage is an extra dice you roll with your melee attacks, adding or subtracting based on your Str
 - Cross out inventory slots on your sheet until you get to the one labeled with your Str target. You can't use these crossed out slots
+<!--raw-typst #colbreak() -->
 
 <!--raw-typst 
 #abilityTable[
@@ -63,6 +62,7 @@ Physical might, brawn, and constitution.
 | 13      | 9            | 1d3           | 15      |
 | 12      | 8            | 1d4           | 16      |
 ]-->
+
 
 
 ### Dexterity
@@ -88,30 +88,12 @@ Precision, speed, and technique.
 
 ## Mind
 
-### Intelligence 
-Logic, reasoning, and the arcane arts.
-
-- Spells is your target for all attacks with spells or magic items
-- You can pick any bonus skill. If you later gain that same skill from your class, you can pick another one at that time.
-
-<!--raw-typst #colbreak() -->
-<!--raw-typst 
-#intTable[
-| *Target*   | *Save*       | *Spells*      | *Skills*                            |
-| ------- | ------------ | ------------ | ------------------------------------|
-| 18      | 16           | 13           | Apprentice Language (native)        |
-| 17      | 15           | 12           | Journeyman Language (native)        |
-| 16      | 14           | 11           | Expert Language (native)            |
-| 15      | 13           | 10           | Master Language (native)            |
-| 14      | 12           | 9            | + Journeyman Language (any), +1 bonus |
-| 13      | 11           | 8            | + Expert Language (any), +2 bonus     |
-| 12      | 10           | 7            | + Master Language (any), +3 bonus     |
-]-->
-
 ### Instinct
 Perception, composure, and aim.
 
 - Ranged is your target for all attacks with ranged or thrown weapons
+
+<!--raw-typst #colbreak() -->
 
 <!--raw-typst 
 #cunTable[
@@ -124,6 +106,28 @@ Perception, composure, and aim.
 | 14      | 11      | 9        |
 | 13      | 10      | 8        |
 | 12      | 9       | 7        |
+]-->
+
+
+
+### Intelligence 
+Logic, reasoning, and the arcane arts.
+
+- Spells is your target for all attacks with spells or magic items
+- You can pick any bonus skill. If you later gain that same skill from your class, you can pick another one at that time.
+
+
+<!--raw-typst 
+#intTable[
+| *Target*   | *Save*       | *Spells*      | *Skills*                            |
+| ------- | ------------ | ------------ | ------------------------------------|
+| 18      | 16           | 13           | Apprentice Language (native)        |
+| 17      | 15           | 12           | Journeyman Language (native)        |
+| 16      | 14           | 11           | Expert Language (native)            |
+| 15      | 13           | 10           | Master Language (native)            |
+| 14      | 12           | 9            | + Journeyman Language (any), +1 bonus |
+| 13      | 11           | 8            | + Expert Language (any), +2 bonus     |
+| 12      | 10           | 7            | + Master Language (any), +3 bonus     |
 ]-->
 
 <!--raw-typst #colbreak() -->
