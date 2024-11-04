@@ -70,13 +70,13 @@ A natural 1 on an attack roll is a miss regardless of the target’s Defense and
 ## Hit Points and Wounds
 Hit Points are a measure of your stamina and ability to avoid getting seriously injured.
 
-Any damage that reduces you to 0 Hit Points will give you a Wound. Look up the damage on the Wound Table to determine its nature.
+Any damage that reduces you to below 0 Hit Points will give you a Wound. Look up the damage on the Wound Table to determine its nature.
 
 Each Wound takes up one Inventory slot. If all your inventory slots are filled up with Wounds or Exhaustion, you’re dead.
 ### Instant Death
 If a character would gain a Wound and the damage is equal to their maximum HP, they instead die instantly.
 ### How to kill a monster
-A monster or NPC can have a number of Wounds equivalent to half their Hit Dice, rounded down. If they suffer any more Wounds, they die instantly.
+A monster or NPC can have a number of Wounds equivalent to half their Hit Dice, rounded down (minimum one). If they suffer any more Wounds, they die instantly.
 
 ## Opportunity attacks
 Certain actions expose you to opportunity attacks from enemies in melee range from you. To avoid such an attack, roll Dexterity modified by the enemy's Defense. Failure means you get hit, damage equals to the margin of failure. These actions include:
