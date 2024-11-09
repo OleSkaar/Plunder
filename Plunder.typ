@@ -14,6 +14,8 @@
   A lightweight system for old school RPG modules.
 
   2024
+
+  BETA
 ]
 
 #pagebreak()
