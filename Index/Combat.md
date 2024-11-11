@@ -21,7 +21,7 @@ For example: Regdar the fighter is fighting an orc. The orc wants to shove Regda
 If an action by an earlier combatant confers advantage or disadvantage on a later roll, that combatant rolls a second d20 when their action is being resolved, and uses that result. 
 
 ## Attacking
-When you attack someone, the target number is your relevant attack target plus the enemy's Defense. If the roll is equal or higher than the target, it's a hit. 
+When you attack someone, the target number is your relevant attack target plus the enemy's Defense. If the roll is equal or higher than the target, it's a hit.
 
 Damage is equal to the margin of success, plus any modifiers. A successful attack always does at least 1 damage, even if a modifier would bring it below 1.
 
@@ -30,23 +30,21 @@ Some weapons have properties that grant different damage calculations.
 Also, some creatures have attacks that are determined by a damage dice instead of this calculation.
 
 ### Melee attacks
-In melee combat, the target's Defense is determined by the weapons they have equipped plus their Dexterity modifier or other special modifiers. Typically, longer and well-balanced weapons have higher Defense. 
-
-When you score a hit in melee, add your damage dice to the margin of success.
+When you score a hit in melee, add your damage dice to the damage total.
 
 ### Ranged attacks
-When you make a ranged attack, the enemy's Defense is determined by their Dexterity, their shield's Defense if any, and how far away they are. 
+For ranged attacks, the Parry bonus from the target's weapon does not apply. 
 
-Each ranged weapon has a range modifier, noted in the weapon description.
+Each ranged weapon has a normal and a long range. When used beyond the normal range, the attacker has disadvantage on the roll. Attacking beyond the long range is not possible.
 
-- **Short range:**  -1
-- **Medium range:** +0
-- **Long range:** +1
-- **Beyond long range:** Attack not possible
+If you are in melee, you have disadvantage on ranged attacks.
 
-Damage is equal to the margin of success. 
+#### Cover and shooting into melee
+A target that's partially covered gets +2 Defense. This includes being behind another creature in melee.
 
-If you are in melee, you have disadvantage on the attack.
+A target that's at least 3/4 covered gets +5 Defense.
+
+An attack that would otherwise hit a target that's behind cover, hits the cover instead. The damage is equal to the cover bonus.
 
 ### Spell attacks
 When casting a spell in combat, use the same rules as ranged attacks.
@@ -67,6 +65,7 @@ If the attacker rolls a natural 20, the attack is always a hit. Additionally, th
 
 ### Fumbles
 A natural 1 on an attack roll is a miss regardless of the target’s Defense and results in a mishap. This means that they slam their weapon into a nearby obstacle, overextend their bow, or overcharge their arcane focus. The item is damaged and takes one Notch.
+
 ## Hit Points and Wounds
 Hit Points are a measure of your stamina and ability to avoid getting seriously injured.
 
