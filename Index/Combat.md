@@ -28,7 +28,7 @@ Damage is equal to the margin of success, plus any modifiers. A successful attac
 Some creatures have attacks that are determined by a damage dice instead of this calculation.
 
 ### Melee attacks
-When you score a hit in melee, the damage is equal to the margin of success plus your Damage bonus (or penalty).
+When you score a hit in melee, the damage is equal to the margin of success plus your Damage modifier.
 
 ### Ranged attacks
 For ranged attacks, the Parry bonus from the target's weapon does not apply.
