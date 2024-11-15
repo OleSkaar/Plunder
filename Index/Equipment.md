@@ -171,7 +171,7 @@ All prices listed below are in silver pieces (sp).
 | Short spear | +4 | Thrown | Stab | 3 |
 | Spear | +6 | Reach, Versatile | Stab | 4 |
 | Sword | +4 | Light | Slash, Stab | 10 |
-| Shield | +1 | Bull Rush | Slam | 10 |
+| Shield | +1 | Bull Rush, Cover | Slam | 10 |
 | Club | +1 | - | Slam | 1 |
 ]-->
 
@@ -179,11 +179,11 @@ All prices listed below are in silver pieces (sp).
 
 <!--raw-typst
 #rangedTable[
-| *Name* | *Parry* | *Properties* | *Range* | *Attacks* | *Cost* |
+| *Name* | *Parry* | *Properties* | *Point Blank Range* | *Attacks* | *Cost* |
 | ---- | ---- | ---- | ---- | ---- | --- |
-| Bow | +0 |  | 50/150 | Stab | 20 |
-| Longbow | +0 | Heavy | 70/210 | Stab | 40 |
-| Sling | +0 | - | 5-40 / 40/160 | Slam | 5 |
+| Bow | +0 |  | 30 | Stab | 20 |
+| Longbow | +0 | Heavy | 50 | Stab | 40 |
+| Sling | +0 | - | 5-40 / 20 | Slam | 5 |
 ]-->
 
 ## Attack types
@@ -210,12 +210,13 @@ All prices listed below are in silver pieces (sp).
 | Versatile | Can be wielded with two hands. If you do so, roll a d6 together with your attack. If you hit, use the result as damage if it's higher than the margin of success. |
 | Two-handed | Requires two hands. Roll a d10 together with your attack. If you hit, use the result as damage if it's higher than the margin of success. |
 | Gruesome | Wounds caused by critical hits are not removed at the end of next round. |
-| Thrown | You can throw this weapon to make a ranged attack (range 20/40).  |
+| Thrown | You can throw this weapon to make a ranged attack (Point Blank Range 15).  |
 | Light | Can be used without disadvantage while grappling. |
 | Reach | This weapon has 10 feet reach. If an enemy moves into your melee range, they have to make an attack. On a miss, they take damage equal to the margin of failure. |
 | Bull Rush | When you Shove a creature in combat, roll a d4 and add the result to your roll. |
-| Flanged | Add +1d4 damage vs. heavy armor and +1d2 vs medium armor on a hit. |
+| Flanged | Add +2 damage vs. heavy armor and +1 vs medium armor on a hit. |
 | Heavy | This item takes two slots. |
+| Cover | You can apply this weapon's Parry bonus against ranged attacks. |
 ]-->
 
 ## Armor

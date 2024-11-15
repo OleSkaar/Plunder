@@ -25,17 +25,15 @@ When you attack someone, the target number is your relevant attack target plus t
 
 Damage is equal to the margin of success, plus any modifiers. A successful attack always does at least 1 damage, even if a modifier would bring it below 1.
 
-Some weapons have properties that grant different damage calculations.
-
-Also, some creatures have attacks that are determined by a damage dice instead of this calculation.
+Some creatures have attacks that are determined by a damage dice instead of this calculation.
 
 ### Melee attacks
-When you score a hit in melee, add your damage dice to the damage total.
+When you score a hit in melee, the damage is equal to the margin of success plus your Damage bonus (or penalty).
 
 ### Ranged attacks
-For ranged attacks, the Parry bonus from the target's weapon does not apply. 
+For ranged attacks, the Parry bonus from the target's weapon does not apply.
 
-Each ranged weapon has a normal and a long range. When used beyond the normal range, the attacker has disadvantage on the roll. Attacking beyond the long range is not possible.
+Each weapon has a Point Blank range. When used beyond this range, the target's Defense increases by +1 for every 10 feet.
 
 If you are in melee, you have disadvantage on ranged attacks.
 
@@ -54,7 +52,7 @@ Spell attacks are made using Intelligence.
 ## Hit locations and attack type
 The attacker specifies what type of attack they want to make, and where the attack is made: head, torso, right or left arm, right or left leg. Attack types are listed on the weapon's stats.
 
-Making the same kind of attack twice in a row grants disadvantage on that attack roll.
+Making the same kind of attack twice in a turn grants disadvantage on that attack roll.
 
 _Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances._
 
