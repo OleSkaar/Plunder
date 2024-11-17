@@ -2,23 +2,26 @@
 
 Combat is divided into rounds. Each round has six phases. Each combatant can move once and perform one action per round.
 
-1. Declare spells
+1. Movement
 2. Monster morale
-3. Movement
+3. Declare spells
 4. Ranged attacks
 5. Spells
 6. Melee and miscellaneous
 
-### Movement
-If there is conflict of who will reach a space in a turn, the player needs to succeed on a Dexterity check to be first.
+### Declaration order
+The GM declares actions for the monsters first, then players can declare, going clockwise around the table.
 
 ### Simultaneous actions
-In each phase, everyone who wants to act declares their action. Then, they roll a d20 for their action. Sort the rolls from highest to lowest, and resolve them in that order. Actions by combatants early in the round can invalidate actions of combatants who act later. It's not possible to redeclare actions.
+In each phase, everyone who wants to act declares their actions, following the declaration order. Then, they roll a d20. Sort the rolls from highest to lowest, and resolve them in that order. Actions by combatants early in the round can invalidate actions of combatants who act later. It's not possible to redeclare actions.
 
 For example: Regdar the fighter is fighting an orc. The orc wants to shove Regdar away, while Regdar is trying to hit the orc with his sword. Regdar rolls 15, while the orc rolls 18. The orc goes first, and pushes Regdar out of melee range. Regdar is now out of melee range, so his attack now misses despite rolling successfully.
 
 #### Advantage and disadvantage
-If an action by an earlier combatant confers advantage or disadvantage on a later roll, that combatant rolls a second d20 when their action is being resolved, and uses that result. 
+If an action by an earlier combatant confers advantage or disadvantage on a later roll, that combatant rolls a second d20 when their action is being resolved, and uses that result.
+
+### Movement
+If there is conflict of who will reach a space in a turn, the player needs to succeed on a Dexterity check to be first.
 
 ## Attacking
 When you attack someone, the target number is your relevant attack target plus the enemy's Defense. If the roll is equal or higher than the target, it's a hit.
