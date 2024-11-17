@@ -303,6 +303,8 @@
 
 #image("Images/gnarled-monster-1600.jpg")
 
+#pagebreak()
+
 #place(
   top,
   float: true,

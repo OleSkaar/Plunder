@@ -2,8 +2,8 @@
 
 Combat is divided into rounds. Each round has six phases. Each combatant can move once and perform one action per round.
 
-1. Movement
-2. Monster morale
+1. Monster morale
+2. Movement
 3. Declare spells
 4. Ranged attacks
 5. Spells
