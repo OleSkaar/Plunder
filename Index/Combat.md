@@ -52,18 +52,6 @@ When casting a spell in combat, use the same rules as ranged attacks.
 
 Spell attacks are made using Intelligence.
 
-## Hit locations and attack type
-The attacker specifies what type of attack they want to make, and where the attack is made: head, torso, right or left arm, right or left leg. Attack types are listed on the weapon's stats.
-
-Making the same kind of attack twice in a turn grants disadvantage on that attack roll.
-
-_Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances._
-
-— Sun Tzu, the Art of War
-
-### Critical Hits
-If the attacker rolls a natural 20, the attack is always a hit. Additionally, the target receives a Wound that lasts until the end of their next turn, and their armor is damaged and takes one Notch. Roll on the Wound Table for the hit location to determine the Wound’s nature.
-
 ### Fumbles
 A natural 1 on an attack roll is a miss regardless of the target’s Defense and results in a mishap. This means that they slam their weapon into a nearby obstacle, overextend their bow, or overcharge their arcane focus. The item is damaged and takes one Notch.
 
@@ -73,6 +61,12 @@ Hit Points are a measure of your stamina and ability to avoid getting seriously 
 Any damage that reduces you to below 0 Hit Points will give you a Wound. Look up the damage on the Wound Table to determine its nature.
 
 Each Wound takes up one Inventory slot. If all your inventory slots are filled up with Wounds or Exhaustion, you’re dead.
+
+### Hit locations and attack type
+When the attacker scores a Wound, they can specify what type of attack they want to make, and where the attack is made: head, torso, right or left arm, right or left leg. Attack types are listed on the weapon's stats.
+
+### Critical Hits
+If the attacker rolls a natural 20, the attack is always a hit. Additionally, the target receives a Wound that lasts until the end of their next turn, and their armor is damaged and takes one Notch. Roll on the Wound Table for the hit location to determine the Wound’s nature.
 
 ### Instant Death
 If a character would gain a Wound and the damage is equal to their maximum HP, they instead die instantly.
