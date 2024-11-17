@@ -52,9 +52,6 @@ When casting a spell in combat, use the same rules as ranged attacks.
 
 Spell attacks are made using Intelligence.
 
-### Fumbles
-A natural 1 on an attack roll is a miss regardless of the target’s Defense and results in a mishap. This means that they slam their weapon into a nearby obstacle, overextend their bow, or overcharge their arcane focus. The item is damaged and takes one Notch.
-
 ## Hit Points and Wounds
 Hit Points are a measure of your stamina and ability to avoid getting seriously injured.
 
@@ -67,6 +64,9 @@ When the attacker scores a Wound, they can specify what type of attack they want
 
 ### Critical Hits
 If the attacker rolls a natural 20, the attack is always a hit. Additionally, the target receives a Wound that lasts until the end of the next round, and their armor is damaged and takes one Notch. Roll on the Wound Table for the hit location to determine the Wound’s nature.
+
+### Fumbles
+A natural 1 on an attack roll is a miss regardless of the target’s Defense and results in a mishap. This means that they slam their weapon into a nearby obstacle, overextend their bow, or overcharge their arcane focus. The item is damaged and takes one Notch.
 
 ### Instant Death
 If a character would gain a Wound and the damage is equal to their maximum HP, they instead die instantly.
