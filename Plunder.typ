@@ -302,3 +302,13 @@
 #cmarker.render((read("./Index/Monsters.md")))
 
 #image("Images/gnarled-monster-1600.jpg")
+
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Quick Reference
+  ],
+)
+#cmarker.render((read("./Index/Quick reference.md")))
