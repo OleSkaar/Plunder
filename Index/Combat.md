@@ -89,6 +89,9 @@ Certain actions expose you to opportunity attacks from enemies in melee range fr
 
 A character or monster can only do one opportunity attack every round.
 
+## Object interactions
+Characters get one free object interaction every round. This can be done in any phase. For example: drawing a weapon, opening a door, picking up an item.
+
 ## Common actions
 ### Dodge
 Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker.
