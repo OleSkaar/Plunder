@@ -13,7 +13,7 @@ You start with the following equipment:
 ## Signature Talent: Berserkergang
 You can work yourself into a rage, during which no Stabs or Slashes from iron, nor fire, will hurt you. The rage lasts until there is no immediate danger. Then, you gain a level of exhaustion.
 
-At 5th level, you can attack twice in a turn when using this ability.
+At 5th level, you can attack twice in the Melee phase when using this ability.
 ## Talents
 When you gain a new Talent, choose one from this list:
 ### Beastskin

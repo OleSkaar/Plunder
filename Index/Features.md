@@ -5,7 +5,7 @@ Every dice roll is resolved by rolling a d2o versus a pre-calculated target numb
 A single d2o roll determines whether a combat action succeeds, how much damage is done, and when in the round this occurs.
 
 ## Phased combat, simultaneous turns
-Turns are divided into phases, and everyone who acts in a phase rolls simultaneously. Rolls are resolved from highest to lowest.
+Combat rounds are divided into phases, and everyone who acts in a phase rolls simultaneously. Rolls are resolved from highest to lowest.
 
 ## Wound effects 
 Simple wound system to give the game a more visceral feel. 

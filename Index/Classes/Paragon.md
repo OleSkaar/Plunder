@@ -14,7 +14,7 @@ You start with the following equipment:
 ## Signature Talent: Battle Cry
 In combat, you may perform a Battle Cry instead of a melee attack. A Battle Cry is any action where you fearlessly lead and assist your friends, and you may improvise uses for it. Examples:
 
-- **Taunt**. A target adjacent to you gets disadvantage on actions other than attacking you until your next turn. If the margin of success is 10+, the taunt lasts for the rest of the fight.
+- **Taunt**. A target adjacent to you gets disadvantage on actions other than attacking you until the end of the next Melee phase. If the margin of success is 10+, the taunt lasts for the rest of the fight.
 - **Distract**. Create an opening for your ally to escape an enemy’s reach. Roll against the target’s Defense. The ally can add the result to their Dexterity roll to get away from Melee range.
 
 Starting on level 5, you can use a Battle Cry as a bonus action.
@@ -50,7 +50,8 @@ After your party has accomplished a heroic deed, you may make an appeal in the n
 ]-->
 
 ### Lead the charge
-If you move and attack an enemy on your turn, you may Rally as a bonus action. Anyone affected by this Rally can ignore one condition until the end of combat (once per combat).
+If you move and attack an enemy in the same round, you may Rally as a bonus action. Anyone affected by this Rally can ignore one condition until the end of combat This ability can only be used once per combat.
+
 ### Oathbind
 If you publicly swear an oath to complete a quest, you will be bound to it. While you are bound, when you make a dice roll that will directly help complete the quest, you may instead decide the result of the roll. Once you’ve used this ability to decide a roll, you can’t do so again until you’ve seen the light of a new day.
 ### Marshal

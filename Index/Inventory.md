@@ -29,4 +29,4 @@ When an expendable item is used, or an item is damaged, it gains a Notch. When a
 Each level of exhaustion you gain takes up a pack slot.
 
 ## Movement rates
-A character can carry a certain amount of items before they are encumbered, as indicated on their character sheets. An unencumbered character can move 120 feet in a turn, or 40 feet in combat. Getting encumbered means reducing this speed to the level indicated on the character sheet.
+A character can carry a certain amount of items before they are encumbered, as indicated on their character sheets. An unencumbered character can move 120 feet in a turn, or 40 feet in a combat round. Getting encumbered means reducing this speed to the level indicated on the character sheet.

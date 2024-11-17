@@ -22,6 +22,7 @@ At level 5, you can perform this maneuver as a bonus action before your attack.
 
 ## Talents
 When you gain a new Talent, choose one from this list:
+
 ### Scorpion stance
 When you use this ability, add +5 to your Dodge until the end of your next turn. If someone attacks you before then and misses, you strike them in a riposte and they take damage equal to the margin of error.
 

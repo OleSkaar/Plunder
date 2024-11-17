@@ -21,7 +21,7 @@ For example: Regdar the fighter is fighting an orc. The orc wants to shove Regda
 If an action by an earlier combatant confers advantage or disadvantage on a later roll, that combatant rolls a second d20 when their action is being resolved, and uses that result.
 
 ### Movement
-If there is conflict of who will reach a space in a turn, the player needs to succeed on a Dexterity check to be first.
+If there is conflict of who will reach a space in the movement phase, the player needs to succeed on a Dexterity check to be first.
 
 ## Attacking
 When you attack someone, the target number is your relevant attack target plus the enemy's Defense. If the roll is equal or higher than the target, it's a hit.
@@ -66,7 +66,7 @@ Each Wound takes up one Inventory slot. If all your inventory slots are filled u
 When the attacker scores a Wound, they can specify what type of attack they want to make, and where the attack is made: head, torso, right or left arm, right or left leg. Attack types are listed on the weapon's stats.
 
 ### Critical Hits
-If the attacker rolls a natural 20, the attack is always a hit. Additionally, the target receives a Wound that lasts until the end of their next turn, and their armor is damaged and takes one Notch. Roll on the Wound Table for the hit location to determine the Wound’s nature.
+If the attacker rolls a natural 20, the attack is always a hit. Additionally, the target receives a Wound that lasts until the end of the next round, and their armor is damaged and takes one Notch. Roll on the Wound Table for the hit location to determine the Wound’s nature.
 
 ### Instant Death
 If a character would gain a Wound and the damage is equal to their maximum HP, they instead die instantly.
@@ -88,13 +88,13 @@ Characters get one free object interaction every round. This can be done in any 
 
 ## Common actions
 ### Dodge
-Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker.
+Until the next Melee phase, any attack roll made against you has disadvantage if you can see the attacker.
 
 ### Feint
 Trick opponent into misdirecting their weapon, allowing the next attack against them to ignore their Defense. To determine success, roll against Cunning.
 
 ### Grapple
-Grab your opponent. Roll Strength modified by the target’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you and your opponent gain the Grappling condition. You may move with your opponent. On their next turn, your opponent may roll Strength to break free.
+Grab your opponent. Roll Strength modified by the target’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you and your opponent gain the Grappling condition. You may move with your opponent. In subsequent Melee phases, your opponent may roll Strength to break free.
 
 ### Rally
 Inspire your party by taking the lead. While moving towards the enemy, roll Courage modified by highest number of HD among the enemies. Restore a number of Hit Points among members of your party equal to the margin of success, starting with the party member with the lowest HP.

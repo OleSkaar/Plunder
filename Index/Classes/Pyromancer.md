@@ -18,7 +18,7 @@ You start with the following equipment:
 - Leather armor
 - A weapon of your choice
 ## Signature Talent: Shape Fire
-You can hold fire in your hands and make it grow or shrink. You can also spread the fire through you to another object or creature. To hit a creature in combat, roll against your Melee target. Items that normally don’t catch fire remain on fire as long as you concentrate on the spell. The fire deals 1 MD damage every round at the start of their turn, and any wounds dealt with a fiery object also grant a Burn Wound. The fire doesn’t hurt you.
+You can hold fire in your hands and make it grow or shrink. You can also spread the fire through you to another object or creature. To hit a creature in combat, roll against your Melee target. Items that normally don’t catch fire remain on fire as long as you concentrate on the spell. The fire deals 1 MD damage every round at the start of the round, and any wounds dealt with a fiery object also grant a Burn Wound. The fire doesn’t hurt you.
 
 Maximum size of the fire:
 
