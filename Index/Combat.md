@@ -73,13 +73,15 @@ Hit Points are a measure of your stamina and ability to avoid getting seriously 
 Any damage that reduces you to below 0 Hit Points will give you a Wound. Look up the damage on the Wound Table to determine its nature.
 
 Each Wound takes up one Inventory slot. If all your inventory slots are filled up with Wounds or Exhaustion, you’re dead.
+
 ### Instant Death
 If a character would gain a Wound and the damage is equal to their maximum HP, they instead die instantly.
+
 ### How to kill a monster
 A monster or NPC can have a number of Wounds equivalent to half their Hit Dice, rounded down (minimum one). If they suffer any more Wounds, they die instantly.
 
 ## Opportunity attacks
-Certain actions expose you to opportunity attacks from enemies in melee range from you. To avoid such an attack, roll Dexterity modified by the enemy's Defense. Failure means you get hit, damage equals to the margin of failure. These actions include:
+Certain actions expose you to opportunity attacks from enemies in melee range from you. To avoid such an attack, roll Melee modified by the enemy's Defense. Failure means you get hit, damage equals to 10 minus the result. These actions include:
 
 - Moving out of melee range
 - Getting up when prone
@@ -93,7 +95,7 @@ Until the start of your next turn, any attack roll made against you has disadvan
 Trick opponent into misdirecting their weapon, allowing the next attack against them to ignore their Defense. To determine success, roll against Cunning.
 
 ### Grapple
-Grab your opponent. Roll Strength and add the target’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you and your opponent gain the Grappling condition. You may move with your opponent. On their next turn, your opponent may roll Strength to break free.
+Grab your opponent. Roll Strength modified by the target’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you and your opponent gain the Grappling condition. You may move with your opponent. On their next turn, your opponent may roll Strength to break free.
 
 ### Rally
 Inspire your party by taking the lead. While moving towards the enemy, roll Courage modified by highest number of HD among the enemies. Restore a number of Hit Points among members of your party equal to the margin of success, starting with the party member with the lowest HP.
