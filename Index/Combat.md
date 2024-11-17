@@ -87,6 +87,8 @@ Certain actions expose you to opportunity attacks from enemies in melee range fr
 - Getting up when prone
 - Picking up an item from the ground
 
+A character or monster can only do one opportunity attack every round.
+
 ## Common actions
 ### Dodge
 Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker.
