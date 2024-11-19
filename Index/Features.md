@@ -1,8 +1,8 @@
 ## Roll-over dice 
-Every dice roll is resolved by rolling a d2o versus a pre-calculated target number. No modifiers, what you roll is what you get! 
+Every dice roll is resolved by rolling a d20 versus a pre-calculated target number. No modifiers, what you roll is what you get! 
 
 ## Single-roll combat 
-A single d2o roll determines whether a combat action succeeds, how much damage is done, and when in the round this occurs.
+A single d20 roll determines whether a combat action succeeds, how much damage is done, and when in the round this occurs.
 
 ## Phased combat, simultaneous turns
 Combat rounds are divided into phases, and everyone who acts in a phase rolls simultaneously. Rolls are resolved from highest to lowest.
