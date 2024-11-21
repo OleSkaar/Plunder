@@ -38,7 +38,7 @@ When you hit a target with an attack and you have advantage, you can choose to n
 Climb regular walls without making a check, and climb impossible walls with a check.
 
 ### Use Magic Device
-You can use an action and roll a Cunning check to try to use any magic device, ignoring requirements such as class, level, or alignment.
+You can use an action and roll a Cunning check to try to use any magic device, ignoring requirements such as class, level, alignment, or skill requirement.
 
 ### Great escape
 You can automatically escape from something that is restraining you and that you could plausibly escape from. This includes grapples, lynchings, and awkward social situations, but not sealed coffins. You can’t use this ability again until you have acquired some treasure.

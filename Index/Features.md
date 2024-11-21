@@ -21,7 +21,7 @@ Three of the six classic ability scores have been replaced - each ability score 
 Your weapon determines how hard it is to score a hit on you. Every weapon also has different properties, giving you meaningful choices.
 
 ## Active abilities 
-Classes and kin only grant active abilities, not passive or conditional benefits you have to memorize.
+Classes and kin mostly grant active abilities, not passive or conditional benefits you have to memorize.
 
 ## Easy inventory and item durability
 A slot-based system makes it easy to track what your character is carrying.

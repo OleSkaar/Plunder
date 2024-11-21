@@ -17,7 +17,7 @@ At 5th level, you can attack twice in the Melee phase when using this ability.
 ## Talents
 When you gain a new Talent, choose one from this list:
 ### Beastskin
-Using the skin of a beast you or your party has slain, you can perform a ritual at a bonfire to imbue yourself with one characteristic of that beast, as long as you’re wearing its skin (typically as a cloak). The beast must be your size or larger, but it can’t have more HD than you.
+Using the skin of a beast you or your party has slain, you can perform a ritual at a bonfire to imbue yourself with one characteristic of that beast, as long as you’re wearing its skin (typically as a cloak). The beast must be your size or larger, but it can’t have more HD than you have Berserker levels. You can wear the skin of multiple beasts, but the total HD of the beasts can't be higher than your Berserker level.
 
 Every time you rest while wearing this cloak, the spirit of the beast begins to take over. Roll a HD. On a 3 or less, lose it, and gain this condition:
 
@@ -34,7 +34,7 @@ This condition stacks. For each one you have, gain another effect from this list
 Steel yourself, and you can eat anything, up to twice your size, without any harm. If what you eat is actually nutritious, you gain a bonus HD. Once you’ve used this ability, you can’t use it again until you’ve taken a long rest.
 
 ### Axe vaulter
-You can use a longaxe or spear to launch yourself twice as far or high as normal, and use axes instead of climbing gear. If you fall on an enemy while using this ability, you can transfer all falling damage to them.
+You can use a longaxe or spear to launch yourself twice as far or high as normal, and use axes instead of climbing gear. If you fall on an enemy while using this ability, you can transfer up to 20 falling damage to them.
 
 ### Evil eye
 Channel your fury into a curse that either renders the target’s weapons blunt and brittle (they take 1 Notch and can’t deal wounds), or intimidates them (they have to roll Morale). For each target, roll a HD. On a 3 or less, you lose the HD. The effect lasts as long as you concentrate on it.

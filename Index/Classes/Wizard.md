@@ -49,7 +49,7 @@ Fill the area around the selected point with light or darkness. Darkness is alwa
 3-4d: The area is bathed in daylight
 
 ### Transmutation
-Transfer an aspect of a creature or an object to another. For instance, turn a sword into a twig, give a human the gills of a fish for underwater breathing, or turn yourself into a dragon. Using this spell requires holding the creature part or object the aspect is transferred from, which will whither and pulverize in the process.
+Transfer an aspect of a creature or an object to another. For instance, turn a sword into a twig, give a human the gills of a fish for underwater breathing, or turn yourself into a wolf. Using this spell requires holding the creature part or object the aspect is transferred from, which will whither and pulverize in the process.
 
 Range: Melee; Target: A single object or creature; Duration: (sum) rounds
 

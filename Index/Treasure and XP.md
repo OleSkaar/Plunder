@@ -6,7 +6,7 @@ XP is divided equally between all members of the party, including retainers. Ret
 Defeating monsters also grants the party XP, as listed in their stat block.
 
 ## Fallen comrades
-Bringing back the body of a fallen comrade and giving them a proper burial grants XP equal to 20% of their XP total. 
+Bringing back the body of a fallen comrade and giving them a proper burial grants XP equal to 20% of their XP total. This does not apply if they were willfully slain by another PC.
 
 ## What is treasure?
 Gems, jewelry, gold, and finely crafted objects all count as treasure, and XP is awarded according to their value in SP, divided equally between party members.

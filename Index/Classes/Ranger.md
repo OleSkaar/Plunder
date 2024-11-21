@@ -16,17 +16,18 @@ You start with the following equipment:
 ## Signature Talent: Marksman
 You can find the weak spot of any creature or object. If you spend one round aiming, the next hit will cause a Wound as if it was a critical hit. You can choose the Wound location. If you hit an object and it could conceivably be destroyed by an arrow, it breaks.
 
-At level 5, you can ignore armor when you use this Talent.
+At level 5, you can ignore worn and natural armor when you use this Talent.
 
 ## Talents
 When you gain a new Talent, choose one from this list:
-### Beastmaster
-You understand what an animal wants or fears. If you are able to help the animal with either of these things, you can make an Instinct check, with the animal's HD added as difficulty. On success, the animal becomes your loyal companion, as long as you treat it well. You can command it on a bonus action. You can only have one such companion at a time.
 
-At level 5, you can have any number of companions with total HD up to your HD.
+### Beastmaster
+You understand what a beast wants or fears. If you are able to help the beast with either of these things, you can make an Instinct check, with the beast's HD added as difficulty. On success, the beast becomes your loyal companion, as long as you treat it well. You can command it on a bonus action. You can only have one such companion at a time.
+
+At level 5, you can have any number of companions with total HD up to your Ranger level.
 
 ### Eyes of the wild
-While holding something from an animal’s body (e.g. a tuft of hair, a claw, a feather), you can focus your inner eye and see through that animal’s eyes. Your own eyes roll to the back of your skull, and your body remains in place. While doing this, you can command the creature to move to a spot in sight or to stand still. Each time you do so, the item withers, taking a Notch. At 3 Notches, it rots completely, and your senses return to your body.
+While holding a non-essential part of an beast's body (e.g. a tuft of hair, a claw, a feather), you can focus your inner eye and see through that beast's eyes. Your own eyes roll to the back of your skull, and your body remains in place. While doing this, you can command the creature to move to a spot in sight or to stand still. Each time you do so, the item withers, taking a Notch. At 3 Notches, it rots completely, and your senses return to your body.
 
 ### Vanish
 While standing still in dense foliage or shadows, you can choose to become invisible until you attack or move again.

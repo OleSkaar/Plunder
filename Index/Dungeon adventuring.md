@@ -37,3 +37,6 @@ Room traps can be found with a successful Intelligence check. Treasure traps req
 
 ## Wandering monsters
 The GM rolls for wandering monsters every second dungeon turn. The chance is usually 1-in-6. Monsters are 2d6x10 feet away. Roll a d8 to decide the direction, where 1 is north, 2 is north east, 3 is east, etc.
+
+## Falling damage
+You take 1d6 damage for each 10 feet you fall.
