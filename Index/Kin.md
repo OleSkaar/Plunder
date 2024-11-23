@@ -11,8 +11,7 @@ You have a naturally sensitive sense of taste, and an eye for good ingredients. 
 ## Dwarf
 Short, stout, with a knack for treasure.
 ### Goldscent
-If you close your eyes and concentrate, you can smell the sweet, honeyde
-w aroma of gold, silver, and other treasure nearby.
+If you close your eyes and concentrate, you can smell the sweet, honeydew aroma of gold, silver, and other treasure nearby.
 
 Additionally, you can roughly estimate the value of any piece of treasure.
 ## Elf

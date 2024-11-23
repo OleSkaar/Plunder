@@ -23,7 +23,7 @@ Characters may search a 10x10 foot area secret doors. If they're searching in th
 The character's movement speed in the dungeon assumes that they are moving carefully, exploring, and mapping. When moving through familiar areas, they may move three times faster.
 
 ## Resting
-Every six turns, the party has to spend a turn to rest, or suffer a disadvantage to all combat rolls.
+Every six turns, the party has to take a short rest or gain one level of exhaustion.
 
 ## Traps
 There are two kinds of traps:

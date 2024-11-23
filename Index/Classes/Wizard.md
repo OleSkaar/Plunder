@@ -20,7 +20,7 @@ You start with the following equipment:
 - A quarterstaff or a sword
 - An arcane focus crystal
 
-## Signature Talent: Telekinesis
+## Signature Talent: Telekinesis - Spell
 Levitate or throw an object or creature.
 
 Range: Short (1d), Medium (2d), Long (3d), Extreme (4d); Target: (dice); Duration: Instant or concentration.
@@ -38,17 +38,17 @@ Maximum object sizes:
 
 When you gain a new talent, choose one from this list:
 
-### Lumotheurgy
+### Lumotheurgy - Spell
 Manipulate light or darkness.
 
 Range: Melee (1d), Short (2d), Medium (3d), Long (4d); Target: A single point in range; Duration: Concentration
 
-Fill the area around the selected point with light or darkness. Darkness is always inky black, but the strength of the light depends on the amount of MD.
+Fill a 30-foot radius area around the selected point with light or darkness. Darkness is always inky black, but the strength of the light depends on the amount of MD.
 
 1-2d: Bright at the source, but with a dim aura\
 3-4d: The area is bathed in daylight
 
-### Transmutation
+### Transmutation - Spell
 Transfer an aspect of a creature or an object to another. For instance, turn a sword into a twig, give a human the gills of a fish for underwater breathing, or turn yourself into a wolf. Using this spell requires holding the creature part or object the aspect is transferred from, which will whither and pulverize in the process.
 
 Range: Melee; Target: A single object or creature; Duration: (sum) rounds
@@ -69,4 +69,9 @@ Once per short rest, you can twist a spell as you cast it, changing some of its 
 - **Extend spell.** Double the spell's range.
 
 ### Ritual spellcasting
-Using salt or chalk, you can draw a magic circle on the ground. Anything inside this circle will count as a target of the next spell you cast. The circle is consumed when the spell ends.
+Using salt or chalk, you can draw a magic circle on the ground. Anything inside this circle will count as a target of the next spell you cast. The circle is consumed when the spell ends. The radius of the circle is limited by the amount of Magic Dice you will use to cast the spell:
+
+1d: 10 feet
+2d: 20 feet
+3d: 30 feet
+4d: 100 feet
