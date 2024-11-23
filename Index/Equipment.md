@@ -212,7 +212,7 @@ All prices listed below are in silver pieces (sp).
 | Gruesome | Wounds caused by critical hits are not removed at the end of next round. |
 | Thrown | You can throw this weapon to make a ranged attack (Point Blank Range 15).  |
 | Light | Can be used without disadvantage while grappling. |
-| Reach | You can use this weapon to attack someone 10 feet away. If an enemey tries to move into melee range with you, they provoke an opportunity attack from you.
+| Reach | You can use this weapon to attack someone 10 feet away. If an enemey tries to move into melee range with you, they provoke an opportunity attack from you. |
 | Bull Rush | When you Shove a creature in combat, roll a d4 and add the result to your roll. |
 | Flanged | Add +2 damage vs. heavy armor and +1 vs medium armor on a hit. |
 | Heavy | This item takes two slots. |
