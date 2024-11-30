@@ -15,13 +15,13 @@ The GM declares actions for the monsters first, then players can declare, going 
 ### Simultaneous actions
 In each phase, everyone who wants to act declares their actions, following the declaration order. Then, they roll a d20. Sort the rolls from highest to lowest, and resolve them in that order. Actions by combatants early in the round can invalidate actions of combatants who act later. It's not possible to redeclare actions.
 
-For example: Regdar the fighter is fighting an orc. The orc wants to shove Regdar away, while Regdar is trying to hit the orc with his sword. Regdar rolls 15, while the orc rolls 18. The orc goes first, and pushes Regdar out of melee range. Regdar is now out of melee range, so his attack now misses despite rolling successfully.
+For example: Regdar the fighter is fighting an orc. The orc wants to shove Regdar away, while Regdar is trying to grapple the orc. Regdar rolls 15, while the orc rolls 18. The orc goes first, and pushes Regdar out of melee range. Regdar is now out of melee range, so his grapple fails despite rolling successfully.
 
 #### Advantage and disadvantage
 If an action by an earlier combatant confers advantage or disadvantage on a later roll, that combatant rolls a second d20 when their action is being resolved, and uses that result.
 
 ### Movement
-If there is conflict of who will reach a space in the movement phase, the player needs to succeed on a Dexterity check to be first.
+Everyone who wants to move in the movement phases rolls Dexterity.
 
 ## Attacking
 When you attack someone, the target number is your relevant attack target plus the enemy's Defense. If the roll is equal or higher than the target, it's a hit.
@@ -98,6 +98,9 @@ Trick opponent into misdirecting their weapon, allowing the next attack against 
 
 ### Grapple
 Grab your opponent. Roll against your Strength target modified by the target’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you and your opponent gain the Grappling condition. You may move with your opponent. In subsequent Melee phases, your opponent may roll Strength to break free.
+
+### Push
+When you successfully attack an opponent in melee, you can push them backwards up to 10 feet, following them as they get pushed.
 
 ### Rally
 Inspire your party by taking the lead. While moving towards the enemy, roll Courage modified by highest number of HD among the enemies. Restore a number of Hit Points among members of your party equal to the margin of success, divided as you choose.
