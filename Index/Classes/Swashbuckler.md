@@ -38,4 +38,4 @@ You are proficient in using any object as a weapon. The first time you use this 
 ### Notorious
 Pick a nickname and a calling sign representing you (like a letter carved on a wall, an outrageous outfit, or a certain flower). By leaving behind a calling sign or otherwise associating your nickname with the scene of a heroic deed, you gain a point of notoriety with that location.
 
-When returning, at the start of any encounter, you may dramatically reveal the symbol, and everyone will instantly know who you are. You may then reduce any target by the notoriety number in that location. This effect ends when you roll a 1.
+When returning, at the start of any encounter, you may dramatically reveal the symbol, and everyone will instantly know who you are. You may then reduce any of your targets by the notoriety number in that location. When you roll a 1 on a target roll, you lose your stacks for that location. You can have a number of stacks for each location equal to your Swashbuckler level.

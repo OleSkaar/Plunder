@@ -15,7 +15,7 @@
 
   2024
 
-  BETA
+  2.1.0-beta
 ]
 
 #pagebreak()

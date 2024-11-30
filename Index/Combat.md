@@ -33,6 +33,9 @@ Some creatures have attacks that are determined by a damage dice instead of this
 ### Melee attacks
 When you score a hit in melee, the damage is equal to the margin of success plus your Damage modifier.
 
+#### Melee range
+Anyone who is within 5 feet of you is within melee range.
+
 ### Ranged attacks
 For ranged attacks, the Parry bonus from the target's weapon does not apply.
 
@@ -94,10 +97,10 @@ Until the next Melee phase, any attack roll made against you has disadvantage if
 Trick opponent into misdirecting their weapon, allowing the next attack against them to ignore their Defense. To determine success, roll against Cunning.
 
 ### Grapple
-Grab your opponent. Roll Strength modified by the target’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you and your opponent gain the Grappling condition. You may move with your opponent. In subsequent Melee phases, your opponent may roll Strength to break free.
+Grab your opponent. Roll against your Strength target modified by the target’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you and your opponent gain the Grappling condition. You may move with your opponent. In subsequent Melee phases, your opponent may roll Strength to break free.
 
 ### Rally
-Inspire your party by taking the lead. While moving towards the enemy, roll Courage modified by highest number of HD among the enemies. Restore a number of Hit Points among members of your party equal to the margin of success, starting with the party member with the lowest HP.
+Inspire your party by taking the lead. While moving towards the enemy, roll Courage modified by highest number of HD among the enemies. Restore a number of Hit Points among members of your party equal to the margin of success, divided as you choose.
 
 ### Shove
 Shove your opponent. Roll Strength modified by your opponent’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you can shove your opponent Prone, or away from you a number of feet equal to the margin of success.
