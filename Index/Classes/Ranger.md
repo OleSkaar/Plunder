@@ -14,7 +14,7 @@ You start with the following equipment:
 - Leather or chain armor
 - Two weapons of your choice
 ## Signature Talent: Marksman
-You can find the weak spot of any creature or object. If you spend one round aiming, the next hit will cause a Wound as if it was a critical hit. You can choose the Wound location. If you hit an object and it could conceivably be destroyed by an arrow, it breaks.
+You can find the weak spot of any creature or object. If you spend an action in the ranged attack phase to aim, the next hit will cause a Wound as if it was a critical hit. You can choose the Wound location. If you hit an object and it could conceivably be destroyed by an arrow, it breaks.
 
 At level 5, you can ignore worn and natural armor when you use this Talent.
 
