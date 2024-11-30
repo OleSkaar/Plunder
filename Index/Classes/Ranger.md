@@ -27,7 +27,7 @@ You understand what a beast wants or fears. If you are able to help the beast wi
 At level 5, you can have any number of companions with total HD up to your Ranger level.
 
 ### Eyes of the wild
-While holding a non-essential part of an beast's body (e.g. a tuft of hair, a claw, a feather), you can focus your inner eye and see through that beast's eyes. Your own eyes roll to the back of your skull, and your body remains in place. While doing this, you can command the creature to move to a spot in sight or to stand still. Each time you do so, the item withers, taking a Notch. At 3 Notches, it rots completely, and your senses return to your body.
+While holding a non-essential part of an beast's body (e.g. a tuft of hair, a claw, a feather), you can focus your inner eye and see through that beast's eyes. Your own eyes roll to the back of your skull, and your body remains in place. While doing this, you can command the creature to move to a spot in sight or to stand still. Each time you do so, the item withers, taking a Notch. At 3 Notches, it rots completely, and your senses return to your body. The beast can have a maximum HD equal to your ranger level.
 
 ### Vanish
 While standing still in dense foliage or shadows, you can choose to become invisible until you attack or move again.
