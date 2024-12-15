@@ -20,6 +20,14 @@ For example: Regdar the fighter is fighting an orc. The orc wants to shove Regda
 #### Advantage and disadvantage
 If an action by an earlier combatant confers advantage or disadvantage on a later roll, that combatant rolls a second d20 when their action is being resolved, and uses that result.
 
+### Morale
+Determine whether monsters and NPCs fight or flee. Two conditions usually trigger a Morale roll:
+
+1. The first time a monster takes a Wound
+2. When half the monsters have been Wounded or incapacitated
+
+To determine Morale, roll 2d6. If the number is higher than any monster's Morale score, that monster flees.
+
 ### Movement
 Everyone who wants to move in the movement phases rolls Dexterity.
 

@@ -4,7 +4,7 @@ HD
 Attack Target (AT)
 Movement (MV)
 Str, Dex, Int, Ins, Cou, Cun
-Morale (AL)
+Morale (ML)
 Alignment (AL)
 XP
 Number appearing (NA)
