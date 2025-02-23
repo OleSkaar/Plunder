@@ -15,7 +15,7 @@
 
   2024
 
-  2.1.1-beta
+  3.0.0-beta
 ]
 
 #pagebreak()
@@ -88,7 +88,7 @@
   float: true,
   scope: "parent",
   text()[
-    = Ability Targets
+    = Abilities
   ],
 )
 
@@ -174,9 +174,7 @@
 )
 
 #cmarker.render((read("./Index/Equipment.md")))
-#set page(columns: 2)
 
-#pagebreak()
 
 #place(
   top,
@@ -188,7 +186,34 @@
 )
 #cmarker.render((read("./Index/Progression.md")))
 
+#let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+#let progressionTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    table(
+      columns: (auto, 1fr, 1fr, 1fr, 1fr),
+      fill: fill,
+      ..args,
+    )
+  }
+)
+
+#place(top, float: true, scope: "parent", progressionTable[
+| *Level* | *XP*    | *Targets* | *Save bonus* | *Feature*  |
+| ------- | ------- | --        | ----------- | ---------- |
+| 1       | 0       | 0         | -           | Talent     |
+| 2       | 2000    | 0         | -           | Talent     |
+| 3       | 4000    | 0         | -           | Skill rank |
+| 4       | 8000    | -2        | d4          | -          |
+| 5       | 16000   | -2        | d4          | Talent     |
+| 6       | 32000   | -2        | d4          | Skill rank |
+| 7       | 64000   | -5        | d8          | -          |
+| 8       | 120000  | -5        | d8          | Talent     |
+| 9       | 240000  | -5        | d8          | Skill rank |
+| 10      | 360000  | -7        | d12         | Talent     |
+])
+
 #pagebreak()
+#set page(columns: 2)
 
 #place(
   top,
