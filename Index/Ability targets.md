@@ -34,7 +34,7 @@ The abilities are grouped by categories, Body, Mind, and Soul. Abilites in each 
 ### Strength 
 Physical might, brawn, and constitution. Example uses: break down a door, intimidate someone, resist poison and disease.
 
-- Melee target is used for all your melee attacks
+- Melee target is used for melee attacks
 
 <!--raw-typst 
 #twoColumnTable[
@@ -54,7 +54,7 @@ Physical might, brawn, and constitution. Example uses: break down a door, intimi
 ### Dexterity
 Precision, speed, and technique. Example uses: Chase someone down, dodge a rolling boulder, jump across a chasm.
 
-- Dodge is added to your Defense when someone attacks you in melee  
+- Dodge is added to your Defense when someone attacks you in melee
 
 <!--raw-typst 
 #twoColumnTable[
