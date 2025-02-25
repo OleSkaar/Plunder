@@ -1,4 +1,4 @@
-Characters can carry a certain amount of items based on their Strength. The more you carry, the slower you move, as indicated on your character sheet.
+Characters can carry up to 16 items and equip up to nine items. The more you carry, the slower you move, as indicated on your character sheet.
 
 ## Significant items
 Only significant items are counted towards encumbrance. Generally, an item that can be carried in one hand takes up one slot, while items that require two hands to carry take up two slots. Big or heavy items may take up three or more slots, as decided by the GM.

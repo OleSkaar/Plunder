@@ -162,15 +162,15 @@ All prices listed below are in silver pieces (sp).
 | *Name* | *Parry* | *Properties* | *Attacks* | *Cost* |
 | ---- | ---- | ---- | ---- | -- |
 | Axe | +2 | Gruesome, Versatile | Slash | 7 |
-| Dagger | +2 | Light, Thrown | Slash, Stab | 3 |
+| Dagger | +2 | Light, Thrown, Finesse | Slash, Stab | 3 |
 | Handaxe | +1 | Gruesome, Light, Thrown | Slash | 3 |
 | Longaxe | +3 | Gruesome, Reach, Two-handed | Slash | 12 |
 | Longsword | +5 | Versatile | Slash, Stab | 15 |
 | Mace | +2 | Flanged | Slam | 10 |
 | Quarterstaff | +4 | Two-handed | Slam | 2 |
-| Short spear | +4 | Thrown | Stab | 3 |
+| Short spear | +4 | Thrown, Finesse | Stab | 3 |
 | Spear | +6 | Reach, Versatile | Stab | 4 |
-| Sword | +4 | Light | Slash, Stab | 10 |
+| Sword | +4 | Light, Finesse | Slash, Stab | 10 |
 | Shield | +1 | Bull Rush, Cover | Slam | 10 |
 | Club | +1 | - | Slam | 1 |
 ]-->
@@ -210,6 +210,7 @@ All prices listed below are in silver pieces (sp).
 | Versatile | Can be wielded with two hands. If you do so, roll a d6 together with your attack. If you hit, use the result as damage if it's higher than the margin of success. |
 | Two-handed | Requires two hands. Roll a d10 together with your attack. If you hit, use the result as damage if it's higher than the margin of success. |
 | Gruesome | Wounds caused by critical hits are not removed at the end of next round. |
+| Finesse | Requires using this weapon in only one hand. Using Finesse, your Melee target is Dexterity minus your Defense. Instead of margin of success, your attacks deal 2d4 damage. |
 | Thrown | You can throw this weapon to make a ranged attack (Point Blank Range 15).  |
 | Light | Can be used without disadvantage while grappling. |
 | Reach | You can use this weapon to attack someone 10 feet away. If an enemey tries to move into melee range with you, they provoke an opportunity attack from you. |
@@ -218,6 +219,10 @@ All prices listed below are in silver pieces (sp).
 | Heavy | This item takes two slots. |
 | Cover | You can apply this weapon's Parry bonus against ranged attacks. |
 ]-->
+
+### Improvised weapons
+
+Items in the world can also have weapon properties. For example, a fire poker might have Finesse, while a big tree branch might have Reach.
 
 ## Armor
 

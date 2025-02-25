@@ -34,12 +34,12 @@ Everyone who wants to move in the movement phases rolls Dexterity.
 ## Attacking
 When you attack someone, the target number is your relevant attack target plus the enemy's Defense. If the roll is equal or higher than the target, it's a hit.
 
-Damage is equal to the margin of success, plus any modifiers. A successful attack always does at least 1 damage, even if a modifier would bring it below 1.
+Damage is equal to the margin of success, plus any modifiers. A successful attack always does at least 1 damage.
 
 Some creatures have attacks that are determined by a damage dice instead of this calculation.
 
 ### Melee attacks
-When you score a hit in melee, the damage is equal to the margin of success plus your Damage modifier.
+When you score a hit in melee, the damage is equal to the margin of success.
 
 #### Melee range
 Anyone who is within 5 feet of you is within melee range.
