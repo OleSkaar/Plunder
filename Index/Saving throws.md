@@ -1,8 +1,8 @@
 Some attacks or magical effects call for a saving throw. These represent the last-ditch effort to avoid harm.
 
-There are six saving throws, one for each ability. The GM chooses the most appropriate save for the situation.
+There are six saving throws, one for each ability. Saves are simply ability checks, plus a bonus dice at higher levels. The GM chooses the most appropriate save for the situation. 
 
-When using OSR-compatible modules, the existing saves are covered:
+Here are some examples:
 
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem
@@ -18,14 +18,14 @@ When using OSR-compatible modules, the existing saves are covered:
 )
 
 #saveTable[
-| *Name* | *Description* |
+| *Save* | *Effect* |
 | ---- | ---- |
-| Strength | Resist death rays and poison |
-| Dexterity | Dodge out of the way of breath attacks and wands |
-| Instinct | Resist paralysis, petrification, and surprise |
-| Intelligence | Avoid the effects of spells, rods, and staves |
-| Courage | Ignore any fear-related effects |
-| Cunning | See through illusions |
+| Strength | Poison, disease, getting pushed or knocked down |
+| Dexterity | Breath attacks, blasts, kinetic traps |
+| Instinct | Paralysis, petrification, sensory denial |
+| Intelligence | Mind control, polymorph, magical displacement or denial |
+| Courage | Fear, possession, curses |
+| Cunning | Charms, illusions, banishment |
 ]-->
 
 
