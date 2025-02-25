@@ -13,7 +13,7 @@
   
   A lightweight system for old school RPG modules.
 
-  2024
+  2025
 
   3.0.0-beta
 ]
