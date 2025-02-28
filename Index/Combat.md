@@ -9,13 +9,16 @@ Combat is divided into rounds. Each round has six phases. Each combatant can mov
 5. Spells
 6. Melee and miscellaneous
 
-### Declaration order
-The GM declares actions for the monsters first, then players can declare, going clockwise around the table.
-
 ### Simultaneous actions
 In each phase, everyone who wants to act declares their actions, following the declaration order. Then, they roll a d20. Sort the rolls from highest to lowest, and resolve them in that order. Actions by combatants early in the round can invalidate actions of combatants who act later. It's not possible to redeclare actions.
 
 For example: Regdar the fighter is fighting an orc. The orc wants to shove Regdar away, while Regdar is trying to grapple the orc. Regdar rolls 15, while the orc rolls 18. The orc goes first, and pushes Regdar out of melee range. Regdar is now out of melee range, so his grapple fails despite rolling successfully.
+
+#### Grouping
+In the melee phase, the GM can choose to separately resolve groups that are out of melee range of each other.
+
+#### Declaration order
+The GM declares actions for the monsters first, then players can declare, going clockwise around the table.
 
 #### Advantage and disadvantage
 If an action by an earlier combatant confers advantage or disadvantage on a later roll, that combatant rolls a second d20 when their action is being resolved, and uses that result.
@@ -29,7 +32,7 @@ Determine whether monsters and NPCs fight or flee. Two conditions usually trigge
 To determine Morale, roll 2d6. If the number is higher than any monster's Morale score, that monster flees.
 
 ### Movement
-Everyone who wants to move in the movement phases rolls Dexterity.
+Everyone who wants to move in the movement phases rolls Dexterity, sort by margin of success.
 
 ## Attacking
 When you attack someone, the target number is your relevant attack target plus the enemy's Defense. If the roll is equal or higher than the target, it's a hit.
@@ -86,13 +89,16 @@ If a character would gain a Wound and the damage is equal to their maximum HP, t
 A monster or NPC can have a number of Wounds equivalent to half their Hit Dice, rounded down (minimum one). If they suffer any more Wounds, they die instantly.
 
 ## Opportunity attacks
-Certain actions expose you to opportunity attacks from enemies in melee range from you. To avoid such an attack, roll Melee modified by the enemy's Defense. Failure means you get hit, damage equals to 10 minus the result. These actions include:
+Certain actions expose you to opportunity attacks from enemies in melee range from you. To avoid such an attack, roll Melee + the enemy's Defense. Failure means you get hit, damage equals to 10 minus the result. These actions include:
 
 - Moving out of melee range
 - Getting up when prone
 - Picking up an item from the ground
 
 A character or monster can only do one opportunity attack every round.
+
+## Gaining advantage or disadvantage
+Advantage is not granted by class abilities. Rather, players are encouraged to use the environment to gain advantage or give disadvantage to an enemy in a fight. For example: swing from a chandelier to attack from above, topple a bookshelf over an enemy to disorient them. Generally, each environmental factor only works once per fight.
 
 ## Object interactions
 Characters get one free object interaction every round. This can be done in any phase. For example: drawing a weapon, opening a door, picking up an item.
