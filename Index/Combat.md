@@ -69,9 +69,9 @@ Spell attacks are made using Intelligence.
 ## Hit Points and Wounds
 Hit Points are a measure of your stamina and ability to avoid getting seriously injured.
 
-Any damage that reduces you to below 0 Hit Points will give you a Wound. Look up the damage on the Wound Table to determine its nature.
+Any damage that reduces you to below 0 Hit Points will give you a Wound. Look up the damage on the Wound Table to determine its Severity.
 
-Each Wound takes up one Inventory slot. If all your inventory slots are filled up with Wounds or Exhaustion, you’re dead.
+Each Wound takes one Inventory per Severity. If all your inventory slots are filled up with Wounds or Exhaustion, you’re dead.
 
 ### Hit locations and attack type
 When the attacker scores a Wound, they can specify what type of attack they want to make, and where the attack is made: head, torso, right or left arm, right or left leg. Attack types are listed on the weapon's stats.
