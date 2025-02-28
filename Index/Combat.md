@@ -89,7 +89,7 @@ If a character would gain a Wound and the damage is equal to their maximum HP, t
 A monster or NPC can have a number of Wounds equivalent to half their Hit Dice, rounded down (minimum one). If they suffer any more Wounds, they die instantly.
 
 ## Opportunity attacks
-Certain actions expose you to opportunity attacks from enemies in melee range from you. To avoid such an attack, roll Melee + the enemy's Defense. Failure means you get hit, damage equals to 10 minus the result. These actions include:
+Certain actions expose you to opportunity attacks from enemies in melee range from you. To avoid such an attack, roll Melee + the enemy's Defense. Failure means you get hit, damage equals 10 minus the result. These actions include:
 
 - Moving out of melee range
 - Getting up when prone
@@ -108,16 +108,16 @@ Characters get one free object interaction every round. This can be done in any 
 Until the next Melee phase, any attack roll made against you has disadvantage if you can see the attacker.
 
 ### Feint
-Trick opponent into misdirecting their weapon, allowing the next attack against them to ignore their Defense. To determine success, roll against Cunning.
+Trick opponent into misdirecting their weapon. Roll Cunning. On successs, the next attack against them ignores their Defense.
 
 ### Grapple
-Grab your opponent. Roll against your Strength target modified by the target’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you and your opponent gain the Grappling condition. You may move with your opponent. In subsequent Melee phases, your opponent may roll Strength to break free.
+Grab your opponent. Roll Strength + the target’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you and your opponent gain the Grappling condition. You may move with your opponent. In subsequent Melee phases, your opponent may roll Strength to break free.
 
 ### Push
 When you successfully attack an opponent in melee, you can push them backwards up to 10 feet, following them as they get pushed.
 
 ### Rally
-Inspire your party by taking the lead. While moving towards the enemy, roll Courage modified by highest number of HD among the enemies. Restore a number of Hit Points among members of your party equal to the margin of success, divided as you choose.
+Inspire your party by taking the lead. While moving towards the enemy, roll Courage + the highest number of HD among the enemies. Restore a number of Hit Points among members of your party equal to the margin of success, divided as you choose.
 
 ### Shove
 Shove your opponent. Roll Strength modified by your opponent’s Defense. Failure means you get hit, damage equals 10 minus your result. If you succeed, you can shove your opponent Prone, or away from you a number of feet equal to the margin of success.

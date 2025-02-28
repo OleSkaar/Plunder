@@ -19,8 +19,11 @@ Monsters first, then players in clockwise order.
 **ML 2:** never fights unless cornered.\
 **ML 12:** never checks morale.
 
+### Movement
+Everyone who wants to move rolls Dex to see who goes first.
+
 ### Ranged attacks
-**How:** roll vs. Ranged target + enemy Dodge, Cover, and range modifiers.
+**How:** d20 vs. Ranged target + enemy Dodge, Cover, and range modifiers.
 
 **Cover**: shield (+1), half (+2), or three-quarters (+5).
 
@@ -29,14 +32,14 @@ Monsters first, then players in clockwise order.
 **Damage**: margin of success.
 
 ### Spells
-**How:** roll vs. Spells target + enemy Dodge and Cover modifiers.
+**How:** d20 vs. Spell target + enemy Dodge and Cover modifiers.
 
 **Damage**: margin of success + Magic Dice roll.
 
 ### Melee attacks
-**How:** roll vs. Melee target + enemy Parry and Dodge modifiers.
+**How:** d20 vs. Melee target + enemy Parry and Dodge modifiers.
 
-**Damage:** margin of success + Damage modifier.
+**Damage:** margin of success.
 
 ### Opportunity attacks
 **When:** moving away, picking up item, or getting up from prone.
@@ -60,7 +63,7 @@ Monsters first, then players in clockwise order.
 
 Attacker decides body part to hit. Roll on Wound table for effect.
 
-Takes 1 inventory slot.
+Take 1 inventory slot per Severity.
 
 ### Monster Wounds
 Up to 1/2 their HD, minimum one.

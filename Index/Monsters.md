@@ -1,17 +1,17 @@
-Defense (DF)
-Armor (AR)
-HD
-Attack Target (AT)
-Movement (MV)
-Str, Dex, Int, Ins, Cou, Cun
-Morale (ML)
-Alignment (AL)
-XP
-Number appearing (NA)
-Treasure Type (TT)
+Defense (DF) \
+Armor (AR) \
+Hit Dice (HD) \
+Attack Target (AT) \
+Movement (MV) \
+Str, Dex, Int, Ins, Cou, Cun \
+Morale (ML) \
+Alignment (AL) \
+Experience Points (XP) \
+Number appearing (NA) \
+Treasure Type (TT) 
 
-## Ability Targets
-Monsters use Ability Targets for ability checks and saving throws. They don't gain the other penalties and bonuses a player character would.
+## Abilities
+Monsters use Ability targets for ability checks and saving throws. They don't gain the other penalties and bonuses a player character would.
 
 ## Attacks
 Humanoid monsters will have their weapons listed, which have the same properties as those used by PCs. 
@@ -19,7 +19,7 @@ Humanoid monsters will have their weapons listed, which have the same properties
 Monster attacks may have a damage listed. In that case, roll that dice alongside the attack roll and use that number instead of the margin of success on a hit.
 
 ## Conversion from OSE
-1. Take the monster's Ascending Armor Class and divide the number between Defense and Armor, as it makes sense from the monster's description
+1. Take the monster's Ascending Armor Class and divide the number between Defense and Armor, as it makes sense from the monster's description. Defense can also be further split between Parry and Dodge.
 2. Add the armor bonus for each level of HD
 3. Take the ascending attack bonus and subtract it from 10 to get the Attack Target
 4. Replace saves with Ability Targets, adjusting the numbers as it makes sense for the monster. Higher HD monsters should have reduced Targets, roughly 1 per HD
