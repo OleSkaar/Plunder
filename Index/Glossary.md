@@ -10,11 +10,14 @@ Instinct and Intelligence
 ### Soul
 Courage and Cunning
 
+## Advantage and disdadvantage
+Roll two d20s and pick the highest if you have advantage, lowest if you have disadvantange
+
 ## Armor
 Grants extra Hit Points, and reduces the severity of Wounds.
 
 ## Bonus action
-Granted by some talents. A bonus action takes place immediately following a regular action in combat.
+Granted by some talents. A bonus action takes place immediately before or after an action in combat.
 
 ## Defense
 Determines how difficult it is to hit a target. Calculated based on the character's Dexterity and their weapon's Parry bonus. All weapons give at least +1 Parry.
@@ -35,7 +38,7 @@ Any item your character does not have equipped is packed in their inventory.
 Your character's ancestry.
 
 ## Magic Dice (MD)
-Your reserves of magical power. To cast a spell, you have to spend Magic Dice.
+Your reserves of magical power. To cast a spell, you have to spend Magic Dice or risk exhaustion.
 
 ## Margin of Failure/Success
 This is the amount by which you fail or succeed a d20 check. Most commonly used to determine attack damage. 
@@ -46,7 +49,7 @@ For example, Geldan the ranger has a ranged target of 9. He fires an arrow at a 
 A measure of an item's durability. Each item can take up to three Notches. An item with no Notches is in perfect condition, while an item with three Notches is no longer usable.
 
 ## Skills
-Special knowledge your character has. There are four skill ranks: Apprentice, Journeyman, Expert, Master.
+Actions or knowledge that requires prior training. There are four skill ranks: Apprentice, Journeyman, Expert, Master.
 
 ## Talent
 A special ability granted by your class or kin.
