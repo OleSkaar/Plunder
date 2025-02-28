@@ -56,7 +56,7 @@ For each category:
 
 ## 2. Note your ability effects
 
-Write down the stats granted by each ability. See Ability Targets for details.
+Write down the stats granted by each ability. See Abilities for details.
 
 ## 3. Class
 

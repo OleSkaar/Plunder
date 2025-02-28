@@ -19,6 +19,16 @@ The abilities are grouped by categories, Body, Mind, and Soul. Abilites in each 
   }
 )
 
+#let fourColumnTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    text(table(
+      columns: (auto, auto, auto, auto),
+      fill: fill,
+      ..args,
+    ), textSize)
+  }
+)
+
 #let threeColumnTable = tablem.with(
   render: (columns: auto, ..args) => {
     text(table(
@@ -54,7 +64,7 @@ Physical might, brawn, and constitution. Example uses: break down a door, intimi
 ### Dexterity
 Precision, speed, and technique. Example uses: Chase someone down, dodge a rolling boulder, jump across a chasm.
 
-- Dodge is added to your Defense when someone attacks you in melee
+- Dodge is added to your Defense
 
 <!--raw-typst 
 #twoColumnTable[
@@ -94,33 +104,33 @@ Perception, composure, and aim. Example uses: Hear a monster through a door, rea
 
 
 ### Intelligence 
-Logic, reasoning, and the arcane arts. Example uses: Find a hidden door or trap, convince someone with a rational argument, resist mind control.
+Logic, reasoning, and the arcane arts. Find a hidden door or trap, convince someone with a rational argument, resist mind control.
 
 - Spell is your target for all attacks with spells or magic items
 - You can pick any bonus skill. If you later gain that same skill from your class, you can pick another one at that time.
 
 
 <!--raw-typst 
-#threeColumnTable[
-| *Target* | *Spell*      | *Skills*                                   |    
-| -------  | ------------        | ------------------------------------| 
-| 18       | 13                  | Language (native) I                 | 
-| 17       | 12                  | Language (native) II                | 
-| 16       | 11                  | Language (native) III               | 
-| 15       | 10                  | Language (native) IV                | 
-| 14       | 9                   | + Language (any) II, +1       | 
-| 13       | 8                   | + Language (any) III, +2      | 
-| 12       | 7                   | + Language (any) IV, +3       | 
+#fourColumnTable[
+| *Target* | *Spell*      | *Language*                                   |  *Skills*  |
+| -------  | ------------        | ------------------------------------| |
+| 18       | 13                  | Native I                 | - |
+| 17       | 12                  | Native II                | - |
+| 16       | 11                  | Native III               | - |
+| 15       | 10                  | Native IV                | - |
+| 14       | 9                   | Native IV, any II     | +1 |
+| 13       | 8                   | Native IV, any III    | +2 |
+| 12       | 7                   | Native IV, any IV     | +3 |
 ]-->
+
+
+<!--raw-typst #colbreak() -->
 
 ## Soul
 ### Courage
 Inspiration, leadership, and steadfastness. Example uses: rally wounded comrades, make an emotional appeal, resist fear and curses.
 
-- Max retainers determines how many retainers you can have
-- Loyalty determines how likely retainers are to stick with you in danger
-
-<!--raw-typst #colbreak() -->
+- Max retainers determines how many retainers you can have, while Loyalty determines their morale
 
 <!--raw-typst 
 #threeColumnTable[

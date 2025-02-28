@@ -1,4 +1,4 @@
-Characters can carry up to 16 items and equip up to nine items. The more you carry, the slower you move, as indicated on your character sheet.
+You can carry up to 16 items and equip up to nine items. The more you carry, the slower you move, as indicated on your character sheet.
 
 ## Significant items
 Only significant items are counted towards encumbrance. Generally, an item that can be carried in one hand takes up one slot, while items that require two hands to carry take up two slots. Big or heavy items may take up three or more slots, as decided by the GM.
@@ -16,7 +16,7 @@ Small items like rings, necklaces, etc, that don't weigh anything unless carried
 Every 100 coins take up a slot.
 
 ## Expedition resources
-Items that are useful for the entire party are considered expedition resources. If one character is carrying the item, there is enough for the entire group to use. Mark one Notch for each use.
+Items that are useful for the entire party are considered expedition resources. If one character is carrying the item, there is enough for the entire group to use.
 
 ## Notches
 When an expendable item is used, or an item is damaged, it gains a Notch. When an item receives three Notches, it is depleted or destroyed. Notches can be cleared for 10% of the original item cost per dot.
@@ -26,7 +26,7 @@ When an expendable item is used, or an item is damaged, it gains a Notch. When a
 - **Expedition resources:** Mark a Notch after usage.
 - **Other gear:** If used in a way that could break or deplete it, the GM may ask you to mark a Notch.
 ## Exhaustion
-Each level of exhaustion you gain takes up a pack slot.
+Each level of exhaustion you gain takes up an inventory slot.
 
 ## Movement rates
 A character can carry a certain amount of items before they are encumbered, as indicated on their character sheets. An unencumbered character can move 120 feet in a turn, or 40 feet in a combat round. Getting encumbered means reducing this speed to the level indicated on the character sheet.

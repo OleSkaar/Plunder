@@ -22,7 +22,7 @@ At level 5, you can ignore worn and natural armor when you use this Talent.
 When you gain a new Talent, choose one from this list:
 
 ### Beastmaster
-You understand what a beast wants or fears. If you are able to help the beast with either of these things, you can make an Instinct check, with the beast's HD added as difficulty. On success, the beast becomes your loyal companion, as long as you treat it well. You can command it on a bonus action. You can only have one such companion at a time.
+You understand what a beast wants or fears. If you are able to help the beast with either of these things, you may roll Instinct + the beast's HD. On success, it becomes your loyal companion, as long as you treat it well. You can command it on a bonus action. You can only have one such companion at a time.
 
 At level 5, you can have any number of companions with total HD up to your Ranger level.
 
@@ -36,7 +36,7 @@ While standing still in dense foliage or shadows, you can choose to become invis
 Sharpening your scent, you can sense the direction of a type of beast you choose within a day’s travel. If you have an item that has been in touch with a particular beast, you can smell that individual. The scent lasts as long you concentrate on it. When you use this Talent, roll a HD. On a 3 or less, you lose the HD.
 
 ### The Seven Secrets of Herblore
-Craft useful ointments from herbs found in nature. When you are in one of these locations, you know where to look for these herbs, using Survival. Gain a number of uses of each herb equal to the margin of success. The GM may add a difficulty modifier if growth is sparse in the area.
+Craft useful ointments from herbs found in nature. When you are in one of these locations, you know where to look for these herbs, using Survival. Gain a number of uses of each herb equal to the margin of success.
 
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem
