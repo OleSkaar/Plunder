@@ -4,6 +4,8 @@ The effects on this table stack.
 
 For example, if you would take 8 damage, you gain the Bleeding Out condition and a Wound.
 
+Slots shows how many inventory slots the Wound takes.
+
 <!--raw-typst 
 #import "@preview/tablem:0.1.0": tablem
 #let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
@@ -12,7 +14,7 @@ For example, if you would take 8 damage, you gain the Bleeding Out condition and
 #let damageTable = tablem.with(
   render: (columns: auto, ..args) => {
     text(table(
-      columns: (auto, 1fr),
+      columns: (auto, 1fr, auto),
       fill: fill,
       ..args,
     ), textSize)
@@ -32,11 +34,11 @@ For example, if you would take 8 damage, you gain the Bleeding Out condition and
 
 <!--raw-typst
 #damageTable[
-|*Damage*|*Effect*|
-|---|---|
-|1-3|Gain the Bleeding Out condition.|
-|4-9|The attacker rolls on the Wound table. Gain that Wound.|
-|10+|Gain the Unconscious condition.|
+|*Damage*|*Effect*| *Slots* |
+|---|---| |
+|1-3|Gain the Bleeding Out condition.| 1 |
+|4-9|The attacker rolls on the Wound table. Gain that Wound.| 2 |
+|10+|Gain the Unconscious condition.|3|
 ]-->
 
 ## Table: Head Wounds

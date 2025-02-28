@@ -1,5 +1,5 @@
 ## Roll-over dice 
-Every dice roll is resolved by rolling a d20 versus a pre-calculated target number. No modifiers, what you roll is what you get! 
+All player rolls are resolved with a d20 versus a pre-calculated target number. No modifiers, what you roll is what you get! 
 
 ## Single-roll combat 
 A single d20 roll determines whether a combat action succeeds, how much damage is done, and when in the round this occurs.

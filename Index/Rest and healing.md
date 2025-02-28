@@ -1,10 +1,10 @@
 Resources such as HP, HD, MD, and class abilities are replenished when characters rest. In Plunder, rest is divided into three categories:
 
 ## Short rest
-A short breather between other activities, taking around 10 minutes. Replenishes abilities that refresh on a short rest, and allows players to spend Hit Dice to regain Hit Points. If a character has 0 HP, they regain 1 HP at the end of the short rest, and can spend Hit Dice to regain HP or attempt a recovery roll.
+A short breather between other activities, taking a dungeon turn. Replenishes abilities that refresh on a short rest, and allows players to spend Hit Dice to regain Hit Points. If a character has 0 HP, they regain 1 HP at the end of the short rest, and can spend Hit Dice to regain HP or attempt a recovery roll.
 
 ## Long rest
-Taking half a day to eat, rest, and sleep. After completing a long rest, players regain a number of Hit Dice equal to half their level. They can then spend this Hit Dice, and any Hit Dice left over from before resting. This Hit Dice can be used to regain Hit Points, Magic Dice, remove exhaustion, or attempt a recovery roll.
+Taking 12 hours to eat, rest, and sleep. After completing a long rest, players regain a number of Hit Dice equal to half their level. They can then spend this Hit Dice, and any Hit Dice left over from before resting. This Hit Dice can be used to regain Hit Points, Magic Dice, remove exhaustion, or attempt a recovery roll.
 
 Each item or circumstance that can provide comfort during a long rest provides a bonus HD. Examples: A good hot meal, good drink, camping gear, a campfire when it's cold out, a good book to read, and inspiring story told around the campfire.
 

@@ -207,11 +207,11 @@ All prices listed below are in silver pieces (sp).
 #propertiesTable[
 | *Name* | *Description* |
 | ---- | ---- |
-| Versatile | Can be wielded with two hands. If you do so, roll a d6 together with your attack. If you hit, use the result as damage if it's higher than the margin of success. |
-| Two-handed | Requires two hands. Roll a d10 together with your attack. If you hit, use the result as damage if it's higher than the margin of success. |
+| Versatile | Can be wielded with two hands. If you do so, roll a d4 together with your attack. On a hit, use the result as damage if it's higher than the margin of success. |
+| Two-handed | Requires two hands. Roll a d6 together with your attack. On a hit, use the result as damage if it's higher than the margin of success. |
 | Gruesome | Wounds caused by critical hits are not removed at the end of next round. |
-| Finesse | Requires using this weapon in only one hand. Using Finesse, your Melee target is Dexterity minus your Defense. Instead of margin of success, your attacks deal 2d4 damage. |
-| Thrown | You can throw this weapon to make a ranged attack (Point Blank Range 15).  |
+| Finesse | Requires using this weapon in one hand with no other weapons. Your Melee target becomes Dexterity minus your Defense. Instead of margin of success, your attacks deal 2d4 damage. |
+| Thrown | You can throw this weapon as a ranged attack (Point Blank Range 15).  |
 | Light | Can be used without disadvantage while grappling. |
 | Reach | You can use this weapon to attack someone 10 feet away. If an enemey tries to move into melee range with you, they provoke an opportunity attack from you. |
 | Bull Rush | When you Shove a creature in combat, roll a d4 and add the result to your roll. |
@@ -228,7 +228,7 @@ Items in the world can also have weapon properties. For example, a fire poker mi
 
 Each armor gives you a fixed amount of HP per level. The heavier the armor, the more HP.
 
-Armor also provides protection against Wounds. When you suffer a Wound, subtract the number for your armor type from the damage total before looking up the Wound result. If the number is negative, you don't suffer a Wound.
+Armor also provides protection against Wounds. When you take damage below 0 Hit Points, reduce the damage by your Wound Protection score. If the number is negative, you don't suffer a Wound.
 
 <!--raw-typst
 #armorTable[
