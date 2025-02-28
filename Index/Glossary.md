@@ -10,8 +10,8 @@ Instinct and Intelligence
 ### Soul
 Courage and Cunning
 
-## Advantage and disdadvantage
-Roll two d20s and pick the highest if you have advantage, lowest if you have disadvantange
+## Advantage and disadvantage
+Roll two d20s and pick the highest if you have advantage, lowest if you have disadvantange.
 
 ## Armor
 Grants extra Hit Points, and reduces the severity of Wounds.
