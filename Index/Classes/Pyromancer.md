@@ -31,9 +31,9 @@ Maximum size of the fire:
 When you gain a new Talent, choose one from this list.
 
 ### Throw fire - Spell
-Any fire you hold with Shape Fire can be thrown to a Near distance. When used as an attack, add (sum) damage on hit.
+Any fire you hold with Shape Fire can be thrown. When used as an attack, add (sum) damage on hit.
 
-Range: Near (1d), Short (2d), Medium (3d), Long (4d)
+Range: 30ft (1d), 60ft (2d), 90ft (3d), 120ft (4d)
 
 ### Engulf - Spell
 You can engulf yourself in flames, burning everything in melee range around you. The fire doesn’t hurt you. You can ignore the penalty for using a spell in melee. Add (sum) damage on hits.

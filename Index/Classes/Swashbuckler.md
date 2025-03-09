@@ -4,7 +4,7 @@ Death is not an uncommon sight in the great city states of the Screaming Sea. Of
 **Hit Dice:** d6\
 **HP per level:** 4\
 **Armor:** Leather, chain\
-**Weapons:** All swords, quarterstaff, improvised weapons, unarmed
+**Weapons:** Sword, dagger, short spear, quarterstaff, improvised weapons, unarmed
 ### Starting skills
 - Apprentice Legerdemain
 ### Equipment
@@ -14,7 +14,7 @@ You start with the following equipment:
 ## Signature Talent: The Art of Fencing
 You’re trained in swift and elegant fighting. As part of an attack, you can perform a maneuver. You can attempt any plausible maneuver you can think of. Examples:
 
-- **Disarm**. Make your opponent’s weapon fly out of their hand to near.
+- **Disarm**. Make your opponent’s weapon fly out of their hand and 10 feet away.
 - **Trip**. Cause your opponent to go prone.
 - **Feint**. Make your opponent think you’re attacking somewhere else, giving you advantage on your next attack.
 
@@ -27,7 +27,7 @@ When you gain a new Talent, choose one from this list:
 When you use this ability, add +5 to your Dodge until the end of your next turn. If someone attacks you before then and misses, you strike them in a riposte and they take damage equal to the margin of error.
 
 ### Panache
-When the group is declaring actions, you may use this ability to declare that you go first. Roll your Hit Dice and add the number to the first roll you make. If you roll a 1 on the Hit Dice, the check fails regardless of the total result.
+When the group is declaring actions, you may use this ability to declare that you go first. Roll your Hit Dice and add the number to the first roll you make. If you roll a 1 on the HD, the check fails regardless of the total result, and you lose the HD.
 
 ### Uncanny acrobatics
 Jump twice as far as normal, or do an acrobatic stunt like swing from a chandelier, slide down a bannister, or land on your feet on uneven ground, without rolling a check. When you use this ability, roll a HD. On a 1, lose the HD.

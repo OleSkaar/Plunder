@@ -15,7 +15,7 @@
 
   2025
 
-  3.0.0-beta
+  3.1.0-beta
 ]
 
 #pagebreak()

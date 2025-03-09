@@ -1,6 +1,6 @@
 Each SP of treasure brought back to town is worth 1 XP.
 
-XP is divided equally between all members of the party, including retainers. Retainers suffer a -50% penalty to the XP they receive, however, since they are just following orders.
+XP is divided equally between all members of the party, including retainers. Retainers suffer a -50% penalty to the XP they receive, however, as they are just following orders.
 
 ## XP from combat
 Defeating monsters also grants the party XP, as listed in their stat block.
