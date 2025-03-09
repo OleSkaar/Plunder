@@ -64,8 +64,6 @@
 
 #cmarker.render(read("./Index/Glossary.md"))
 
-#colbreak()
-
 #image("Images/princess-dragon-1600.jpg")
 
 #pagebreak()

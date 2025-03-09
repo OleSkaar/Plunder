@@ -1,5 +1,4 @@
-## Combat
-Sequence per combat round:
+### Combat phases:
 
 1. Monster morale
 2. Movement
@@ -34,7 +33,7 @@ Everyone who wants to move rolls Dex to see who goes first.
 ### Spells
 **How:** d20 vs. Spell target + enemy Dodge and Cover modifiers.
 
-**Damage**: margin of success + Magic Dice roll.
+**Damage**: margin of success + MD roll.
 
 ### Melee attacks
 **How:** d20 vs. Melee target + enemy Parry and Dodge modifiers.

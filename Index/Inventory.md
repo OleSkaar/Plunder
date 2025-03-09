@@ -4,7 +4,7 @@ You can carry up to 16 items and equip up to nine items. The more you carry, the
 Only significant items are counted towards encumbrance. Generally, an item that can be carried in one hand takes up one slot, while items that require two hands to carry take up two slots. Big or heavy items may take up three or more slots, as decided by the GM.
 
 ### Equipped items
-Items that you are holding, or have somewhere readily available on your person. These can be freely used in combat. Equipped items also include armor.
+Items that you are holding, wearing, or have somewhere readily available on your person. These can be freely used in combat.
 
 ### Inventory
 Items that you carry in your pack. These take an action to retrieve in combat.
@@ -19,7 +19,7 @@ Every 100 coins take up a slot.
 Items that are useful for the entire party are considered expedition resources. If one character is carrying the item, there is enough for the entire group to use.
 
 ## Notches
-When an expendable item is used, or an item is damaged, it gains a Notch. When an item receives three Notches, it is depleted or destroyed. Notches can be cleared for 10% of the original item cost per dot.
+When an expendable item is used, or an item is damaged, it gains a Notch. When an item receives three Notches, it is depleted or destroyed. Notches can be cleared for 10% of the original item cost.
 
 - **Weapons and armor:** Weapons gain Notches on Fumbles (rolling a natural 1 on use). Armors gain Notches when protecting from Wounds.
 - **Ammunition:** After a fight, roll a d6. On 4-6, mark a Notch on the ammunition.
@@ -29,4 +29,4 @@ When an expendable item is used, or an item is damaged, it gains a Notch. When a
 Each level of exhaustion you gain takes up an inventory slot.
 
 ## Movement rates
-A character can carry a certain amount of items before they are encumbered, as indicated on their character sheets. An unencumbered character can move 120 feet in a turn, or 40 feet in a combat round. Getting encumbered means reducing this speed to the level indicated on the character sheet.
+A character can carry a certain amount of items before they are encumbered, as indicated on their character sheets. Getting encumbered means reducing this speed to the level indicated on the character sheet.

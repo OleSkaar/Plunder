@@ -124,13 +124,13 @@ Logic, reasoning, and the arcane arts. Find a hidden door or trap, convince some
 ]-->
 
 
-<!--raw-typst #colbreak() -->
-
 ## Soul
 ### Courage
 Inspiration, leadership, and steadfastness. Example uses: rally wounded comrades, make an emotional appeal, resist fear and curses.
 
 - Max retainers determines how many retainers you can have, while Loyalty determines their morale
+
+<!--raw-typst #colbreak() -->
 
 <!--raw-typst 
 #threeColumnTable[

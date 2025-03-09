@@ -1,4 +1,4 @@
-Time in the dungeon is divided into turns, which are roughly 10 minutes long. Each turn follows this sequence:
+Time in the dungeon is divided into turns, follwing this sequence:
 1. Wandering monsters
 2. The party describes their actions
 3. Actions are resolved and their results described by the GM
@@ -26,13 +26,9 @@ The character's movement speed in the dungeon assumes that they are moving caref
 Every six turns, the party has to take a short rest or gain one level of exhaustion.
 
 ## Traps
-There are two kinds of traps:
-- Room traps
-- Treasure traps
-
 Characters have a 2-in-6 chance of triggering a trap when they take an action that could trigger it.
 
-## Searching for traps
+### Searching for traps
 Room traps can be found with a successful Intelligence check. Treasure traps require a successful Burglary skill.
 
 ## Wandering monsters

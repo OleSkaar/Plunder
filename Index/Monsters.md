@@ -1,14 +1,14 @@
-Defense (DF) \
-Armor (AR) \
-Hit Dice (HD) \
-Attack Target (AT) \
-Movement (MV) \
-Str, Dex, Int, Ins, Cou, Cun \
-Morale (ML) \
-Alignment (AL) \
-Experience Points (XP) \
-Number appearing (NA) \
-Treasure Type (TT) 
+Defense (DF),
+Armor (AR),
+Hit Dice (HD),
+Attack Target (AT),
+Movement (MV),
+Str, Dex, Int, Ins, Cou, Cun,
+Morale (ML),
+Alignment (AL),
+Experience Points (XP),
+Number appearing (NA),
+Treasure Type (TT)
 
 ## Abilities
 Monsters use Ability targets for ability checks and saving throws. They don't gain the other penalties and bonuses a player character would.
