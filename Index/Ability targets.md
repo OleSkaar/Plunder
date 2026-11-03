@@ -1,6 +1,6 @@
-Abilities measure your character's physical and mental characteristics. They are used to resolve most actions in the game that require dice rolls.
+Ability modifiers measure your character's physical and mental characteristics. They are used to resolve most actions in the game that require dice rolls.
 
-An ability target can range from 12 to 18. To resolve an ability check, you need to roll equal to or higher than your target on a d20. In other words, lower ability targets are better!
+To resolve an ability check, you need to roll equal to or higher than the task's DC on a d20, adding your ability modifier.
 
 The abilities are grouped by categories, Body, Mind, and Soul. Abilites in each category are defined in opposition to each other. Characters are typically good at one or the other, not both.
 
@@ -41,125 +41,84 @@ The abilities are grouped by categories, Body, Mind, and Soul. Abilites in each 
 -->
 
 ## Body
-### Strength 
+### Strength (Str)
 Physical might, brawn, and constitution. Example uses: break down a door, intimidate someone, resist poison and disease.
 
-- Melee target is used for melee attacks
+- Your Str modifier is added to your melee attacks
 
-<!--raw-typst 
-#twoColumnTable[
-| *Target* | *Melee target*  |
-| -------  | ---------       |
-| 18       | 13              |
-| 17       | 12              |
-| 16       | 11              |
-| 15       | 10              |
-| 14       | 9               |
-| 13       | 8               |
-| 12       | 7               |
-]-->
-
-
-
-### Dexterity
+### Dexterity (Dex)
 Precision, speed, and technique. Example uses: Chase someone down, dodge a rolling boulder, jump across a chasm.
 
-- Dodge is added to your Defense
-
-<!--raw-typst 
-#twoColumnTable[
-| *Target* | *Dodge*  |
-| -------  | -------- |
-| 18       | -3       |
-| 17       | -2       |
-| 16       | -1       |
-| 15       | +0       |
-| 14       | +1       |
-| 13       | +2       |
-| 12       | +3       |
-]-->
-
-
+- Your Dex modifier is added to your Defense
 
 ## Mind
 
-### Instinct
+### Instinct (Ins)
 Perception, composure, and aim. Example uses: Hear a monster through a door, read someone's hidden intent, resist paralysis.
 
-- Ranged is your target for all attacks with ranged or thrown weapons
+- Your Ins modifier is added to your ranged attacks
+
+
+### Intelligence (Int)
+Logic, reasoning, and the arcane arts. Find a hidden door or trap, convince someone with a rational argument, resist mind control.
+
+- Your Int modifier is added to your ranged attacks
+
 
 <!--raw-typst 
 #twoColumnTable[
-| *Target* | *Ranged target* |
-| -------  | ----            |
-| 18       | 13              |
-| 17       | 12              |
-| 16       | 11              |
-| 15       | 10              |
-| 14       | 9               |
-| 13       | 8               |
-| 12       | 7               |
+| *Modifier* | *Language*              |
+| -------  |  -------------------------|
+| -3       |  Native I                 |
+| -2       |  Native II                |
+| -1       |  Native III               |
+| +0       |  Native IV                |
+| +1       |  Native IV, any II        |
+| +2       |  Native IV, any III       |
+| +3       |  Native IV, any IV        |
 ]-->
 
-
-
-### Intelligence 
-Logic, reasoning, and the arcane arts. Find a hidden door or trap, convince someone with a rational argument, resist mind control.
-
-- Spell is your target for all attacks with spells or magic items
-- You can pick any bonus skill. If you later gain that same skill from your class, you can pick another one at that time.
-
-
-<!--raw-typst 
-#fourColumnTable[
-| *Target* | *Spell*      | *Language*                                   |  *Skills*  |
-| -------  | ------------        | ------------------------------------| |
-| 18       | 13                  | Native I                 | - |
-| 17       | 12                  | Native II                | - |
-| 16       | 11                  | Native III               | - |
-| 15       | 10                  | Native IV                | - |
-| 14       | 9                   | Native IV, any II     | +1 |
-| 13       | 8                   | Native IV, any III    | +2 |
-| 12       | 7                   | Native IV, any IV     | +3 |
-]-->
-
+<!--raw-typst #colbreak() -->
 
 ## Soul
-### Courage
+### Courage (Cou)
 Inspiration, leadership, and steadfastness. Example uses: rally wounded comrades, make an emotional appeal, resist fear and curses.
 
 - Max retainers determines how many retainers you can have, while Loyalty determines their morale
 
-<!--raw-typst #colbreak() -->
+
 
 <!--raw-typst 
 #threeColumnTable[
-| *Target* | *Max retainers* | *Loyalty* |
+| *Modifier* | *Max retainers* | *Loyalty* |
 | -------  | -------------   | -------   |
-| 18       | 1               | 4         |
-| 17       | 2               | 5         |
-| 16       | 3               | 6         |
-| 15       | 4               | 7         |
-| 14       | 5               | 8         |
-| 13       | 6               | 9         |
-| 12       | 7               | 10        |
+| -3       | 1               | 4         |
+| -2       | 2               | 5         |
+| -1       | 3               | 6         |
+| +0       | 4               | 7         |
+| +1       | 5               | 8         |
+| +2       | 6               | 9         |
+| +3       | 7               | 10        |
 ]-->
 
-### Cunning
+
+### Cunning (Cun)
 Stealth, trickery, and charm. Example uses: sneak past a guard, trick a goblin that you're on his side, see through charms and illusions.
 
 - The Reaction bonus is added by the GM to the NPC reaction roll. Only the party's highest bonus is used.
 
 <!--raw-typst 
 #twoColumnTable[
-| *Target* | *Reaction*      |
+| *Modifier* | *Reaction*      |
 | -------  | -------------   |
-| 18       | -1d4            |
-| 17       | -1d3            |
-| 16       | -1d2            |
-| 15       | -               |
-| 14       | +1d2            |
-| 13       | +1d3            |
-| 12       | +1d4            |
+| -3       | -1d4            |
+| -2       | -1d3            |
+| -1       | -1d2            |
+| +0       | -               |
+| +1       | +1d2            |
+| +2       | +1d3            |
+| +3       | +1d4            |
 ]-->
 
+<!--raw-typst #colbreak() -->
+*[Illustration placeholder]*
