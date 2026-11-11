@@ -13,9 +13,9 @@
   
   A lightweight system for old school RPG modules.
 
-  2025
+  2026
 
-  3.1.0-beta
+  4.0.0-beta
 ]
 
 #pagebreak()
@@ -90,7 +90,7 @@
   ],
 )
 
-#cmarker.render(((read("./Index/Ability targets.md"))))
+#cmarker.render(((read("Index/Ability modifiers.md"))))
 
 #pagebreak()
 
@@ -196,18 +196,18 @@
 )
 
 #place(top, float: true, scope: "parent", progressionTable[
-| *Level* | *XP*    | *Targets* | *Save bonus* | *Feature*  |
+| *Level* | *XP*    | *Combat bonus* | *Save bonus* | *Feature*  |
 | ------- | ------- | --        | ----------- | ---------- |
 | 1       | 0       | 0         | -           | Talent     |
 | 2       | 2000    | 0         | -           | Talent     |
 | 3       | 4000    | 0         | -           | Skill rank |
-| 4       | 8000    | -2        | d4          | -          |
-| 5       | 16000   | -2        | d4          | Talent     |
-| 6       | 32000   | -2        | d4          | Skill rank |
-| 7       | 64000   | -5        | d8          | -          |
-| 8       | 120000  | -5        | d8          | Talent     |
-| 9       | 240000  | -5        | d8          | Skill rank |
-| 10      | 360000  | -7        | d12         | Talent     |
+| 4       | 8000    | +2        | d4          | -          |
+| 5       | 16000   | +2        | d4          | Talent     |
+| 6       | 32000   | +2        | d4          | Skill rank |
+| 7       | 64000   | +5        | d8          | -          |
+| 8       | 120000  | +5        | d8          | Talent     |
+| 9       | 240000  | +5        | d8          | Skill rank |
+| 10      | 360000  | +7        | d12         | Talent     |
 ])
 
 #pagebreak()
@@ -262,6 +262,18 @@
   ],
 )
 #cmarker.render((read("./Index/Spellcasting.md")))
+
+#pagebreak()
+
+#place(
+  top,
+  float: true,
+  scope: "parent",
+  text()[
+    = Skills
+  ],
+)
+#cmarker.render((read("./Index/Skills.md")))
 
 #pagebreak()
 
@@ -337,3 +349,5 @@
   ],
 )
 #cmarker.render((read("./Index/Quick reference.md")))
+
+

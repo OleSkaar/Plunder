@@ -63,6 +63,7 @@ Perception, composure, and aim. Example uses: Hear a monster through a door, rea
 Logic, reasoning, and the arcane arts. Find a hidden door or trap, convince someone with a rational argument, resist mind control.
 
 - Your Int modifier is added to your ranged attacks
+- Intelligence determines your starting language proficiencies:
 
 
 <!--raw-typst 
@@ -86,8 +87,6 @@ Inspiration, leadership, and steadfastness. Example uses: rally wounded comrades
 
 - Max retainers determines how many retainers you can have, while Loyalty determines their morale
 
-
-
 <!--raw-typst 
 #threeColumnTable[
 | *Modifier* | *Max retainers* | *Loyalty* |
@@ -105,7 +104,7 @@ Inspiration, leadership, and steadfastness. Example uses: rally wounded comrades
 ### Cunning (Cun)
 Stealth, trickery, and charm. Example uses: sneak past a guard, trick a goblin that you're on his side, see through charms and illusions.
 
-- The Reaction bonus is added by the GM to the NPC reaction roll. Only the party's highest bonus is used.
+- The Reaction bonus of the character closest to an NPC is added by the GM to their reaction roll
 
 <!--raw-typst 
 #twoColumnTable[

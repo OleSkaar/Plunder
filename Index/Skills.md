@@ -1,3 +1,5 @@
+TODO: Update for this branch
+
 Skills represent fields of knowledge that your character is familiar with. That means you have a general knowledge of the field, and can easily complete tasks relevant to the skill.
 
 If the GM rules that it's uncertain that you will succeed at a task, they may ask you to roll a skill check. The target number is decided by your rank.
@@ -11,7 +13,7 @@ There are four ranks for a skill: Apprentice, Journeyman, Expert, and Master.
 | Expert | 9 |
 | Master | 5 |
 
-For instance, Milos the rogue is a Journeyman burglar, and they want to pick the lock of a chest. They have a Dexterity of 16. To succeed, they need to roll 11 or higher.
+For instance, Misha the rogue is a Journeyman burglar, and they want to pick the lock of a chest. They have a Dexterity of 16. To succeed, they need to roll 11 or higher.
 
 A roll of 1 is always a failure.
 

@@ -22,10 +22,10 @@ Granted by some talents. A bonus action takes place immediately before or after 
 ## Defense
 Determines how difficult it is to hit a target. Calculation: 10 + Dex bonus + Parry bonus.
 
-## Difficulty Class
+## Difficulty Class (DC)
 A target number for a d20 check, determining how difficult it is to complete a given task.
 
-For example, Torbane the berserker has a Strength modifier of +2. To force open a stuck door, a task with DC 12, he needs to roll 12 or higher on a d20.
+For example, Torbane the berserker has a Strength modifier of +2. To force open a stuck door, a task with DC 12, he needs to roll 15 or higher on a d20.
 
 ## Exhaustion
 A measurement of your character's fatigue. Takes up one inventory slot.
@@ -45,10 +45,10 @@ Your character's ancestry.
 ## Magic Dice (MD)
 Your reserves of magical power. To cast a spell, you have to spend Magic Dice or risk exhaustion.
 
-## Margin of Failure/Success
+## Margin of Failure or Success
 This is the amount by which you fail or succeed a d20 check. Most commonly used to determine attack damage. 
 
-For example, Geldan the ranger has a Ranged attack bonus of +1. He fires an arrow at a goblin with Defense 12. He rolls a 14 on a d20, for a total of 15. His margin of success is 15 - 11 = 4, so the attack does 4 damage.
+For example, Geldan the ranger has a Ranged attack bonus of +1. He fires an arrow at a brigand with Defense 12. He rolls a 14 on a d20, for a total of 15. His margin of success is 15 - 11 = 4, so the attack does 4 damage.
 
 ## Notch
 A measure of an item's durability. Each item can take up to three Notches. An item with no Notches is in perfect condition, while an item with three Notches is no longer usable.

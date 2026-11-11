@@ -1,4 +1,4 @@
-_Through the darkness of future past,
+ b xcvrscbcthvfgbv _Through the darkness of future past,
 the magician longs to see. 
 One chants out between two worlds:_
 

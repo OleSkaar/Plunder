@@ -18,11 +18,13 @@ In combat, you may perform a Battle Cry instead of a melee attack. A Battle Cry 
 - **Distract**. Create an opening for your ally to escape an enemy’s reach. Roll against the target’s Defense. The ally can add the result to their Dexterity roll to get away from Melee range.
 
 Starting on level 5, you can use a Battle Cry as a bonus action.
+
 ## Talents
 When you gain a new Talent, choose one from this list:
+
 ### Natural leader
 
-After your party has accomplished a heroic deed, you may make an appeal in the nearest town, asking for volunteers to join your adventures. Roll Courage.
+After your party has accomplished a heroic deed, you may make an appeal in the nearest town, asking for volunteers to join your adventures. Roll a DC 15 Courage check:
 
 
 <!--raw-typst 
@@ -44,9 +46,9 @@ After your party has accomplished a heroic deed, you may make an appeal in the n
 #leaderTable[
 | *Margin of success* | *Result* |
 | ---- | ---- |
-| 2 - 4 | Gain a non-fighting retainer |
-| 5 - 10 | Gain a fighting follower, level 1 |
-| 10+  | Gain result's worth of retainers, 50% non-fighting and 50% fighting  |
+| 1 - 4 | Gain a non-fighting retainer |
+| 5 - 7 | Gain a fighting follower, level 1 |
+| 8+  | Gain result's worth of retainers, 50% non-fighting and 50% fighting  |
 ]-->
 
 ### Lead the charge
@@ -54,7 +56,9 @@ If you move and attack an enemy in the same round, you may Rally as a bonus acti
 
 ### Oathbind
 If you publicly swear an oath to complete a quest, you will be bound to it. While you are bound, when you make a dice roll that will directly help complete the quest, you may instead decide the result of the roll. Once you’ve used this ability to decide a roll, you can’t do so again until you’ve seen the light of a new day.
+
 ### Marshal
-Muster your followers when they’re out of the fight. Roll Courage, and note the margin of success. Starting with the follower with the highest HD, return them to the fight, then subtract their score from your result before comparing it to the next follower. Once this talent has been used, it can't be used again until you and your followers have completed a long rest.
+Muster your followers when they’re out of the fight. Roll a DC 15 Courage check, and note the margin of success. Starting with the follower with the highest HD, return them to the fight, then subtract their score from your result before comparing it to the next follower. Once this talent has been used, it can't be used again until you and your followers have completed a long rest.
+
 ### Tough it
 When you use this ability, you can ignore the effect of a Wound until the next rest. Then, you gain a level of exhaustion.
