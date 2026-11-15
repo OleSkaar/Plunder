@@ -22,7 +22,7 @@ At level 5, you can ignore worn and natural armor when you use this Talent.
 When you gain a new Talent, choose one from this list:
 
 ### Beastmaster
-You understand what a beast wants or fears. If you are able to help the beast with either of these things, you may roll Instinct + the beast's HD. On success, it becomes your loyal companion, as long as you treat it well. You can command it on a bonus action. You can only have one such companion at a time.
+You understand what a beast wants or fears. If you are able to help the beast with either of these things, you may roll Instinct with a DC of 10 + the beast's HD. On success, it becomes your loyal companion, as long as you treat it well. You can command it on a bonus action. You can only have one such companion at a time.
 
 At level 5, you can have any number of companions with total HD up to your Ranger level.
 
