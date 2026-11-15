@@ -1,10 +1,57 @@
-TODO: Update for this branch
+TO BE REWORKED
+
+<!--raw-typst 
+#import "@preview/tablem:0.1.0": tablem
+#let fill = (_, y) => if calc.odd(y) { rgb("EAF2F5") }
+#let textSize = 12pt
+
+#let twoColumnTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    text(table(
+      columns: (1fr, 1fr),
+      fill: fill,
+      ..args,
+    ), textSize)
+  }
+)
+
+#let fourColumnTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    text(table(
+      columns: (auto, auto, auto, auto),
+      fill: fill,
+      ..args,
+    ), textSize)
+  }
+)
+
+#let threeColumnTable = tablem.with(
+  render: (columns: auto, ..args) => {
+    text(table(
+      columns: (auto, auto, 1fr),
+      fill: fill,
+      ..args,
+    ), textSize)
+  }
+)
+-->
 
 Skills represent fields of knowledge that your character is familiar with. That means you have a general knowledge of the field, and can easily complete tasks relevant to the skill.
 
 If the GM rules that it's uncertain that you will succeed at a task, they may ask you to roll a skill check. The target number is decided by your rank.
 
 There are four ranks for a skill: Apprentice, Journeyman, Expert, and Master.
+
+
+<!--raw-typst 
+#twoColumnTable[
+| *Level* | *Modifier*      |
+| -------  | -------------   |
+| Apprentice | +2            |
+| -2       | -1d3            |
+| -1       | -1d2            |
+| +0       | -               |
+]-->
 
 | Level | Target Number |
 | ---- | ---- |

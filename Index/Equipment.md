@@ -210,7 +210,7 @@ All prices listed below are in silver pieces (sp).
 | Versatile | Can be wielded with two hands. If you do so, roll a d4 together with your attack. On a hit, use the result as damage if it's higher than the margin of success. |
 | Two-handed | Requires two hands. Roll a d6 together with your attack. On a hit, use the result as damage if it's higher than the margin of success. |
 | Gruesome | Wounds caused by critical hits are not removed at the end of next round. |
-| Finesse | Requires using this weapon in one hand with no other weapons. Your Melee target becomes Dexterity minus your Defense. Instead of margin of success, your attacks deal 2d4 damage. |
+| Finesse | Requires using this weapon in one hand with no other weapons. Use your Dexterity bonus instead of your Strength bonus for melee attacks. Instead of margin of success, your attacks deal 2d4 damage. |
 | Thrown | You can throw this weapon as a ranged attack (Point Blank Range 15).  |
 | Light | Can be used without disadvantage while grappling. |
 | Reach | You can use this weapon to attack someone 10 feet away. If an enemey tries to move into melee range with you, they provoke an opportunity attack from you. |
